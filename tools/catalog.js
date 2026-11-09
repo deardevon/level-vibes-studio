@@ -106,6 +106,7 @@ const CAROUSELS = [
 
 // Single images with a caption file next to them (header lines, a blank line, then the caption)
 const SINGLES = [
+  ['reel-1-2-announcement', 'Level Vibes 1.2 announcement reel (after 1.2)', ['Level Vibes 1.2/Level Vibes 1.2 announcement reel.mp4'], 'Level Vibes 1.2/Level Vibes 1.2 announcement reel - caption.txt', '1.2, update, announcement, executive dysfunction, new feature, reel, animation'],
   ['img-1-2-announcement', 'Level Vibes 1.2 announcement (after 1.2)', ['Level Vibes 1.2/Level Vibes 1.2 announcement (feed).png', 'Level Vibes 1.2/Level Vibes 1.2 announcement (story).png'], 'Level Vibes 1.2/Level Vibes 1.2 announcement - caption.txt', '1.2, update, announcement, executive dysfunction, new feature'],
   ['img-level-1-not-lazy', "Level 1 days aren't lazy days", ["Single posts/Level 1 days aren't lazy days.png"], "Single posts/Level 1 days aren't lazy days - caption.txt", 'level 1, low energy, rest, save this, quote'],
   ['img-adhd-1', 'Things I built because of my ADHD #1: No streaks', ['Single posts/Built because of my ADHD 1 - No streaks.png'], 'Single posts/Built because of my ADHD 1 - No streaks - caption.txt', 'adhd, my story, features, series'],
@@ -174,7 +175,7 @@ function build() {
   });
   for (const [id, title, files, cap, tags] of SINGLES) {
     const lines = fs.readFileSync(MK + S + cap, 'utf8').replace(/\r/g, '').split('\n');
-    add({ id, title, type: 'image', files: files.map((x) => S + x), ...split(lines.slice(lines.indexOf('') + 1)), tags });
+    add({ id, title, type: files[0].endsWith('.mp4') ? 'reel' : 'image', files: files.map((x) => S + x), ...split(lines.slice(lines.indexOf('') + 1)), tags });
   }
   // Content-list carousels: slides 01.png, 02.png... and Caption.txt (header lines, a blank
   // line, then the caption and hashtags) all in one folder under Social 1.1/Carousels

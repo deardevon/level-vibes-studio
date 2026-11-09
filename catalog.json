@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-09T15:20:27.465Z",
+ "updated": "2026-11-09T15:25:19.392Z",
  "items": [
+  {
+   "tags": [
+    "1.2",
+    "update",
+    "announcement",
+    "executive dysfunction",
+    "new feature",
+    "reel",
+    "animation"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#executivedysfunction",
+    "#adhd",
+    "#gettingstarted",
+    "#neurodivergent"
+   ],
+   "id": "reel-1-2-announcement",
+   "title": "Level Vibes 1.2 announcement reel (after 1.2)",
+   "type": "reel",
+   "caption": "I made Level Vibes for my ADHD brain. But some days I know exactly what to do and still can't start. For me, that's executive dysfunction, so Level Vibes 1.2 is all about getting started. 💚\n\nJust 2 minutes, a tiny first step for anything, a 3, 2, 1 before every timer, starting straight from the daily nudge, and asking your household for company.\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-1-2-announcement/Level-Vibes-1.2-announcement-reel.mp4",
+     "kind": "video",
+     "name": "Level Vibes 1.2 announcement reel.mp4"
+    }
+   ],
+   "created": "2026-11-09T15:24:44.309Z",
+   "thumb": "thumbs/reel-1-2-announcement.jpg"
+  },
   {
    "tags": [
     "adhd",
