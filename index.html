@@ -39,6 +39,8 @@
   .meta { display: flex; justify-content: space-between; align-items: center; color: var(--soft); font-size: 15px; padding: 12px 0 4px; }
   .meta label { display: flex; align-items: center; gap: 6px; cursor: pointer; }
   .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; padding: 8px 0 40px; }
+  .card { -webkit-touch-callout: none; -webkit-user-select: none; user-select: none; touch-action: manipulation; }
+  .card img { -webkit-touch-callout: none; pointer-events: none; }
   .card { background: var(--bg2); border-radius: 14px; overflow: hidden; cursor: pointer; border: 1px solid var(--line); position: relative; text-align: left; padding: 0; }
   .card img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; display: block; background: var(--bg3); }
   .card .t { padding: 8px 10px 10px; font-size: 16px; line-height: 1.15; }
@@ -209,13 +211,41 @@ function open(id) {
     if (b.dataset.copy) copy(texts[b.dataset.copy], b.dataset.copy[0].toUpperCase() + b.dataset.copy.slice(1));
     else if (b.dataset.save) save([it.media[+b.dataset.save]]);
     else if ('saveall' in b.dataset) save(it.media);
-    else if ('posted' in b.dataset) { posted[it.id] ? delete posted[it.id] : (posted[it.id] = Date.now()); store.set('lvs-posted', posted); open(it.id); render(); }
+    else if ('posted' in b.dataset) { togglePosted(it.id); open(it.id); }
     else if (b.dataset.tag) { $('q').value = b.dataset.tag; history.back(); render(); }
   };
   $('sheet').classList.add('open');
   $('sheet').scrollTop = 0;
   document.body.style.overflow = 'hidden';
 }
+function togglePosted(id) {
+  posted[id] ? delete posted[id] : (posted[id] = Date.now());
+  store.set('lvs-posted', posted);
+  render();
+  return !!posted[id];
+}
+
+// Press and hold a card to mark it posted (or not); a short tap still opens it
+function holdToMark(grid) {
+  let timer = null, held = false, sx = 0, sy = 0;
+  const cancel = () => { clearTimeout(timer); timer = null; };
+  grid.addEventListener('pointerdown', (e) => {
+    const card = e.target.closest('.card'); if (!card) return;
+    held = false; sx = e.clientX; sy = e.clientY;
+    timer = setTimeout(() => {
+      held = true;
+      const on = togglePosted(card.dataset.id);
+      if (navigator.vibrate) navigator.vibrate(30);
+      toast(on ? '✓ Marked as posted' : 'Marked as not posted');
+    }, 550);
+  });
+  grid.addEventListener('pointermove', (e) => { if (timer && Math.hypot(e.clientX - sx, e.clientY - sy) > 10) cancel(); });
+  ['pointerup', 'pointercancel', 'pointerleave'].forEach((ev) => grid.addEventListener(ev, cancel));
+  grid.addEventListener('contextmenu', (e) => { if (e.target.closest('.card')) e.preventDefault(); });
+  // Swallow the click that follows a hold, so the post doesn't open
+  grid.addEventListener('click', (e) => { if (held) { e.stopImmediatePropagation(); e.preventDefault(); held = false; } }, true);
+}
+
 function close() { $('sheet').classList.remove('open'); document.body.style.overflow = ''; $('sheet').querySelectorAll('video').forEach((v) => v.pause()); }
 
 function route() { const id = decodeURIComponent(location.hash.slice(1)); id ? open(id) : close(); }
@@ -230,6 +260,7 @@ async function start() {
   $('q').oninput = render;
   $('hidePosted').checked = store.get('lvs-hide', false);
   $('hidePosted').onchange = () => { store.set('lvs-hide', $('hidePosted').checked); render(); };
+  holdToMark($('grid'));
   $('grid').onclick = (e) => { const c = e.target.closest('.card'); if (c) location.hash = c.dataset.id; };
   $('back').onclick = () => (history.length > 1 ? history.back() : (location.hash = ''));
   window.onhashchange = route;
