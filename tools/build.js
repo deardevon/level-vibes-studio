@@ -18,15 +18,20 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
     const dir = path.join(ROOT, 'media', it.id);
     fs.mkdirSync(dir, { recursive: true });
     it.media = [];
+    let created = Infinity;
     for (const rel of it.files) {
       const src = MK + rel;
       if (!fs.existsSync(src)) { missing.push(rel); continue; }
+      const st = fs.statSync(src);
+      created = Math.min(created, st.birthtimeMs || st.mtimeMs);
       const name = safe(path.basename(rel));
       const dest = path.join(dir, name);
       if (!fs.existsSync(dest) || fs.statSync(dest).size !== fs.statSync(src).size) fs.copyFileSync(src, dest);
       it.media.push({ src: `media/${it.id}/${name}`, kind: isVideo(rel) ? 'video' : 'image', name: path.basename(rel) });
     }
     delete it.files;
+    // When it was made: the earliest of its files
+    if (created < Infinity) it.created = new Date(created).toISOString();
     // Preview for the grid, from the first file
     const first = it.media[0];
     if (!first) continue;
@@ -45,6 +50,8 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
     }
     it.thumb = `thumbs/${it.id}.jpg`;
   }
+  // Newest first
+  items.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
   fs.writeFileSync(path.join(ROOT, 'catalog.json'), JSON.stringify({ updated: new Date().toISOString(), items }, null, 1));
   console.log(`${items.length} posts, ${items.reduce((a, i) => a + i.media.length, 0)} files`);
   if (missing.length) console.log('MISSING:\n' + missing.join('\n'));
