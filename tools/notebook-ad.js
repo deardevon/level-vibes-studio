@@ -74,10 +74,10 @@ async function make(file, w, h, top) {
   T([['I have '], ['ADHD', 'g'], [' and I’m '], ['autistic', 'g'], [',']]);
   T([['and my house is always '], ['a mess', 'r'], ['.']], 64, SEMI, L + 26);
   T([['Not because I don’t care.']], 64, SEMI, L);
-  T([['Because '], ['deciding', 'y'], [' where to start']]);
+  T([['It’s because '], ['getting started', 'y']]);
   T([['is the hardest part.']], 64, SEMI, L + 26);
-  T([['So I made an app that picks']]);
-  T([['ONE thing', 'g'], [' for me.']]);
+  T([['So I made an app that gives me']]);
+  T([['a place to start', 'g'], [': ONE thing.']]);
   T([['Laundry. Dishes. Dinner.']], 64, SEMI, L + 26);
   T([['It’s free. It’s called '], ['Level Vibes', 'y'], ['.']], 68, BOLD, L + 8);
   T([['Made by someone who gets it.']], 60, SEMI);
