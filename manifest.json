@@ -1,6 +1,6 @@
 {
   "name": "Level Vibes Studio",
-  "short_name": "LV Studio",
+  "short_name": "Studio",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
