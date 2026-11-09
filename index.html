@@ -70,6 +70,7 @@
   .toast.show { opacity: 1; }
 
   /* Passcode */
+  .gate[hidden] { display: none; }
   .gate { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; background: var(--bg); z-index: 30; padding: 16px; }
   .gate form { width: 100%; max-width: 320px; text-align: center; }
   .gate p { color: var(--soft); }
@@ -153,10 +154,13 @@ async function save(list) {
 function words(q) {
   return q.toLowerCase().split(/[\s,]+/).filter(Boolean).map((w) => (SYNONYMS.find((g) => g.includes(w)) || [w]));
 }
+// Whole words only for short ones ("ad" mustn't match "read"); longer ones match word starts too
+// ("workout" finds "workouts")
+const wordRe = (w) => new RegExp('(^|[^a-z0-9])' + w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + (w.length < 4 ? '($|[^a-z0-9])' : ''));
 function matches(it, groups) {
   if (!groups.length) return true;
   const hay = [it.title, it.type, it.caption, it.headline || '', ...(it.tags || []), ...(it.hashtags || [])].join(' ').toLowerCase();
-  return groups.every((g) => g.some((w) => hay.includes(w)));
+  return groups.every((g) => g.some((w) => wordRe(w).test(hay)));
 }
 
 function render() {
