@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Level Vibes Studio</title>
+<meta name="robots" content="noindex, nofollow" />
+<link rel="manifest" href="manifest.json" />
+<link rel="apple-touch-icon" href="icon-180.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="LV Studio" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="theme-color" content="#222624" />
+<style>
+  @font-face { font-family: BC; font-weight: 300; font-display: swap; src: url(fonts/BarlowCondensed_300Light.ttf); }
+  @font-face { font-family: BC; font-weight: 400; font-display: swap; src: url(fonts/BarlowCondensed_400Regular.ttf); }
+  @font-face { font-family: BC; font-weight: 500; font-display: swap; src: url(fonts/BarlowCondensed_500Medium.ttf); }
+  :root {
+    --bg: #222624; --bg2: #2B302D; --bg3: #343A36; --ink: #F1EEE8; --soft: #A9AEA9; --line: #474D49;
+    --l1: #3F8C6F; --l2: #F0BF2A; --l3: #FF5A5A; --on: #141715;
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; background: var(--bg); color: var(--ink); font-family: BC, system-ui, sans-serif; font-size: 18px; }
+  body { padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom); min-height: 100vh; }
+  button, input { font: inherit; color: inherit; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+  header { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 12px 0 10px; border-bottom: 1px solid var(--line); }
+  h1 { font-weight: 500; font-size: 26px; margin: 0 0 10px; display: flex; align-items: center; gap: 10px; }
+  h1 .dots { display: inline-flex; gap: 4px; } h1 .dots i { width: 10px; height: 10px; border-radius: 3px; display: block; }
+  .search { width: 100%; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--bg2); font-size: 19px; outline: none; }
+  .search:focus { border-color: var(--l2); }
+  .row { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 2px; scrollbar-width: none; }
+  .row::-webkit-scrollbar { display: none; }
+  .chip { flex: none; padding: 7px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg2); font-size: 16px; cursor: pointer; white-space: nowrap; }
+  .chip.on { background: var(--ink); color: var(--on); border-color: var(--ink); }
+  .chip.tag { background: transparent; color: var(--soft); }
+  .meta { display: flex; justify-content: space-between; align-items: center; color: var(--soft); font-size: 15px; padding: 12px 0 4px; }
+  .meta label { display: flex; align-items: center; gap: 6px; cursor: pointer; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; padding: 8px 0 40px; }
+  .card { background: var(--bg2); border-radius: 14px; overflow: hidden; cursor: pointer; border: 1px solid var(--line); position: relative; text-align: left; padding: 0; }
+  .card img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; display: block; background: var(--bg3); }
+  .card .t { padding: 8px 10px 10px; font-size: 16px; line-height: 1.15; }
+  .badge { position: absolute; top: 8px; left: 8px; font-size: 13px; font-weight: 500; padding: 3px 8px; border-radius: 6px; color: var(--on); }
+  .b-reel { background: var(--l3); } .b-carousel { background: var(--l2); } .b-image { background: var(--l1); } .b-story { background: #8AB4F8; } .b-ad { background: var(--ink); }
+  .done { position: absolute; top: 8px; right: 8px; background: var(--bg); color: var(--l1); border-radius: 999px; padding: 2px 8px; font-size: 13px; }
+  .card.posted img { opacity: 0.45; }
+  .empty { color: var(--soft); text-align: center; padding: 40px 0; }
+
+  /* Detail */
+  .sheet { position: fixed; inset: 0; background: var(--bg); z-index: 10; overflow-y: auto; display: none; padding-bottom: env(safe-area-inset-bottom); }
+  .sheet.open { display: block; }
+  .bar { position: sticky; top: 0; background: var(--bg); padding: calc(env(safe-area-inset-top) + 10px) 0 10px; z-index: 2; border-bottom: 1px solid var(--line); }
+  .bar .wrap { display: flex; align-items: center; gap: 10px; }
+  .back { background: none; border: none; font-size: 18px; color: var(--l2); cursor: pointer; padding: 6px 0; }
+  .bar h2 { margin: 0; font-size: 20px; font-weight: 500; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .media { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 14px 0 6px; }
+  .m { flex: none; width: min(78vw, 360px); scroll-snap-align: start; }
+  .m img, .m video { width: 100%; border-radius: 12px; display: block; background: var(--bg3); max-height: 64vh; object-fit: contain; }
+  .m .lbl { color: var(--soft); font-size: 14px; margin: 6px 2px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 10px 16px; border-radius: 10px; border: none; background: var(--ink); color: var(--on); font-size: 17px; font-weight: 500; cursor: pointer; }
+  .btn.ghost { background: var(--bg2); color: var(--ink); border: 1px solid var(--line); }
+  .btn.small { padding: 7px 12px; font-size: 15px; }
+  .btn.wide { width: 100%; }
+  .box { background: var(--bg2); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-top: 14px; }
+  .box h3 { margin: 0 0 8px; font-size: 15px; font-weight: 500; color: var(--soft); display: flex; justify-content: space-between; align-items: center; letter-spacing: 0.02em; text-transform: uppercase; }
+  .box .txt { white-space: pre-wrap; line-height: 1.35; font-size: 18px; user-select: text; -webkit-user-select: text; }
+  .actions { display: flex; gap: 10px; margin-top: 14px; flex-wrap: wrap; }
+  .toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom)); transform: translateX(-50%); background: var(--ink); color: var(--on); padding: 10px 18px; border-radius: 999px; font-weight: 500; opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 20; }
+  .toast.show { opacity: 1; }
+
+  /* Passcode */
+  .gate { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; background: var(--bg); z-index: 30; padding: 16px; }
+  .gate form { width: 100%; max-width: 320px; text-align: center; }
+  .gate p { color: var(--soft); }
+</style>
+</head>
+<body>
+<div class="gate" id="gate" hidden>
+  <form id="gateForm">
+    <h1 style="justify-content:center"><span class="dots"><i style="background:var(--l1)"></i><i style="background:var(--l2)"></i><i style="background:var(--l3)"></i></span>Studio</h1>
+    <p>Enter the passcode</p>
+    <input class="search" id="code" type="password" autocomplete="current-password" style="text-align:center" />
+    <p id="gateErr" style="color:var(--l3);min-height:1.2em"></p>
+    <button class="btn wide" type="submit">Open</button>
+  </form>
+</div>
+
+<header>
+  <div class="wrap">
+    <h1><span class="dots"><i style="background:var(--l1)"></i><i style="background:var(--l2)"></i><i style="background:var(--l3)"></i></span>Level Vibes Studio</h1>
+    <input class="search" id="q" type="search" placeholder="Search: Thursday, holidays, workout, ads…" autocomplete="off" />
+    <div class="row" id="types"></div>
+    <div class="row" id="quick"></div>
+  </div>
+</header>
+<main class="wrap">
+  <div class="meta"><span id="count"></span><label><input type="checkbox" id="hidePosted" /> Hide posted</label></div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<div class="sheet" id="sheet">
+  <div class="bar"><div class="wrap"><button class="back" id="back">‹ Back</button><h2 id="dTitle"></h2></div></div>
+  <div class="wrap" id="dBody" style="padding-bottom:40px"></div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+// A light gate so the page isn't open to anyone who stumbles on it (the files are public anyway)
+const PASS = 'levelvibes';
+const TYPES = [['all', 'All'], ['reel', 'Reels'], ['carousel', 'Carousels'], ['image', 'Images'], ['story', 'Stories'], ['ad', 'Ads']];
+const QUICK = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'My story', 'Holidays', 'Christmas', 'Hanukkah', 'Thanksgiving', 'Workout', 'Meals', 'Chores', 'Self-care', 'Meme', 'Funny', 'App demo'];
+// Words that should find each other (spellings and near-synonyms)
+const SYNONYMS = [
+  ['hanukkah', 'chanukah', 'hanukah', 'chanukkah', 'channukah', 'hannukah'],
+  ['christmas', 'xmas'],
+  ['thanksgiving', 'gratitude', 'grateful', 'thankful'],
+  ['holidays', 'holiday'],
+  ['workout', 'exercise', 'fitness', 'gym'],
+  ['meals', 'meal', 'dinner', 'food', 'cooking'],
+  ['funny', 'meme', 'humor', 'humour'],
+  ['self-care', 'selfcare', 'self care'],
+  ['ad', 'ads', 'advert', 'advertising'],
+  ['reel', 'reels', 'video', 'videos'],
+  ['carousel', 'carousels', 'swipe'],
+  ['my story', 'story', 'personal', 'about me'],
+];
+const $ = (id) => document.getElementById(id);
+const store = { get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } }, set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} } };
+let items = [], type = 'all', posted = store.get('lvs-posted', {});
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+function toast(msg) { const t = $('toast'); t.textContent = msg; t.classList.add('show'); clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove('show'), 1600); }
+async function copy(text, what) {
+  try { await navigator.clipboard.writeText(text); }
+  catch (e) { const a = document.createElement('textarea'); a.value = text; document.body.appendChild(a); a.select(); document.execCommand('copy'); a.remove(); }
+  toast(`${what} copied`);
+}
+
+// Save to Photos: the share sheet offers "Save Image" / "Save Video" on iPhone; elsewhere a download
+async function save(list) {
+  toast(list.length > 1 ? `Preparing ${list.length} files…` : 'Preparing…');
+  try {
+    const files = await Promise.all(list.map(async (m) => {
+      const blob = await (await fetch(m.src)).blob();
+      return new File([blob], m.name, { type: blob.type || (m.kind === 'video' ? 'video/mp4' : 'image/png') });
+    }));
+    if (navigator.canShare && navigator.canShare({ files })) { await navigator.share({ files }); return; }
+    for (const f of files) { const a = document.createElement('a'); a.href = URL.createObjectURL(f); a.download = f.name; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 4000); }
+  } catch (e) { if (e && e.name !== 'AbortError') toast('Couldn’t save. Try again.'); }
+}
+
+function words(q) {
+  return q.toLowerCase().split(/[\s,]+/).filter(Boolean).map((w) => (SYNONYMS.find((g) => g.includes(w)) || [w]));
+}
+function matches(it, groups) {
+  if (!groups.length) return true;
+  const hay = [it.title, it.type, it.caption, it.headline || '', ...(it.tags || []), ...(it.hashtags || [])].join(' ').toLowerCase();
+  return groups.every((g) => g.some((w) => hay.includes(w)));
+}
+
+function render() {
+  const groups = words($('q').value);
+  const hide = $('hidePosted').checked;
+  const list = items.filter((it) => (type === 'all' || it.type === type) && matches(it, groups) && !(hide && posted[it.id]));
+  $('count').textContent = `${list.length} post${list.length === 1 ? '' : 's'}`;
+  $('grid').innerHTML = list.length ? list.map((it) => `
+    <button class="card${posted[it.id] ? ' posted' : ''}" data-id="${it.id}">
+      <img src="${it.thumb}" alt="" loading="lazy" />
+      <span class="badge b-${it.type}">${esc(TYPES.find((t) => t[0] === it.type)[1].replace(/s$/, ''))}${it.media.length > 1 ? ' · ' + it.media.length : ''}</span>
+      ${posted[it.id] ? '<span class="done">✓ Posted</span>' : ''}
+      <div class="t">${esc(it.title)}</div>
+    </button>`).join('') : '<div class="empty">Nothing matches. Try another word.</div>';
+}
+
+function open(id) {
+  const it = items.find((x) => x.id === id);
+  if (!it) return;
+  $('dTitle').textContent = it.title;
+  const media = it.media.map((m, i) => `
+    <div class="m">
+      ${m.kind === 'video' ? `<video src="${m.src}" controls playsinline preload="metadata" poster="${i === 0 ? it.thumb : ''}"></video>` : `<img src="${m.src}" alt="" loading="lazy" />`}
+      <div class="lbl">${esc(m.name)}</div>
+      <button class="btn small ghost" data-save="${i}">Save to Photos</button>
+    </div>`).join('');
+  const box = (title, text, what) => `<div class="box"><h3>${title}<button class="btn small" data-copy="${what}">Copy</button></h3><div class="txt">${esc(text)}</div></div>`;
+  $('dBody').innerHTML = `
+    <div class="media">${media}</div>
+    ${it.media.length > 1 ? `<button class="btn ghost wide" data-saveall>Save all ${it.media.length} to Photos</button>` : ''}
+    ${it.headline ? box('Headline', it.headline, 'headline') : ''}
+    ${box(it.type === 'ad' ? 'Primary text' : 'Caption', it.caption, 'caption')}
+    ${it.hashtags && it.hashtags.length ? box(`Hashtags (${it.hashtags.length})`, it.hashtags.join(' '), 'hashtags') : ''}
+    ${it.link ? box('Ad link', it.link, 'link') : ''}
+    <div class="actions">
+      <button class="btn ${posted[it.id] ? 'ghost' : ''}" data-posted>${posted[it.id] ? 'Mark as not posted' : '✓ Mark as posted'}</button>
+    </div>
+    <div class="row" style="flex-wrap:wrap;padding-top:16px">${(it.tags || []).map((t) => `<button class="chip tag" data-tag="${esc(t)}">${esc(t)}</button>`).join('')}</div>`;
+  const texts = { caption: it.caption, hashtags: (it.hashtags || []).join(' '), headline: it.headline, link: it.link };
+  $('dBody').onclick = (e) => {
+    const b = e.target.closest('button'); if (!b) return;
+    if (b.dataset.copy) copy(texts[b.dataset.copy], b.dataset.copy[0].toUpperCase() + b.dataset.copy.slice(1));
+    else if (b.dataset.save) save([it.media[+b.dataset.save]]);
+    else if ('saveall' in b.dataset) save(it.media);
+    else if ('posted' in b.dataset) { posted[it.id] ? delete posted[it.id] : (posted[it.id] = Date.now()); store.set('lvs-posted', posted); open(it.id); render(); }
+    else if (b.dataset.tag) { $('q').value = b.dataset.tag; history.back(); render(); }
+  };
+  $('sheet').classList.add('open');
+  $('sheet').scrollTop = 0;
+  document.body.style.overflow = 'hidden';
+}
+function close() { $('sheet').classList.remove('open'); document.body.style.overflow = ''; $('sheet').querySelectorAll('video').forEach((v) => v.pause()); }
+
+function route() { const id = decodeURIComponent(location.hash.slice(1)); id ? open(id) : close(); }
+
+async function start() {
+  const data = await (await fetch('catalog.json', { cache: 'no-cache' })).json();
+  items = data.items;
+  $('types').innerHTML = TYPES.map(([k, l]) => `<button class="chip${k === type ? ' on' : ''}" data-type="${k}">${l}</button>`).join('');
+  $('quick').innerHTML = QUICK.map((t) => `<button class="chip tag" data-q="${t}">${t}</button>`).join('');
+  $('types').onclick = (e) => { const b = e.target.closest('[data-type]'); if (!b) return; type = b.dataset.type; $('types').querySelectorAll('.chip').forEach((c) => c.classList.toggle('on', c === b)); render(); };
+  $('quick').onclick = (e) => { const b = e.target.closest('[data-q]'); if (!b) return; $('q').value = $('q').value === b.dataset.q ? '' : b.dataset.q; render(); };
+  $('q').oninput = render;
+  $('hidePosted').checked = store.get('lvs-hide', false);
+  $('hidePosted').onchange = () => { store.set('lvs-hide', $('hidePosted').checked); render(); };
+  $('grid').onclick = (e) => { const c = e.target.closest('.card'); if (c) location.hash = c.dataset.id; };
+  $('back').onclick = () => (history.length > 1 ? history.back() : (location.hash = ''));
+  window.onhashchange = route;
+  render(); route();
+}
+
+if (store.get('lvs-ok', false)) start();
+else {
+  $('gate').hidden = false;
+  $('gateForm').onsubmit = (e) => {
+    e.preventDefault();
+    if ($('code').value.trim().toLowerCase() === PASS) { store.set('lvs-ok', true); $('gate').hidden = true; start(); }
+    else $('gateErr').textContent = 'That’s not it.';
+  };
+}
+</script>
+</body>
+</html>
