@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-09T10:38:09.409Z",
+ "updated": "2026-11-09T15:10:13.533Z",
  "items": [
+  {
+   "tags": [
+    "my story",
+    "adhd",
+    "autism",
+    "features",
+    "personal",
+    "1.2",
+    "getting started"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#actuallyautistic",
+    "#neurodivergent",
+    "#executivedysfunction"
+   ],
+   "id": "car-built-for-my-brain",
+   "title": "Things I built because of my brain (after 1.2)",
+   "type": "carousel",
+   "caption": "I have ADHD and I'm autistic, and almost every feature in Level Vibes started as a problem in my own head. 🧠 Swipe through.\n\nGetting started is my hardest part, so there's Just 2 minutes. Big tasks look like walls, so any option can have a tiny first step. And there are no streaks, because missing one day used to make me quit the whole thing.\n\nWhich one would help your brain most? 👇\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-built-for-my-brain/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/06.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/07.png",
+     "kind": "image",
+     "name": "07.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/08.png",
+     "kind": "image",
+     "name": "08.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/09.png",
+     "kind": "image",
+     "name": "09.png"
+    }
+   ],
+   "created": "2026-11-09T15:09:39.808Z",
+   "thumb": "thumbs/car-built-for-my-brain.jpg"
+  },
   {
    "tags": [
     "ad",

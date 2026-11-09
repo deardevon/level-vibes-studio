@@ -91,6 +91,11 @@ const OTHER_REEL_CAPTIONS = {
   39: ['I wake up and go downstairs. I pass the messy kitchen and know I should do the dishes, my most difficult chore. I pass the laundry room and know I should do laundry. I walk into the bathroom: the sink, the mirror, the shower wall. I walk back through the same rooms to the living room. This is the room we live in, and you can tell. And I sit down on the couch, the biggest mistake I can make.', '', 'I\'m aware of everything that needs doing, and each thing demands my attention. With it comes guilt.', '', 'Some days I wake up with the energy to get something done. But with a list that long, where do I start? Decision fatigue drains my ambition, and I spend so long deciding that I don\'t want to do anything anymore.', '', 'That\'s why I made Level Vibes. On a Level 1 day it picks one thing, like laundry, and I\'ve accomplished something. 💚💛❤️', '', 'Free on the App Store, link in bio.', '#decisionfatigue #adhd #actuallyautistic #neurodivergent #LevelVibes'],
 };
 
+// Carousels from the content list: id, title, folder in Social 1.1/Carousels, search tags
+const CAROUSELS = [
+  ['car-built-for-my-brain', 'Things I built because of my brain (after 1.2)', 'Built for my brain', 'my story, adhd, autism, features, personal, 1.2, getting started'],
+];
+
 const DAILY = [
   ['Monday', 'chores', 'Monday doesn\'t get to boss you around. Which level are you today?'],
   ['Tuesday', 'meals', 'Cereal counts. Dinner is dinner. Which level?'],
@@ -148,6 +153,14 @@ function build() {
     hashtags: tidyTags(['#decisionfatigue', '#adhd', '#actuallyautistic', '#neurodivergent', '#LevelVibes']),
     tags: 'my story, decision fatigue, adhd, autism, chores, personal',
   });
+  // Content-list carousels: slides 01.png, 02.png... and Caption.txt (header lines, a blank
+  // line, then the caption and hashtags) all in one folder under Social 1.1/Carousels
+  for (const [id, title, folder, tags] of CAROUSELS) {
+    const dir = `${S}Carousels/${folder}/`;
+    const lines = fs.readFileSync(MK + dir + 'Caption.txt', 'utf8').replace(/\r/g, '').split('\n');
+    add({ id, title, type: 'carousel', files: fs.readdirSync(MK + dir).filter((f) => /^\d\d\.png$/.test(f)).sort().map((f) => dir + f),
+      ...split(lines.slice(lines.indexOf('') + 1)), tags });
+  }
   add({
     id: 'car-features', title: 'What Level Vibes does (features)', type: 'carousel',
     files: fs.readdirSync(MK + S + 'Carousel').filter((f) => f.endsWith('.png')).sort().map((f) => `${S}Carousel/${f}`),
