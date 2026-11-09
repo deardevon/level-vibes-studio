@@ -185,6 +185,12 @@ function build() {
 
   // Ads (for Ads Manager on the laptop)
   const A = S + 'Ads/';
+  add({ id: 'ad-e', title: 'Ad: Hot take for my fellow couch sitters', type: 'ad', files: [A + 'Ad image E - Notebook (feed 4x5).png', A + 'Ad image E - Notebook (9x16).png'],
+    caption: "Hot take: my house isn't messy because I don't care. It's messy because deciding where to start is the hardest part. I have ADHD and I'm autistic, so I made Level Vibes: tap the energy you've got, and it picks one thing. Laundry, dishes, dinner. Free on iPhone, iPad and Apple Watch.",
+    headline: 'Made by someone who gets it', link: adLink(4), tags: 'ad, notebook, my story, adhd, autism, chores' });
+  add({ id: 'img-couch-sitters', title: 'Hot take for my fellow couch sitters', type: 'image', files: [A + 'Ad image E - Notebook (feed 4x5).png', A + 'Ad image E - Notebook (9x16).png'],
+    caption: "Hot take for my fellow couch sitters 🛋️ My house isn't messy because I don't care. Deciding where to start is the hardest part. So I made an app that picks ONE thing for me. Anyone else? 👇\n" + LINK,
+    hashtags: tidyTags(['#LevelVibes', '#adhd', '#actuallyautistic', '#decisionfatigue', '#neurodivergent']), tags: 'my story, adhd, autism, chores, notebook, relatable' });
   add({ id: 'ad-c', title: 'Ad: My story', type: 'ad', files: [A + 'Ad video C - My story (feed 4x5).mp4', A + 'Ad video C - My story (9x16).mp4', A + 'Ad image C1 - My story (feed 4x5).png', A + 'Ad image C1 - My story (9x16).png', A + 'Ad image C2 - My story with app (feed 4x5).png', A + 'Ad image C2 - My story with app (9x16).png'],
     caption: ADS.storyText, headline: 'Made by someone who gets it', link: adLink(2), tags: 'ad, my story, adhd, autism, best performer' });
   add({ id: 'ad-d', title: 'Ad: Decision fatigue', type: 'ad', files: [A + 'Ad video D - Decision fatigue (feed 4x5).mp4', A + 'Ad video D - Decision fatigue (9x16).mp4', A + 'Ad image D1 - Decision fatigue (feed 4x5).png', A + 'Ad image D1 - Decision fatigue (9x16).png', A + 'Ad image D2 - It picks one thing (feed 4x5).png', A + 'Ad image D2 - It picks one thing (9x16).png'],
