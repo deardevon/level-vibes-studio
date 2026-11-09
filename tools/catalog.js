@@ -187,7 +187,7 @@ function build() {
   add({
     id: 'car-features', title: 'What Level Vibes does (features)', type: 'carousel',
     files: fs.readdirSync(MK + S + 'Carousel').filter((f) => f.endsWith('.png')).sort().map((f) => `${S}Carousel/${f}`),
-    caption: 'Level Vibes is out now 💚💛❤️ Swipe to see what it does:\n\n→ Tap the level you\'ve got, and it picks the thing\n→ Name your levels: "Take it easy", "Be productive", "Kick ass"\n→ Chores that come back weekly or monthly, on the day you choose\n→ Timers that ring, with rain or waves while you work\n→ Pick from your wrist on Apple Watch ⌚\n→ Share lists with your household\n→ Little wins count: achievements, and no streaks to break\n\nFree on the App Store. The Plus Pack is a one-time unlock, no subscription. Link in bio.',
+    caption: 'Level Vibes is out now 💚💛❤️ Swipe to see what it does:\n\n→ Tap the level you\'ve got, and it picks the thing\n→ Name your levels: "Take it easy", "Be productive", "Kick ass"\n→ Chores that come back weekly or monthly, on the day you choose\n→ Timers that ring, with rain, brown noise or waves while you work\n→ Pick from your wrist on Apple Watch ⌚\n→ Share lists with your household\n→ Little wins count: achievements, and no streaks to break\n\nFree on the App Store. The Plus Pack is a one-time unlock, no subscription. Link in bio.',
     hashtags: tidyTags(['#LevelVibes', '#adhd', '#choreapp', '#householdchores', '#applewatch']),
     tags: 'features, how it works, launch, app demo',
   });
