@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:25:19.392Z",
+ "updated": "2026-11-09T15:43:04.332Z",
  "items": [
   {
    "tags": [
@@ -21,7 +21,7 @@
    "id": "reel-1-2-announcement",
    "title": "Level Vibes 1.2 announcement reel (after 1.2)",
    "type": "reel",
-   "caption": "I made Level Vibes for my ADHD brain. But some days I know exactly what to do and still can't start. For me, that's executive dysfunction, so Level Vibes 1.2 is all about getting started. 💚\n\nJust 2 minutes, a tiny first step for anything, a 3, 2, 1 before every timer, starting straight from the daily nudge, and asking your household for company.\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "caption": "I made Level Vibes for my ADHD brain. But some days I know exactly what to do and still can't start. For me, that's executive dysfunction, so Level Vibes 1.2 is all about getting started. 💚\n\nJust 2 minutes, a tiny first step for anything, a 3, 2, 1 before every timer, starting straight from the daily nudge, and (on shared household lists with the Plus Pack) asking for company.\n\nFree update, out now. Link in bio. 💚💛❤️",
    "media": [
     {
      "src": "media/reel-1-2-announcement/Level-Vibes-1.2-announcement-reel.mp4",
@@ -29,8 +29,178 @@
      "name": "Level Vibes 1.2 announcement reel.mp4"
     }
    ],
-   "created": "2026-11-09T15:24:44.309Z",
+   "created": "2026-11-09T15:42:55.472Z",
    "thumb": "thumbs/reel-1-2-announcement.jpg"
+  },
+  {
+   "tags": [
+    "1.2",
+    "update",
+    "announcement",
+    "executive dysfunction",
+    "new feature"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#executivedysfunction",
+    "#adhd",
+    "#gettingstarted",
+    "#neurodivergent"
+   ],
+   "id": "img-1-2-announcement",
+   "title": "Level Vibes 1.2 announcement (after 1.2)",
+   "type": "image",
+   "caption": "Level Vibes 1.2 is out. 💚 It's for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Free update on the App Store, link in bio.",
+   "media": [
+    {
+     "src": "media/img-1-2-announcement/Level-Vibes-1.2-announcement-feed-.png",
+     "kind": "image",
+     "name": "Level Vibes 1.2 announcement (feed).png"
+    },
+    {
+     "src": "media/img-1-2-announcement/Level-Vibes-1.2-announcement-story-.png",
+     "kind": "image",
+     "name": "Level Vibes 1.2 announcement (story).png"
+    }
+   ],
+   "created": "2026-11-09T15:41:42.421Z",
+   "thumb": "thumbs/img-1-2-announcement.jpg"
+  },
+  {
+   "tags": [
+    "1.2",
+    "update",
+    "new feature",
+    "executive dysfunction",
+    "getting started",
+    "announcement"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#executivedysfunction",
+    "#adhd",
+    "#neurodivergent",
+    "#gettingstarted"
+   ],
+   "id": "car-level-vibes-1-2",
+   "title": "Level Vibes 1.2: executive dysfunction (after 1.2)",
+   "type": "carousel",
+   "caption": "I made Level Vibes for my ADHD brain. Level Vibes 1.2 is for the part where I know exactly what to do and still can't start. 🫠\n\nFor me, that's what executive dysfunction feels like. So this update is all about getting started:\n⏱️ Just 2 minutes: if I stop when it rings, it still counts\n👣 A tiny first step for any option\n3️⃣ A 3, 2, 1 countdown before timers\n🔔 Start straight from the daily nudge\n🤝 Want company? Ask your household to join in (on shared lists, part of the Plus Pack)\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-level-vibes-1-2/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/06.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/07.png",
+     "kind": "image",
+     "name": "07.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/08.png",
+     "kind": "image",
+     "name": "08.png"
+    }
+   ],
+   "created": "2026-11-09T15:41:41.746Z",
+   "thumb": "thumbs/car-level-vibes-1-2.jpg"
+  },
+  {
+   "tags": [
+    "my story",
+    "adhd",
+    "autism",
+    "features",
+    "personal",
+    "1.2",
+    "getting started"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#actuallyautistic",
+    "#neurodivergent",
+    "#executivedysfunction"
+   ],
+   "id": "car-built-for-my-brain",
+   "title": "Things I built because of my brain (after 1.2)",
+   "type": "carousel",
+   "caption": "I have ADHD and I'm autistic, and almost every feature in Level Vibes started as a problem in my own head. 🧠 Swipe through.\n\nGetting started is my hardest part, so there's Just 2 minutes. Big tasks look like walls, so any option can have a tiny first step. And there are no streaks, because missing one day used to make me quit the whole thing.\n\nWhich one would help your brain most? 👇\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-built-for-my-brain/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/06.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/07.png",
+     "kind": "image",
+     "name": "07.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/08.png",
+     "kind": "image",
+     "name": "08.png"
+    },
+    {
+     "src": "media/car-built-for-my-brain/09.png",
+     "kind": "image",
+     "name": "09.png"
+    }
+   ],
+   "created": "2026-11-09T15:41:40.544Z",
+   "thumb": "thumbs/car-built-for-my-brain.jpg"
   },
   {
    "tags": [
@@ -174,77 +344,6 @@
   },
   {
    "tags": [
-    "my story",
-    "adhd",
-    "autism",
-    "features",
-    "personal",
-    "1.2",
-    "getting started"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#adhd",
-    "#actuallyautistic",
-    "#neurodivergent",
-    "#executivedysfunction"
-   ],
-   "id": "car-built-for-my-brain",
-   "title": "Things I built because of my brain (after 1.2)",
-   "type": "carousel",
-   "caption": "I have ADHD and I'm autistic, and almost every feature in Level Vibes started as a problem in my own head. 🧠 Swipe through.\n\nGetting started is my hardest part, so there's Just 2 minutes. Big tasks look like walls, so any option can have a tiny first step. And there are no streaks, because missing one day used to make me quit the whole thing.\n\nWhich one would help your brain most? 👇\nFree on the App Store, link in bio. 💚💛❤️",
-   "media": [
-    {
-     "src": "media/car-built-for-my-brain/01.png",
-     "kind": "image",
-     "name": "01.png"
-    },
-    {
-     "src": "media/car-built-for-my-brain/02.png",
-     "kind": "image",
-     "name": "02.png"
-    },
-    {
-     "src": "media/car-built-for-my-brain/03.png",
-     "kind": "image",
-     "name": "03.png"
-    },
-    {
-     "src": "media/car-built-for-my-brain/04.png",
-     "kind": "image",
-     "name": "04.png"
-    },
-    {
-     "src": "media/car-built-for-my-brain/05.png",
-     "kind": "image",
-     "name": "05.png"
-    },
-    {
-     "src": "media/car-built-for-my-brain/06.png",
-     "kind": "image",
-     "name": "06.png"
-    },
-    {
-     "src": "media/car-built-for-my-brain/07.png",
-     "kind": "image",
-     "name": "07.png"
-    },
-    {
-     "src": "media/car-built-for-my-brain/08.png",
-     "kind": "image",
-     "name": "08.png"
-    },
-    {
-     "src": "media/car-built-for-my-brain/09.png",
-     "kind": "image",
-     "name": "09.png"
-    }
-   ],
-   "created": "2026-11-09T15:20:19.333Z",
-   "thumb": "thumbs/car-built-for-my-brain.jpg"
-  },
-  {
-   "tags": [
     "self-care",
     "low energy",
     "levels",
@@ -364,105 +463,6 @@
    ],
    "created": "2026-11-09T15:15:58.560Z",
    "thumb": "thumbs/car-room-by-room.jpg"
-  },
-  {
-   "tags": [
-    "1.2",
-    "update",
-    "announcement",
-    "executive dysfunction",
-    "new feature"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#executivedysfunction",
-    "#adhd",
-    "#gettingstarted",
-    "#neurodivergent"
-   ],
-   "id": "img-1-2-announcement",
-   "title": "Level Vibes 1.2 announcement (after 1.2)",
-   "type": "image",
-   "caption": "Level Vibes 1.2 is out. 💚 It's for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Free update on the App Store, link in bio.",
-   "media": [
-    {
-     "src": "media/img-1-2-announcement/Level-Vibes-1.2-announcement-feed-.png",
-     "kind": "image",
-     "name": "Level Vibes 1.2 announcement (feed).png"
-    },
-    {
-     "src": "media/img-1-2-announcement/Level-Vibes-1.2-announcement-story-.png",
-     "kind": "image",
-     "name": "Level Vibes 1.2 announcement (story).png"
-    }
-   ],
-   "created": "2026-11-09T15:15:41.898Z",
-   "thumb": "thumbs/img-1-2-announcement.jpg"
-  },
-  {
-   "tags": [
-    "1.2",
-    "update",
-    "new feature",
-    "executive dysfunction",
-    "getting started",
-    "announcement"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#executivedysfunction",
-    "#adhd",
-    "#neurodivergent",
-    "#gettingstarted"
-   ],
-   "id": "car-level-vibes-1-2",
-   "title": "Level Vibes 1.2: executive dysfunction (after 1.2)",
-   "type": "carousel",
-   "caption": "I made Level Vibes for my ADHD brain. Level Vibes 1.2 is for the part where I know exactly what to do and still can't start. 🫠\n\nFor me, that's what executive dysfunction feels like. So this update is all about getting started:\n⏱️ Just 2 minutes: if I stop when it rings, it still counts\n👣 A tiny first step for any option\n3️⃣ A 3, 2, 1 countdown before timers\n🔔 Start straight from the daily nudge\n🤝 Want company? Ask your household to join in\n\nFree update, out now. Link in bio. 💚💛❤️",
-   "media": [
-    {
-     "src": "media/car-level-vibes-1-2/01.png",
-     "kind": "image",
-     "name": "01.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/02.png",
-     "kind": "image",
-     "name": "02.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/03.png",
-     "kind": "image",
-     "name": "03.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/04.png",
-     "kind": "image",
-     "name": "04.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/05.png",
-     "kind": "image",
-     "name": "05.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/06.png",
-     "kind": "image",
-     "name": "06.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/07.png",
-     "kind": "image",
-     "name": "07.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/08.png",
-     "kind": "image",
-     "name": "08.png"
-    }
-   ],
-   "created": "2026-11-09T15:15:41.236Z",
-   "thumb": "thumbs/car-level-vibes-1-2.jpg"
   },
   {
    "tags": [
