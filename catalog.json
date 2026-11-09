@@ -1,6 +1,699 @@
 {
- "updated": "2026-11-09T15:10:13.533Z",
+ "updated": "2026-11-09T15:16:37.697Z",
  "items": [
+  {
+   "tags": [
+    "self-care",
+    "low energy",
+    "levels",
+    "save this"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#selfcare",
+    "#lowenergy",
+    "#spoonie",
+    "#adhd"
+   ],
+   "id": "car-self-care",
+   "title": "Self-care by energy level",
+   "type": "carousel",
+   "caption": "Self-care by energy level. 🛁 Level 1 is still self-care.\n\nBrushing your teeth counts. A snack plate counts. Opening a window counts. I made a self-care list in Level Vibes for the days I can't decide what I need: I tap my level and it picks one thing.\n\nSave this for a Level 1 day. 📌 Which level are you today?\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-self-care/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-self-care/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-self-care/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-self-care/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-self-care/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-self-care/06.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-self-care/07.png",
+     "kind": "image",
+     "name": "07.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:59.189Z",
+   "thumb": "thumbs/car-self-care.jpg"
+  },
+  {
+   "tags": [
+    "chores",
+    "cleaning",
+    "levels",
+    "rooms",
+    "house"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#cleaningmotivation",
+    "#adhd",
+    "#householdchores",
+    "#lowenergy"
+   ],
+   "id": "car-room-by-room",
+   "title": "A Level 1, 2 and 3 day, room by room",
+   "type": "carousel",
+   "caption": "Same house, three very different days. 🏠 Swipe room by room.\n\nSome days I can scrub the shower. Some days opening the curtains is the whole bedroom done. Level Vibes asks how much energy I've got, then picks one thing that fits. Level 1 days count too.\n\nWhich room are you avoiding today? 👇\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-room-by-room/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-room-by-room/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-room-by-room/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-room-by-room/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-room-by-room/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-room-by-room/06.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-room-by-room/07.png",
+     "kind": "image",
+     "name": "07.png"
+    },
+    {
+     "src": "media/car-room-by-room/08.png",
+     "kind": "image",
+     "name": "08.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:58.560Z",
+   "thumb": "thumbs/car-room-by-room.jpg"
+  },
+  {
+   "tags": [
+    "1.2",
+    "update",
+    "announcement",
+    "executive dysfunction",
+    "new feature"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#executivedysfunction",
+    "#adhd",
+    "#gettingstarted",
+    "#neurodivergent"
+   ],
+   "id": "img-1-2-announcement",
+   "title": "Level Vibes 1.2 announcement (after 1.2)",
+   "type": "image",
+   "caption": "Level Vibes 1.2 is out. 💚 It's for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Free update on the App Store, link in bio.",
+   "media": [
+    {
+     "src": "media/img-1-2-announcement/Level-Vibes-1.2-announcement-feed-.png",
+     "kind": "image",
+     "name": "Level Vibes 1.2 announcement (feed).png"
+    },
+    {
+     "src": "media/img-1-2-announcement/Level-Vibes-1.2-announcement-story-.png",
+     "kind": "image",
+     "name": "Level Vibes 1.2 announcement (story).png"
+    }
+   ],
+   "created": "2026-11-09T15:15:41.898Z",
+   "thumb": "thumbs/img-1-2-announcement.jpg"
+  },
+  {
+   "tags": [
+    "1.2",
+    "update",
+    "new feature",
+    "executive dysfunction",
+    "getting started",
+    "announcement"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#executivedysfunction",
+    "#adhd",
+    "#neurodivergent",
+    "#gettingstarted"
+   ],
+   "id": "car-level-vibes-1-2",
+   "title": "Level Vibes 1.2: executive dysfunction (after 1.2)",
+   "type": "carousel",
+   "caption": "I made Level Vibes for my ADHD brain. Level Vibes 1.2 is for the part where I know exactly what to do and still can't start. 🫠\n\nFor me, that's what executive dysfunction feels like. So this update is all about getting started:\n⏱️ Just 2 minutes: if I stop when it rings, it still counts\n👣 A tiny first step for any option\n3️⃣ A 3, 2, 1 countdown before timers\n🔔 Start straight from the daily nudge\n🤝 Want company? Ask your household to join in\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-level-vibes-1-2/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/06.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/07.png",
+     "kind": "image",
+     "name": "07.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/08.png",
+     "kind": "image",
+     "name": "08.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:41.236Z",
+   "thumb": "thumbs/car-level-vibes-1-2.jpg"
+  },
+  {
+   "tags": [
+    "level 1",
+    "low energy",
+    "rest",
+    "save this",
+    "quote"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#lowenergy",
+    "#spoonie",
+    "#adhd",
+    "#smallwins"
+   ],
+   "id": "img-level-1-not-lazy",
+   "title": "Level 1 days aren't lazy days",
+   "type": "image",
+   "caption": "Level 1 days aren't lazy days. 💚 They're the days you did something anyway, with less to work with.\n\nThat's why Level 1 counts just as much as Level 3 in Level Vibes. Opening the curtains is a win. Cereal for dinner is a win.\n\nSave this for the next Level 1 day. 📌\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-level-1-not-lazy/Level-1-days-aren-t-lazy-days.png",
+     "kind": "image",
+     "name": "Level 1 days aren't lazy days.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:41.127Z",
+   "thumb": "thumbs/img-level-1-not-lazy.jpg"
+  },
+  {
+   "tags": [
+    "adhd",
+    "my story",
+    "features",
+    "series"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#executivedysfunction",
+    "#gettingstarted",
+    "#neurodivergent"
+   ],
+   "id": "img-adhd-5",
+   "title": "Things I built because of my ADHD #5: Just 2 minutes (after 1.2)",
+   "type": "image",
+   "caption": "Things I built because of my ADHD, part 5: Just 2 minutes. ⏱️ (New in 1.2)\n\nGetting started is the hardest part for me. So now I can tap Just 2 minutes. If I stop when it rings, it still counts. Usually I keep going.\n\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-adhd-5/Built-because-of-my-ADHD-5-Just-2-minutes.png",
+     "kind": "image",
+     "name": "Built because of my ADHD 5 - Just 2 minutes.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:41.019Z",
+   "thumb": "thumbs/img-adhd-5.jpg"
+  },
+  {
+   "tags": [
+    "adhd",
+    "my story",
+    "features",
+    "series"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#adhdmemes",
+    "#neurodivergent",
+    "#lowenergy"
+   ],
+   "id": "img-adhd-4",
+   "title": "Things I built because of my ADHD #4: Pick Again",
+   "type": "image",
+   "caption": "Things I built because of my ADHD, part 4: Pick Again. 🔄\n\nSome days the first pick just isn't happening. So there's a Pick Again button, and it never judges me for using it four times in a row.\n\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-adhd-4/Built-because-of-my-ADHD-4-Pick-Again.png",
+     "kind": "image",
+     "name": "Built because of my ADHD 4 - Pick Again.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:40.922Z",
+   "thumb": "thumbs/img-adhd-4.jpg"
+  },
+  {
+   "tags": [
+    "adhd",
+    "my story",
+    "features",
+    "series"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#timeblindness",
+    "#focus",
+    "#neurodivergent"
+   ],
+   "id": "img-adhd-3",
+   "title": "Things I built because of my ADHD #3: Timers that ring",
+   "type": "image",
+   "caption": "Things I built because of my ADHD, part 3: timers that ring. ⏰\n\nTime just disappears on me. Every pick in Level Vibes can start a timer that rings when it's done, with rain or waves while I work if I want them.\n\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-adhd-3/Built-because-of-my-ADHD-3-Timers-that-ring.png",
+     "kind": "image",
+     "name": "Built because of my ADHD 3 - Timers that ring.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:40.822Z",
+   "thumb": "thumbs/img-adhd-3.jpg"
+  },
+  {
+   "tags": [
+    "adhd",
+    "my story",
+    "features",
+    "series"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#executivedysfunction",
+    "#todolist",
+    "#neurodivergent"
+   ],
+   "id": "img-adhd-2",
+   "title": "Things I built because of my ADHD #2: It picks one thing",
+   "type": "image",
+   "caption": "Things I built because of my ADHD, part 2: it picks one thing. ☝️\n\nA long list makes me freeze. So Level Vibes doesn't show me the list. I tap my energy level and it gives me one thing that fits.\n\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-adhd-2/Built-because-of-my-ADHD-2-It-picks-one-thing.png",
+     "kind": "image",
+     "name": "Built because of my ADHD 2 - It picks one thing.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:40.722Z",
+   "thumb": "thumbs/img-adhd-2.jpg"
+  },
+  {
+   "tags": [
+    "adhd",
+    "my story",
+    "features",
+    "series"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#adhdlife",
+    "#neurodivergent",
+    "#smallwins"
+   ],
+   "id": "img-adhd-1",
+   "title": "Things I built because of my ADHD #1: No streaks",
+   "type": "image",
+   "caption": "Things I built because of my ADHD, part 1: no streaks. 💚\n\nMissing one day used to make me give up on the whole thing, so Level Vibes doesn't count days in a row. It has achievements for showing up, whenever I show up.\n\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-adhd-1/Built-because-of-my-ADHD-1-No-streaks.png",
+     "kind": "image",
+     "name": "Built because of my ADHD 1 - No streaks.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:40.627Z",
+   "thumb": "thumbs/img-adhd-1.jpg"
+  },
+  {
+   "tags": [
+    "my story",
+    "name",
+    "origin",
+    "spreadsheet",
+    "personal"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#indieapp",
+    "#adhd",
+    "#buildinpublic",
+    "#neurodivergent"
+   ],
+   "id": "car-why-the-name",
+   "title": "Why it's called Level Vibes",
+   "type": "carousel",
+   "caption": "Why it's called Level Vibes. 💚💛❤️\n\nLevel is the energy I've actually got today: 1, 2 or 3. Vibes is how today feels, not how it's supposed to feel. It started as a spreadsheet with a randomizer formula, and now it's an app that asks one question every morning: what's the vibe today?\n\nWhat's yours? 👇\nFree on the App Store, link in bio.",
+   "media": [
+    {
+     "src": "media/car-why-the-name/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-why-the-name/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-why-the-name/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-why-the-name/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-why-the-name/05.png",
+     "kind": "image",
+     "name": "05.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:40.198Z",
+   "thumb": "thumbs/car-why-the-name.jpg"
+  },
+  {
+   "tags": [
+    "behind the scenes",
+    "indie app",
+    "numbers",
+    "personal",
+    "build in public"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#buildinpublic",
+    "#indieapp",
+    "#solofounder",
+    "#adhd"
+   ],
+   "id": "car-bts-week-two",
+   "title": "Behind the scenes: week two (honest numbers)",
+   "type": "carousel",
+   "caption": "Behind the scenes, week two. Honest numbers from a one-person app. 📊\n\n16 downloads, most of them from people I know (hi, Mom). My first ad got zero clicks. The one where I told my own story got a 5% click rate. Lesson learned: less pitch, more me.\n\nNext up is Level Vibes 1.2, all about getting started. If you've downloaded the app, thank you. A rating on the App Store genuinely helps a tiny app like mine. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-bts-week-two/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-bts-week-two/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-bts-week-two/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-bts-week-two/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-bts-week-two/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-bts-week-two/06.png",
+     "kind": "image",
+     "name": "06.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:39.706Z",
+   "thumb": "thumbs/car-bts-week-two.jpg"
+  },
+  {
+   "tags": [
+    "bingo",
+    "interactive",
+    "low energy",
+    "fun"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#bingo",
+    "#adhdmemes",
+    "#spoonie",
+    "#lowenergy"
+   ],
+   "id": "car-bingo",
+   "title": "Low energy day bingo, one square at a time",
+   "type": "carousel",
+   "caption": "Low energy day bingo, one square at a time. 🎯 Count as you swipe.\n\nThe free square is tapping Level 1, because deciding to do a small thing still counts. Pick Again × 4 is also extremely valid.\n\nHow many did you get? Comment your number 👇 Screenshot the last slide and share it to your story.\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-bingo/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-bingo/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-bingo/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-bingo/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-bingo/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-bingo/06.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-bingo/07.png",
+     "kind": "image",
+     "name": "07.png"
+    },
+    {
+     "src": "media/car-bingo/08.png",
+     "kind": "image",
+     "name": "08.png"
+    },
+    {
+     "src": "media/car-bingo/09.png",
+     "kind": "image",
+     "name": "09.png"
+    },
+    {
+     "src": "media/car-bingo/10.png",
+     "kind": "image",
+     "name": "10.png"
+    },
+    {
+     "src": "media/car-bingo/11.png",
+     "kind": "image",
+     "name": "11.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:38.972Z",
+   "thumb": "thumbs/car-bingo.jpg"
+  },
+  {
+   "tags": [
+    "small wins",
+    "level 1",
+    "low energy",
+    "daily post",
+    "week"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#smallwins",
+    "#adhd",
+    "#lowenergy",
+    "#spoonie"
+   ],
+   "id": "car-week-of-wins",
+   "title": "A week of Level 1 wins",
+   "type": "carousel",
+   "caption": "A whole week of Level 1 wins. 💚 None of them were big. All of them counted.\n\nSome weeks are Level 3 weeks. This wasn't one of them, and that's okay. Level Vibes picks one small thing that fits the energy I've got, and on a Level 1 day, one small thing is the whole goal.\n\nWhat was your smallest win this week? 👇\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-week-of-wins/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-week-of-wins/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-week-of-wins/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-week-of-wins/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-week-of-wins/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-week-of-wins/06.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-week-of-wins/07.png",
+     "kind": "image",
+     "name": "07.png"
+    },
+    {
+     "src": "media/car-week-of-wins/08.png",
+     "kind": "image",
+     "name": "08.png"
+    },
+    {
+     "src": "media/car-week-of-wins/09.png",
+     "kind": "image",
+     "name": "09.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:37.676Z",
+   "thumb": "thumbs/car-week-of-wins.jpg"
+  },
+  {
+   "tags": [
+    "how it works",
+    "app demo",
+    "features",
+    "explainer"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#productivity",
+    "#todolist",
+    "#choreapp"
+   ],
+   "id": "car-how-it-works",
+   "title": "How Level Vibes works, in 6 slides",
+   "type": "carousel",
+   "caption": "How Level Vibes works, in 6 slides. ✨\n\nMake a list once, sort it by energy, then each day tap the level you've got. It picks one thing. Not feeling it? Pick Again, no judgment. That's the whole app, on purpose.\n\nSave this for the next time your to-do list feels too big. 📌\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-how-it-works/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-how-it-works/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-how-it-works/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-how-it-works/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-how-it-works/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-how-it-works/06.png",
+     "kind": "image",
+     "name": "06.png"
+    }
+   ],
+   "created": "2026-11-09T15:15:37.168Z",
+   "thumb": "thumbs/car-how-it-works.jpg"
+  },
   {
    "tags": [
     "my story",

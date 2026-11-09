@@ -94,6 +94,25 @@ const OTHER_REEL_CAPTIONS = {
 // Carousels from the content list: id, title, folder in Social 1.1/Carousels, search tags
 const CAROUSELS = [
   ['car-built-for-my-brain', 'Things I built because of my brain (after 1.2)', 'Built for my brain', 'my story, adhd, autism, features, personal, 1.2, getting started'],
+  ['car-level-vibes-1-2', 'Level Vibes 1.2: executive dysfunction (after 1.2)', 'Level Vibes 1.2', '1.2, update, new feature, executive dysfunction, getting started, announcement'],
+  ['car-room-by-room', 'A Level 1, 2 and 3 day, room by room', 'Room by room', 'chores, cleaning, levels, rooms, house'],
+  ['car-how-it-works', 'How Level Vibes works, in 6 slides', 'How it works', 'how it works, app demo, features, explainer'],
+  ['car-week-of-wins', 'A week of Level 1 wins', 'A week of Level 1 wins', 'small wins, level 1, low energy, daily post, week'],
+  ['car-self-care', 'Self-care by energy level', 'Self-care by energy level', 'self-care, low energy, levels, save this'],
+  ['car-bingo', 'Low energy day bingo, one square at a time', 'Bingo one square at a time', 'bingo, interactive, low energy, fun'],
+  ['car-bts-week-two', 'Behind the scenes: week two (honest numbers)', 'Behind the scenes week two', 'behind the scenes, indie app, numbers, personal, build in public'],
+  ['car-why-the-name', "Why it's called Level Vibes", 'Why it is called Level Vibes', 'my story, name, origin, spreadsheet, personal'],
+];
+
+// Single images with a caption file next to them (header lines, a blank line, then the caption)
+const SINGLES = [
+  ['img-1-2-announcement', 'Level Vibes 1.2 announcement (after 1.2)', ['Level Vibes 1.2/Level Vibes 1.2 announcement (feed).png', 'Level Vibes 1.2/Level Vibes 1.2 announcement (story).png'], 'Level Vibes 1.2/Level Vibes 1.2 announcement - caption.txt', '1.2, update, announcement, executive dysfunction, new feature'],
+  ['img-level-1-not-lazy', "Level 1 days aren't lazy days", ["Single posts/Level 1 days aren't lazy days.png"], "Single posts/Level 1 days aren't lazy days - caption.txt", 'level 1, low energy, rest, save this, quote'],
+  ['img-adhd-1', 'Things I built because of my ADHD #1: No streaks', ['Single posts/Built because of my ADHD 1 - No streaks.png'], 'Single posts/Built because of my ADHD 1 - No streaks - caption.txt', 'adhd, my story, features, series'],
+  ['img-adhd-2', 'Things I built because of my ADHD #2: It picks one thing', ['Single posts/Built because of my ADHD 2 - It picks one thing.png'], 'Single posts/Built because of my ADHD 2 - It picks one thing - caption.txt', 'adhd, my story, features, series'],
+  ['img-adhd-3', 'Things I built because of my ADHD #3: Timers that ring', ['Single posts/Built because of my ADHD 3 - Timers that ring.png'], 'Single posts/Built because of my ADHD 3 - Timers that ring - caption.txt', 'adhd, my story, features, series'],
+  ['img-adhd-4', 'Things I built because of my ADHD #4: Pick Again', ['Single posts/Built because of my ADHD 4 - Pick Again.png'], 'Single posts/Built because of my ADHD 4 - Pick Again - caption.txt', 'adhd, my story, features, series'],
+  ['img-adhd-5', 'Things I built because of my ADHD #5: Just 2 minutes (after 1.2)', ['Single posts/Built because of my ADHD 5 - Just 2 minutes.png'], 'Single posts/Built because of my ADHD 5 - Just 2 minutes - caption.txt', 'adhd, my story, features, series'],
 ];
 
 const DAILY = [
@@ -153,6 +172,10 @@ function build() {
     hashtags: tidyTags(['#decisionfatigue', '#adhd', '#actuallyautistic', '#neurodivergent', '#LevelVibes']),
     tags: 'my story, decision fatigue, adhd, autism, chores, personal',
   });
+  for (const [id, title, files, cap, tags] of SINGLES) {
+    const lines = fs.readFileSync(MK + S + cap, 'utf8').replace(/\r/g, '').split('\n');
+    add({ id, title, type: 'image', files: files.map((x) => S + x), ...split(lines.slice(lines.indexOf('') + 1)), tags });
+  }
   // Content-list carousels: slides 01.png, 02.png... and Caption.txt (header lines, a blank
   // line, then the caption and hashtags) all in one folder under Social 1.1/Carousels
   for (const [id, title, folder, tags] of CAROUSELS) {
