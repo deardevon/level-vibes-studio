@@ -66,8 +66,10 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
   }
   for (const f of fs.readdirSync(path.join(ROOT, 'thumbs'))) if (!used.has(`thumbs/${f}`)) { fs.unlinkSync(path.join(ROOT, 'thumbs', f)); removed++; }
   if (removed) console.log(`removed ${removed} unused files`);
-  // Newest first
-  items.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
+  // Pinned at the top, in this order (the 2.0 rollout: coming soon, then the announcement); the rest newest first
+  const TOP = ['car-coming-soon', 'reel-coming-soon', 'reel-sneak-peek', 'img-coming-soon', 'reel-1-2-announcement', 'car-level-vibes-1-2', 'img-1-2-announcement'];
+  const rank = (i) => (TOP.includes(i.id) ? TOP.indexOf(i.id) : TOP.length);
+  items.sort((a, b) => rank(a) - rank(b) || (b.created || '').localeCompare(a.created || ''));
   fs.writeFileSync(path.join(ROOT, 'catalog.json'), JSON.stringify({ updated: new Date().toISOString(), items }, null, 1));
   console.log(`${items.length} posts, ${items.reduce((a, i) => a + i.media.length, 0)} files`);
   if (missing.length) console.log('MISSING:\n' + missing.join('\n'));

@@ -1,6 +1,301 @@
 {
- "updated": "2026-11-10T12:03:15.711Z",
+ "updated": "2026-11-10T12:06:34.276Z",
  "items": [
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "2.0",
+    "sneak peek",
+    "new design",
+    "announcement"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#comingsoon",
+    "#indieapp",
+    "#buildinpublic",
+    "#adhd"
+   ],
+   "id": "car-coming-soon",
+   "title": "Something big is coming (before 2.0)",
+   "type": "carousel",
+   "caption": "Something big is coming to Level Vibes. 👀\n\nI've been quietly rebuilding the whole app: a whole new look, and more help with the part I find hardest, actually starting. Same idea at its heart: tap your energy, it picks one thing.\n\nLevel Vibes 2.0 is coming soon. Follow along so you don't miss it. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-coming-soon/01-mwag4vvx.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-coming-soon/02-mwag4vyl.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-coming-soon/03-mwag4w1x.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-coming-soon/04-mwag4w4i.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-coming-soon/05-mwag4w8s.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-coming-soon/06-mwag4wcq.png",
+     "kind": "image",
+     "name": "06.png"
+    }
+   ],
+   "created": "2026-11-10T08:46:48.429Z",
+   "thumb": "thumbs/car-coming-soon-mwag4vvx.jpg"
+  },
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "2.0",
+    "reel",
+    "animation",
+    "announcement"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#comingsoon",
+    "#indieapp",
+    "#buildinpublic",
+    "#appupdate"
+   ],
+   "id": "reel-coming-soon",
+   "title": "Something big is coming reel (before 2.0)",
+   "type": "reel",
+   "caption": "Level Vibes has been quiet lately. Here's why. 👀\n\nI've been building something big: Level Vibes 2.0. A whole new look, and more help getting started. Coming soon, so stay tuned. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-coming-soon/Reel-Something-big-is-coming-mwag65gg.mp4",
+     "kind": "video",
+     "name": "Reel - Something big is coming.mp4"
+    }
+   ],
+   "created": "2026-11-10T08:46:54.167Z",
+   "thumb": "thumbs/reel-coming-soon-mwag65gg.jpg"
+  },
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "sneak peek",
+    "2.0",
+    "reel",
+    "new design"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#sneakpeek",
+    "#comingsoon",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "reel-sneak-peek",
+   "title": "Sneak peek reel (before 2.0)",
+   "type": "reel",
+   "caption": "A little sneak peek. 👀\n\nA new way to pick your level, help with getting started, and a timer you can watch close. Level Vibes 2.0 is almost here. Which part are you most excited for? 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-sneak-peek/Reel-Sneak-peek-mwagh0rb.mp4",
+     "kind": "video",
+     "name": "Reel - Sneak peek.mp4"
+    }
+   ],
+   "created": "2026-11-10T08:47:47.892Z",
+   "thumb": "thumbs/reel-sneak-peek-mwagh0rb.jpg"
+  },
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "2.0",
+    "sneak peek",
+    "story"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#comingsoon",
+    "#indieapp",
+    "#buildinpublic",
+    "#adhd"
+   ],
+   "id": "img-coming-soon",
+   "title": "Something big is coming (before 2.0)",
+   "type": "image",
+   "caption": "Something big is coming. 👀 Level Vibes 2.0: a whole new look, and more help with getting started. Stay tuned. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-coming-soon/Feed-Something-big-is-coming-mwag4hfo.png",
+     "kind": "image",
+     "name": "Feed - Something big is coming.png"
+    },
+    {
+     "src": "media/img-coming-soon/Story-Something-big-is-coming-mwag4hjm.png",
+     "kind": "image",
+     "name": "Story - Something big is coming.png"
+    },
+    {
+     "src": "media/img-coming-soon/Story-Sneak-peek-mwag4hpa.png",
+     "kind": "image",
+     "name": "Story - Sneak peek.png"
+    }
+   ],
+   "created": "2026-11-10T08:46:29.700Z",
+   "thumb": "thumbs/img-coming-soon-mwag4hfo.jpg"
+  },
+  {
+   "tags": [
+    "2.0",
+    "1.2",
+    "update",
+    "new design",
+    "announcement",
+    "executive dysfunction",
+    "new feature",
+    "reel",
+    "animation"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#executivedysfunction",
+    "#adhd",
+    "#gettingstarted",
+    "#neurodivergent"
+   ],
+   "id": "reel-1-2-announcement",
+   "title": "Level Vibes 2.0 announcement reel (after 2.0)",
+   "type": "reel",
+   "caption": "I made Level Vibes for my ADHD brain. But some days I know exactly what to do and still can't start. For me, that's executive dysfunction, so Level Vibes 2.0 is all about getting started, with a whole new look. 💚\n\nJust 2 minutes, a tiny first step for anything, a 3, 2, 1 before every timer, starting straight from the daily nudge, and (on shared household lists with the Plus Pack) asking for company. Plus the wave, and a brand new design.\n\nOut now on the App Store. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-1-2-announcement/Level-Vibes-2.0-announcement-reel-mwahq7fe.mp4",
+     "kind": "video",
+     "name": "Level Vibes 2.0 announcement reel.mp4"
+    }
+   ],
+   "created": "2026-11-10T09:31:15.358Z",
+   "thumb": "thumbs/reel-1-2-announcement-mwahq7fe.jpg"
+  },
+  {
+   "tags": [
+    "2.0",
+    "1.2",
+    "update",
+    "new design",
+    "new feature",
+    "executive dysfunction",
+    "getting started",
+    "announcement"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#executivedysfunction",
+    "#adhd",
+    "#neurodivergent",
+    "#gettingstarted"
+   ],
+   "id": "car-level-vibes-1-2",
+   "title": "Level Vibes 2.0: new look + getting started (after 2.0)",
+   "type": "carousel",
+   "caption": "I made Level Vibes for my ADHD brain. Level Vibes 2.0 is for the part where I know exactly what to do and still can't start. 🫠 And it comes with a whole new look.\n\nFor me, that's what executive dysfunction feels like. So this update is all about getting started:\n⏱️ Just 2 minutes: if I stop when it rings, it still counts\n👣 A tiny first step for any option\n3️⃣ A 3, 2, 1 countdown before timers\n🔔 Start straight from the daily nudge\n🤝 Want company? Ask your household to join in (on shared lists, part of the Plus Pack)\n\nOut now on the App Store. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-level-vibes-1-2/01-mwagohqh.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/02-mwagoht2.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/03-mwagohvc.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/04-mwagohxs.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/05-mwagohzq.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/06-mwagoi2f.png",
+     "kind": "image",
+     "name": "06.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/07-mwagoi4p.png",
+     "kind": "image",
+     "name": "07.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/08-mwagoi90.png",
+     "kind": "image",
+     "name": "08.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/09-mwagoibn.png",
+     "kind": "image",
+     "name": "09.png"
+    }
+   ],
+   "created": "2026-11-10T09:02:03.209Z",
+   "thumb": "thumbs/car-level-vibes-1-2-mwagohqh.jpg"
+  },
+  {
+   "tags": [
+    "2.0",
+    "1.2",
+    "update",
+    "new design",
+    "announcement",
+    "executive dysfunction",
+    "new feature"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#executivedysfunction",
+    "#adhd",
+    "#gettingstarted",
+    "#neurodivergent"
+   ],
+   "id": "img-1-2-announcement",
+   "title": "Level Vibes 2.0 announcement (after 2.0)",
+   "type": "image",
+   "caption": "Level Vibes 2.0 is out. 💚 A whole new look, made for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Update on the App Store, link in bio.",
+   "media": [
+    {
+     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-feed--mwagoieg.png",
+     "kind": "image",
+     "name": "Level Vibes 2.0 announcement (feed).png"
+    },
+    {
+     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-story--mwagoihk.png",
+     "kind": "image",
+     "name": "Level Vibes 2.0 announcement (story).png"
+    }
+   ],
+   "created": "2026-11-10T09:02:04.072Z",
+   "thumb": "thumbs/img-1-2-announcement-mwagoieg.jpg"
+  },
   {
    "tags": [
     "star trek",
@@ -655,39 +950,6 @@
   },
   {
    "tags": [
-    "2.0",
-    "1.2",
-    "update",
-    "new design",
-    "announcement",
-    "executive dysfunction",
-    "new feature",
-    "reel",
-    "animation"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#executivedysfunction",
-    "#adhd",
-    "#gettingstarted",
-    "#neurodivergent"
-   ],
-   "id": "reel-1-2-announcement",
-   "title": "Level Vibes 2.0 announcement reel (after 2.0)",
-   "type": "reel",
-   "caption": "I made Level Vibes for my ADHD brain. But some days I know exactly what to do and still can't start. For me, that's executive dysfunction, so Level Vibes 2.0 is all about getting started, with a whole new look. 💚\n\nJust 2 minutes, a tiny first step for anything, a 3, 2, 1 before every timer, starting straight from the daily nudge, and (on shared household lists with the Plus Pack) asking for company. Plus the wave, and a brand new design.\n\nOut now on the App Store. Link in bio. 💚💛❤️",
-   "media": [
-    {
-     "src": "media/reel-1-2-announcement/Level-Vibes-2.0-announcement-reel-mwahq7fe.mp4",
-     "kind": "video",
-     "name": "Level Vibes 2.0 announcement reel.mp4"
-    }
-   ],
-   "created": "2026-11-10T09:31:15.358Z",
-   "thumb": "thumbs/reel-1-2-announcement-mwahq7fe.jpg"
-  },
-  {
-   "tags": [
     "launch",
     "announcement"
    ],
@@ -1081,114 +1343,6 @@
    ],
    "created": "2026-11-10T09:02:05.109Z",
    "thumb": "thumbs/car-built-for-my-brain-mwagoj79.jpg"
-  },
-  {
-   "tags": [
-    "2.0",
-    "1.2",
-    "update",
-    "new design",
-    "announcement",
-    "executive dysfunction",
-    "new feature"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#executivedysfunction",
-    "#adhd",
-    "#gettingstarted",
-    "#neurodivergent"
-   ],
-   "id": "img-1-2-announcement",
-   "title": "Level Vibes 2.0 announcement (after 2.0)",
-   "type": "image",
-   "caption": "Level Vibes 2.0 is out. 💚 A whole new look, made for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Update on the App Store, link in bio.",
-   "media": [
-    {
-     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-feed--mwagoieg.png",
-     "kind": "image",
-     "name": "Level Vibes 2.0 announcement (feed).png"
-    },
-    {
-     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-story--mwagoihk.png",
-     "kind": "image",
-     "name": "Level Vibes 2.0 announcement (story).png"
-    }
-   ],
-   "created": "2026-11-10T09:02:04.072Z",
-   "thumb": "thumbs/img-1-2-announcement-mwagoieg.jpg"
-  },
-  {
-   "tags": [
-    "2.0",
-    "1.2",
-    "update",
-    "new design",
-    "new feature",
-    "executive dysfunction",
-    "getting started",
-    "announcement"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#executivedysfunction",
-    "#adhd",
-    "#neurodivergent",
-    "#gettingstarted"
-   ],
-   "id": "car-level-vibes-1-2",
-   "title": "Level Vibes 2.0: new look + getting started (after 2.0)",
-   "type": "carousel",
-   "caption": "I made Level Vibes for my ADHD brain. Level Vibes 2.0 is for the part where I know exactly what to do and still can't start. 🫠 And it comes with a whole new look.\n\nFor me, that's what executive dysfunction feels like. So this update is all about getting started:\n⏱️ Just 2 minutes: if I stop when it rings, it still counts\n👣 A tiny first step for any option\n3️⃣ A 3, 2, 1 countdown before timers\n🔔 Start straight from the daily nudge\n🤝 Want company? Ask your household to join in (on shared lists, part of the Plus Pack)\n\nOut now on the App Store. Link in bio. 💚💛❤️",
-   "media": [
-    {
-     "src": "media/car-level-vibes-1-2/01-mwagohqh.png",
-     "kind": "image",
-     "name": "01.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/02-mwagoht2.png",
-     "kind": "image",
-     "name": "02.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/03-mwagohvc.png",
-     "kind": "image",
-     "name": "03.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/04-mwagohxs.png",
-     "kind": "image",
-     "name": "04.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/05-mwagohzq.png",
-     "kind": "image",
-     "name": "05.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/06-mwagoi2f.png",
-     "kind": "image",
-     "name": "06.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/07-mwagoi4p.png",
-     "kind": "image",
-     "name": "07.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/08-mwagoi90.png",
-     "kind": "image",
-     "name": "08.png"
-    },
-    {
-     "src": "media/car-level-vibes-1-2/09-mwagoibn.png",
-     "kind": "image",
-     "name": "09.png"
-    }
-   ],
-   "created": "2026-11-10T09:02:03.209Z",
-   "thumb": "thumbs/car-level-vibes-1-2-mwagohqh.jpg"
   },
   {
    "tags": [
@@ -1946,160 +2100,6 @@
    ],
    "created": "2026-11-10T09:01:08.820Z",
    "thumb": "thumbs/meme-1-mwagnbro.jpg"
-  },
-  {
-   "tags": [
-    "coming soon",
-    "teaser",
-    "sneak peek",
-    "2.0",
-    "reel",
-    "new design"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#sneakpeek",
-    "#comingsoon",
-    "#indieapp",
-    "#appupdate"
-   ],
-   "id": "reel-sneak-peek",
-   "title": "Sneak peek reel (before 2.0)",
-   "type": "reel",
-   "caption": "A little sneak peek. 👀\n\nA new way to pick your level, help with getting started, and a timer you can watch close. Level Vibes 2.0 is almost here. Which part are you most excited for? 💚💛❤️",
-   "media": [
-    {
-     "src": "media/reel-sneak-peek/Reel-Sneak-peek-mwagh0rb.mp4",
-     "kind": "video",
-     "name": "Reel - Sneak peek.mp4"
-    }
-   ],
-   "created": "2026-11-10T08:47:47.892Z",
-   "thumb": "thumbs/reel-sneak-peek-mwagh0rb.jpg"
-  },
-  {
-   "tags": [
-    "coming soon",
-    "teaser",
-    "2.0",
-    "reel",
-    "animation",
-    "announcement"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#comingsoon",
-    "#indieapp",
-    "#buildinpublic",
-    "#appupdate"
-   ],
-   "id": "reel-coming-soon",
-   "title": "Something big is coming reel (before 2.0)",
-   "type": "reel",
-   "caption": "Level Vibes has been quiet lately. Here's why. 👀\n\nI've been building something big: Level Vibes 2.0. A whole new look, and more help getting started. Coming soon, so stay tuned. 💚💛❤️",
-   "media": [
-    {
-     "src": "media/reel-coming-soon/Reel-Something-big-is-coming-mwag65gg.mp4",
-     "kind": "video",
-     "name": "Reel - Something big is coming.mp4"
-    }
-   ],
-   "created": "2026-11-10T08:46:54.167Z",
-   "thumb": "thumbs/reel-coming-soon-mwag65gg.jpg"
-  },
-  {
-   "tags": [
-    "coming soon",
-    "teaser",
-    "2.0",
-    "sneak peek",
-    "new design",
-    "announcement"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#comingsoon",
-    "#indieapp",
-    "#buildinpublic",
-    "#adhd"
-   ],
-   "id": "car-coming-soon",
-   "title": "Something big is coming (before 2.0)",
-   "type": "carousel",
-   "caption": "Something big is coming to Level Vibes. 👀\n\nI've been quietly rebuilding the whole app: a whole new look, and more help with the part I find hardest, actually starting. Same idea at its heart: tap your energy, it picks one thing.\n\nLevel Vibes 2.0 is coming soon. Follow along so you don't miss it. 💚💛❤️",
-   "media": [
-    {
-     "src": "media/car-coming-soon/01-mwag4vvx.png",
-     "kind": "image",
-     "name": "01.png"
-    },
-    {
-     "src": "media/car-coming-soon/02-mwag4vyl.png",
-     "kind": "image",
-     "name": "02.png"
-    },
-    {
-     "src": "media/car-coming-soon/03-mwag4w1x.png",
-     "kind": "image",
-     "name": "03.png"
-    },
-    {
-     "src": "media/car-coming-soon/04-mwag4w4i.png",
-     "kind": "image",
-     "name": "04.png"
-    },
-    {
-     "src": "media/car-coming-soon/05-mwag4w8s.png",
-     "kind": "image",
-     "name": "05.png"
-    },
-    {
-     "src": "media/car-coming-soon/06-mwag4wcq.png",
-     "kind": "image",
-     "name": "06.png"
-    }
-   ],
-   "created": "2026-11-10T08:46:48.429Z",
-   "thumb": "thumbs/car-coming-soon-mwag4vvx.jpg"
-  },
-  {
-   "tags": [
-    "coming soon",
-    "teaser",
-    "2.0",
-    "sneak peek",
-    "story"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#comingsoon",
-    "#indieapp",
-    "#buildinpublic",
-    "#adhd"
-   ],
-   "id": "img-coming-soon",
-   "title": "Something big is coming (before 2.0)",
-   "type": "image",
-   "caption": "Something big is coming. 👀 Level Vibes 2.0: a whole new look, and more help with getting started. Stay tuned. 💚💛❤️",
-   "media": [
-    {
-     "src": "media/img-coming-soon/Feed-Something-big-is-coming-mwag4hfo.png",
-     "kind": "image",
-     "name": "Feed - Something big is coming.png"
-    },
-    {
-     "src": "media/img-coming-soon/Story-Something-big-is-coming-mwag4hjm.png",
-     "kind": "image",
-     "name": "Story - Something big is coming.png"
-    },
-    {
-     "src": "media/img-coming-soon/Story-Sneak-peek-mwag4hpa.png",
-     "kind": "image",
-     "name": "Story - Sneak peek.png"
-    }
-   ],
-   "created": "2026-11-10T08:46:29.700Z",
-   "thumb": "thumbs/img-coming-soon-mwag4hfo.jpg"
   },
   {
    "tags": [
