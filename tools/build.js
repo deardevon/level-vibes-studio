@@ -70,6 +70,11 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
   }
   for (const f of fs.readdirSync(path.join(ROOT, 'thumbs'))) if (!ids.has(f.replace(/\.jpg$/, ''))) { fs.unlinkSync(path.join(ROOT, 'thumbs', f)); removed++; }
   if (removed) console.log(`removed ${removed} unused files`);
+  // Older copies of the page (saved on phones) read src and thumb, so those carry the stamp too
+  for (const it of items) {
+    for (const m of it.media) m.src = m.url;
+    if (it.thumbUrl) it.thumb = it.thumbUrl;
+  }
   // Newest first
   items.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
   fs.writeFileSync(path.join(ROOT, 'catalog.json'), JSON.stringify({ updated: new Date().toISOString(), items }, null, 1));
