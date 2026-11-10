@@ -26,7 +26,8 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
       created = Math.min(created, st.birthtimeMs || st.mtimeMs);
       const name = safe(path.basename(rel));
       const dest = path.join(dir, name);
-      if (!fs.existsSync(dest) || fs.statSync(dest).size !== fs.statSync(src).size) fs.copyFileSync(src, dest);
+      // Copy when it's new, a different size, or the source was changed since (restyled files)
+      if (!fs.existsSync(dest) || fs.statSync(dest).size !== st.size || fs.statSync(dest).mtimeMs < st.mtimeMs) fs.copyFileSync(src, dest);
       it.media.push({ src: `media/${it.id}/${name}`, kind: isVideo(rel) ? 'video' : 'image', name: path.basename(rel) });
     }
     delete it.files;
@@ -37,8 +38,9 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
     if (!first) continue;
     const thumb = path.join(ROOT, 'thumbs', `${it.id}.jpg`);
     fs.mkdirSync(path.dirname(thumb), { recursive: true });
-    if (!fs.existsSync(thumb)) {
-      const firstPath = path.join(ROOT, first.src);
+    const firstPath = path.join(ROOT, first.src);
+    // Make the preview again whenever the first file is newer than it
+    if (!fs.existsSync(thumb) || fs.statSync(thumb).mtimeMs < fs.statSync(firstPath).mtimeMs) {
       if (first.kind === 'video') {
         const tmp = thumb + '.png';
         execFileSync(FFMPEG, ['-hide_banner', '-loglevel', 'error', '-y', '-ss', '1.5', '-i', firstPath, '-frames:v', '1', tmp]);
@@ -50,6 +52,17 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
     }
     it.thumb = `thumbs/${it.id}.jpg`;
   }
+  // Remove files and previews no post uses any more (old versions, renamed or removed posts)
+  const used = new Set(items.flatMap((i) => i.media.map((m) => m.src)));
+  const ids = new Set(items.map((i) => i.id));
+  let removed = 0;
+  for (const d of fs.readdirSync(path.join(ROOT, 'media'))) {
+    const dir = path.join(ROOT, 'media', d);
+    for (const f of fs.readdirSync(dir)) if (!used.has(`media/${d}/${f}`)) { fs.unlinkSync(path.join(dir, f)); removed++; }
+    if (!fs.readdirSync(dir).length) fs.rmdirSync(dir);
+  }
+  for (const f of fs.readdirSync(path.join(ROOT, 'thumbs'))) if (!ids.has(f.replace(/\.jpg$/, ''))) { fs.unlinkSync(path.join(ROOT, 'thumbs', f)); removed++; }
+  if (removed) console.log(`removed ${removed} unused files`);
   // Newest first
   items.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
   fs.writeFileSync(path.join(ROOT, 'catalog.json'), JSON.stringify({ updated: new Date().toISOString(), items }, null, 1));
