@@ -1,10 +1,66 @@
 {
- "updated": "2026-11-09T15:48:39.291Z",
+ "updated": "2026-11-10T02:46:36.546Z",
  "items": [
   {
    "tags": [
+    "behind the scenes",
+    "indie app",
+    "numbers",
+    "personal",
+    "build in public"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#buildinpublic",
+    "#indieapp",
+    "#solofounder",
+    "#adhd"
+   ],
+   "id": "car-bts-week-two",
+   "title": "Behind the scenes: week two (honest numbers)",
+   "type": "carousel",
+   "caption": "Behind the scenes, week two. Honest numbers from a one-person app. 📊\n\n16 downloads, most of them from people I know (hi, Mom). My first ad got zero clicks. The one where I told my own story got a 5% click rate. Lesson learned: less pitch, more me.\n\nNext up is Level Vibes 2.0: a whole new look, and help with getting started. If you've downloaded the app, thank you. A rating on the App Store genuinely helps a tiny app like mine. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-bts-week-two/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-bts-week-two/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-bts-week-two/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-bts-week-two/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-bts-week-two/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-bts-week-two/06.png",
+     "kind": "image",
+     "name": "06.png"
+    }
+   ],
+   "created": "2026-11-10T02:46:35.440Z",
+   "thumb": "thumbs/car-bts-week-two.jpg"
+  },
+  {
+   "tags": [
+    "2.0",
     "1.2",
     "update",
+    "new design",
     "announcement",
     "executive dysfunction",
     "new feature",
@@ -19,23 +75,25 @@
     "#neurodivergent"
    ],
    "id": "reel-1-2-announcement",
-   "title": "Level Vibes 1.2 announcement reel (after 1.2)",
+   "title": "Level Vibes 2.0 announcement reel (after 2.0)",
    "type": "reel",
-   "caption": "I made Level Vibes for my ADHD brain. But some days I know exactly what to do and still can't start. For me, that's executive dysfunction, so Level Vibes 1.2 is all about getting started. 💚\n\nJust 2 minutes, a tiny first step for anything, a 3, 2, 1 before every timer, starting straight from the daily nudge, and (on shared household lists with the Plus Pack) asking for company.\n\nOut now on the App Store. Link in bio. 💚💛❤️",
+   "caption": "I made Level Vibes for my ADHD brain. But some days I know exactly what to do and still can't start. For me, that's executive dysfunction, so Level Vibes 2.0 is all about getting started, with a whole new look. 💚\n\nJust 2 minutes, a tiny first step for anything, a 3, 2, 1 before every timer, starting straight from the daily nudge, and (on shared household lists with the Plus Pack) asking for company. Plus the wave, and a brand new design.\n\nOut now on the App Store. Link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-1-2-announcement/Level-Vibes-1.2-announcement-reel.mp4",
+     "src": "media/reel-1-2-announcement/Level-Vibes-2.0-announcement-reel.mp4",
      "kind": "video",
-     "name": "Level Vibes 1.2 announcement reel.mp4"
+     "name": "Level Vibes 2.0 announcement reel.mp4"
     }
    ],
-   "created": "2026-11-09T15:48:28.859Z",
+   "created": "2026-11-10T02:45:36.851Z",
    "thumb": "thumbs/reel-1-2-announcement.jpg"
   },
   {
    "tags": [
+    "2.0",
     "1.2",
     "update",
+    "new design",
     "announcement",
     "executive dysfunction",
     "new feature"
@@ -48,28 +106,30 @@
     "#neurodivergent"
    ],
    "id": "img-1-2-announcement",
-   "title": "Level Vibes 1.2 announcement (after 1.2)",
+   "title": "Level Vibes 2.0 announcement (after 2.0)",
    "type": "image",
-   "caption": "Level Vibes 1.2 is out. 💚 It's for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Update on the App Store, link in bio.",
+   "caption": "Level Vibes 2.0 is out. 💚 A whole new look, made for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Update on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/img-1-2-announcement/Level-Vibes-1.2-announcement-feed-.png",
+     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-feed-.png",
      "kind": "image",
-     "name": "Level Vibes 1.2 announcement (feed).png"
+     "name": "Level Vibes 2.0 announcement (feed).png"
     },
     {
-     "src": "media/img-1-2-announcement/Level-Vibes-1.2-announcement-story-.png",
+     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-story-.png",
      "kind": "image",
-     "name": "Level Vibes 1.2 announcement (story).png"
+     "name": "Level Vibes 2.0 announcement (story).png"
     }
    ],
-   "created": "2026-11-09T15:47:16.206Z",
+   "created": "2026-11-10T02:44:13.862Z",
    "thumb": "thumbs/img-1-2-announcement.jpg"
   },
   {
    "tags": [
+    "2.0",
     "1.2",
     "update",
+    "new design",
     "new feature",
     "executive dysfunction",
     "getting started",
@@ -83,9 +143,9 @@
     "#gettingstarted"
    ],
    "id": "car-level-vibes-1-2",
-   "title": "Level Vibes 1.2: executive dysfunction (after 1.2)",
+   "title": "Level Vibes 2.0: new look + getting started (after 2.0)",
    "type": "carousel",
-   "caption": "I made Level Vibes for my ADHD brain. Level Vibes 1.2 is for the part where I know exactly what to do and still can't start. 🫠\n\nFor me, that's what executive dysfunction feels like. So this update is all about getting started:\n⏱️ Just 2 minutes: if I stop when it rings, it still counts\n👣 A tiny first step for any option\n3️⃣ A 3, 2, 1 countdown before timers\n🔔 Start straight from the daily nudge\n🤝 Want company? Ask your household to join in (on shared lists, part of the Plus Pack)\n\nOut now on the App Store. Link in bio. 💚💛❤️",
+   "caption": "I made Level Vibes for my ADHD brain. Level Vibes 2.0 is for the part where I know exactly what to do and still can't start. 🫠 And it comes with a whole new look.\n\nFor me, that's what executive dysfunction feels like. So this update is all about getting started:\n⏱️ Just 2 minutes: if I stop when it rings, it still counts\n👣 A tiny first step for any option\n3️⃣ A 3, 2, 1 countdown before timers\n🔔 Start straight from the daily nudge\n🤝 Want company? Ask your household to join in (on shared lists, part of the Plus Pack)\n\nOut now on the App Store. Link in bio. 💚💛❤️",
    "media": [
     {
      "src": "media/car-level-vibes-1-2/01.png",
@@ -126,9 +186,14 @@
      "src": "media/car-level-vibes-1-2/08.png",
      "kind": "image",
      "name": "08.png"
+    },
+    {
+     "src": "media/car-level-vibes-1-2/09.png",
+     "kind": "image",
+     "name": "09.png"
     }
    ],
-   "created": "2026-11-09T15:47:15.539Z",
+   "created": "2026-11-10T02:44:13.054Z",
    "thumb": "thumbs/car-level-vibes-1-2.jpg"
   },
   {
@@ -149,7 +214,7 @@
     "#executivedysfunction"
    ],
    "id": "car-built-for-my-brain",
-   "title": "Things I built because of my brain (after 1.2)",
+   "title": "Things I built because of my brain (after 2.0)",
    "type": "carousel",
    "caption": "I have ADHD and I'm autistic, and almost every feature in Level Vibes started as a problem in my own head. 🧠 Swipe through.\n\nGetting started is my hardest part, so there's Just 2 minutes. Big tasks look like walls, so any option can have a tiny first step. And there are no streaks, because missing one day used to make me quit the whole thing.\n\nWhich one would help your brain most? 👇\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
@@ -217,7 +282,7 @@
     "#neurodivergent"
    ],
    "id": "img-adhd-5",
-   "title": "Things I built because of my ADHD #5: Just 2 minutes (after 1.2)",
+   "title": "Things I built because of my ADHD #5: Just 2 minutes (after 2.0)",
    "type": "image",
    "caption": "Things I built because of my ADHD, part 5: Just 2 minutes. ⏱️ (New in 1.2)\n\nGetting started is the hardest part for me. So now I can tap Just 2 minutes. If I stop when it rings, it still counts. Usually I keep going.\n\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
@@ -541,60 +606,6 @@
    ],
    "created": "2026-11-09T15:15:40.198Z",
    "thumb": "thumbs/car-why-the-name.jpg"
-  },
-  {
-   "tags": [
-    "behind the scenes",
-    "indie app",
-    "numbers",
-    "personal",
-    "build in public"
-   ],
-   "hashtags": [
-    "#LevelVibes",
-    "#buildinpublic",
-    "#indieapp",
-    "#solofounder",
-    "#adhd"
-   ],
-   "id": "car-bts-week-two",
-   "title": "Behind the scenes: week two (honest numbers)",
-   "type": "carousel",
-   "caption": "Behind the scenes, week two. Honest numbers from a one-person app. 📊\n\n16 downloads, most of them from people I know (hi, Mom). My first ad got zero clicks. The one where I told my own story got a 5% click rate. Lesson learned: less pitch, more me.\n\nNext up is Level Vibes 1.2, all about getting started. If you've downloaded the app, thank you. A rating on the App Store genuinely helps a tiny app like mine. 💚💛❤️",
-   "media": [
-    {
-     "src": "media/car-bts-week-two/01.png",
-     "kind": "image",
-     "name": "01.png"
-    },
-    {
-     "src": "media/car-bts-week-two/02.png",
-     "kind": "image",
-     "name": "02.png"
-    },
-    {
-     "src": "media/car-bts-week-two/03.png",
-     "kind": "image",
-     "name": "03.png"
-    },
-    {
-     "src": "media/car-bts-week-two/04.png",
-     "kind": "image",
-     "name": "04.png"
-    },
-    {
-     "src": "media/car-bts-week-two/05.png",
-     "kind": "image",
-     "name": "05.png"
-    },
-    {
-     "src": "media/car-bts-week-two/06.png",
-     "kind": "image",
-     "name": "06.png"
-    }
-   ],
-   "created": "2026-11-09T15:15:39.706Z",
-   "thumb": "thumbs/car-bts-week-two.jpg"
   },
   {
    "tags": [

@@ -93,8 +93,8 @@ const OTHER_REEL_CAPTIONS = {
 
 // Carousels from the content list: id, title, folder in Social 1.1/Carousels, search tags
 const CAROUSELS = [
-  ['car-built-for-my-brain', 'Things I built because of my brain (after 1.2)', 'Built for my brain', 'my story, adhd, autism, features, personal, 1.2, getting started'],
-  ['car-level-vibes-1-2', 'Level Vibes 1.2: executive dysfunction (after 1.2)', 'Level Vibes 1.2', '1.2, update, new feature, executive dysfunction, getting started, announcement'],
+  ['car-built-for-my-brain', 'Things I built because of my brain (after 2.0)', 'Built for my brain', 'my story, adhd, autism, features, personal, 1.2, getting started'],
+  ['car-level-vibes-1-2', 'Level Vibes 2.0: new look + getting started (after 2.0)', 'Level Vibes 2.0', '2.0, 1.2, update, new design, new feature, executive dysfunction, getting started, announcement'],
   ['car-room-by-room', 'A Level 1, 2 and 3 day, room by room', 'Room by room', 'chores, cleaning, levels, rooms, house'],
   ['car-how-it-works', 'How Level Vibes works, in 6 slides', 'How it works', 'how it works, app demo, features, explainer'],
   ['car-week-of-wins', 'A week of Level 1 wins', 'A week of Level 1 wins', 'small wins, level 1, low energy, daily post, week'],
@@ -106,14 +106,14 @@ const CAROUSELS = [
 
 // Single images with a caption file next to them (header lines, a blank line, then the caption)
 const SINGLES = [
-  ['reel-1-2-announcement', 'Level Vibes 1.2 announcement reel (after 1.2)', ['Level Vibes 1.2/Level Vibes 1.2 announcement reel.mp4'], 'Level Vibes 1.2/Level Vibes 1.2 announcement reel - caption.txt', '1.2, update, announcement, executive dysfunction, new feature, reel, animation'],
-  ['img-1-2-announcement', 'Level Vibes 1.2 announcement (after 1.2)', ['Level Vibes 1.2/Level Vibes 1.2 announcement (feed).png', 'Level Vibes 1.2/Level Vibes 1.2 announcement (story).png'], 'Level Vibes 1.2/Level Vibes 1.2 announcement - caption.txt', '1.2, update, announcement, executive dysfunction, new feature'],
+  ['reel-1-2-announcement', 'Level Vibes 2.0 announcement reel (after 2.0)', ['Level Vibes 2.0/Level Vibes 2.0 announcement reel.mp4'], 'Level Vibes 2.0/Level Vibes 2.0 announcement reel - caption.txt', '2.0, 1.2, update, new design, announcement, executive dysfunction, new feature, reel, animation'],
+  ['img-1-2-announcement', 'Level Vibes 2.0 announcement (after 2.0)', ['Level Vibes 2.0/Level Vibes 2.0 announcement (feed).png', 'Level Vibes 2.0/Level Vibes 2.0 announcement (story).png'], 'Level Vibes 2.0/Level Vibes 2.0 announcement - caption.txt', '2.0, 1.2, update, new design, announcement, executive dysfunction, new feature'],
   ['img-level-1-not-lazy', "Level 1 days aren't lazy days", ["Single posts/Level 1 days aren't lazy days.png"], "Single posts/Level 1 days aren't lazy days - caption.txt", 'level 1, low energy, rest, save this, quote'],
   ['img-adhd-1', 'Things I built because of my ADHD #1: No streaks', ['Single posts/Built because of my ADHD 1 - No streaks.png'], 'Single posts/Built because of my ADHD 1 - No streaks - caption.txt', 'adhd, my story, features, series'],
   ['img-adhd-2', 'Things I built because of my ADHD #2: It picks one thing', ['Single posts/Built because of my ADHD 2 - It picks one thing.png'], 'Single posts/Built because of my ADHD 2 - It picks one thing - caption.txt', 'adhd, my story, features, series'],
   ['img-adhd-3', 'Things I built because of my ADHD #3: Timers that ring', ['Single posts/Built because of my ADHD 3 - Timers that ring.png'], 'Single posts/Built because of my ADHD 3 - Timers that ring - caption.txt', 'adhd, my story, features, series'],
   ['img-adhd-4', 'Things I built because of my ADHD #4: Pick Again', ['Single posts/Built because of my ADHD 4 - Pick Again.png'], 'Single posts/Built because of my ADHD 4 - Pick Again - caption.txt', 'adhd, my story, features, series'],
-  ['img-adhd-5', 'Things I built because of my ADHD #5: Just 2 minutes (after 1.2)', ['Single posts/Built because of my ADHD 5 - Just 2 minutes.png'], 'Single posts/Built because of my ADHD 5 - Just 2 minutes - caption.txt', 'adhd, my story, features, series'],
+  ['img-adhd-5', 'Things I built because of my ADHD #5: Just 2 minutes (after 2.0)', ['Single posts/Built because of my ADHD 5 - Just 2 minutes.png'], 'Single posts/Built because of my ADHD 5 - Just 2 minutes - caption.txt', 'adhd, my story, features, series'],
 ];
 
 const DAILY = [
