@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:35:21.116Z",
+ "updated": "2026-11-10T12:03:15.711Z",
  "items": [
   {
    "tags": [
@@ -20,15 +20,13 @@
    "caption": "Psst. Tap the logo five times. 🖖 Qapla'!",
    "media": [
     {
-     "src": "media/reel-klingon/Social-klingon-1080x1920-.mp4?v=mwairkzn",
+     "src": "media/reel-klingon/Social-klingon-1080x1920--mwairkzn.mp4",
      "kind": "video",
-     "name": "Social - klingon (1080x1920).mp4",
-     "url": "media/reel-klingon/Social-klingon-1080x1920-.mp4?v=mwairkzn"
+     "name": "Social - klingon (1080x1920).mp4"
     }
    ],
    "created": "2026-11-10T10:00:16.472Z",
-   "thumb": "thumbs/reel-klingon.jpg?v=mwaitpzu",
-   "thumbUrl": "thumbs/reel-klingon.jpg?v=mwaitpzu"
+   "thumb": "thumbs/reel-klingon-mwairkzn.jpg"
   },
   {
    "tags": [
@@ -48,21 +46,18 @@
    "link": "https://levelvibes.app/home.html?ct=meta-test-4",
    "media": [
     {
-     "src": "media/ad-e/Ad-image-E-Notebook-feed-4x5-.png?v=mwaib1hy",
+     "src": "media/ad-e/Ad-image-E-Notebook-feed-4x5--mwaib1hy.png",
      "kind": "image",
-     "name": "Ad image E - Notebook (feed 4x5).png",
-     "url": "media/ad-e/Ad-image-E-Notebook-feed-4x5-.png?v=mwaib1hy"
+     "name": "Ad image E - Notebook (feed 4x5).png"
     },
     {
-     "src": "media/ad-e/Ad-image-E-Notebook-9x16-.png?v=mwaib1jp",
+     "src": "media/ad-e/Ad-image-E-Notebook-9x16--mwaib1jp.png",
      "kind": "image",
-     "name": "Ad image E - Notebook (9x16).png",
-     "url": "media/ad-e/Ad-image-E-Notebook-9x16-.png?v=mwaib1jp"
+     "name": "Ad image E - Notebook (9x16).png"
     }
    ],
    "created": "2026-11-10T09:47:34.870Z",
-   "thumb": "thumbs/ad-e.jpg?v=mwaitqzw",
-   "thumbUrl": "thumbs/ad-e.jpg?v=mwaitqzw"
+   "thumb": "thumbs/ad-e-mwaib1hy.jpg"
   },
   {
    "tags": [
@@ -86,21 +81,18 @@
    "caption": "Hot take for my fellow couch sitters 🛋️ My house isn't messy because I don't care. Getting started at all is the hardest part. So I made an app that gives me a place to start: one thing. Anyone else? 👇\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-couch-sitters/Ad-image-E-Notebook-feed-4x5-.png?v=mwaib1hy",
+     "src": "media/img-couch-sitters/Ad-image-E-Notebook-feed-4x5--mwaib1hy.png",
      "kind": "image",
-     "name": "Ad image E - Notebook (feed 4x5).png",
-     "url": "media/img-couch-sitters/Ad-image-E-Notebook-feed-4x5-.png?v=mwaib1hy"
+     "name": "Ad image E - Notebook (feed 4x5).png"
     },
     {
-     "src": "media/img-couch-sitters/Ad-image-E-Notebook-9x16-.png?v=mwaib1jp",
+     "src": "media/img-couch-sitters/Ad-image-E-Notebook-9x16--mwaib1jp.png",
      "kind": "image",
-     "name": "Ad image E - Notebook (9x16).png",
-     "url": "media/img-couch-sitters/Ad-image-E-Notebook-9x16-.png?v=mwaib1jp"
+     "name": "Ad image E - Notebook (9x16).png"
     }
    ],
    "created": "2026-11-10T09:47:34.870Z",
-   "thumb": "thumbs/img-couch-sitters.jpg?v=mwaitr0m",
-   "thumbUrl": "thumbs/img-couch-sitters.jpg?v=mwaitr0m"
+   "thumb": "thumbs/img-couch-sitters-mwaib1hy.jpg"
   },
   {
    "tags": [
@@ -124,75 +116,63 @@
    "caption": "This is what decision fatigue looks like in my house. 🫠 Every room has something waiting, every chore wants my attention, and the guilt shows up right on time. Swipe through.\n\nI have ADHD and I'm autistic, and for me the hardest part was never the doing. It was deciding. So I made Level Vibes: on a Level 1 day it picks one thing, like laundry, and that's enough. 💚💛❤️\n\nDoes your house look like slide 7 too? 👇\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/car-decision-fatigue/01.png?v=mwahv466",
+     "src": "media/car-decision-fatigue/01-mwahv466.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-decision-fatigue/01.png?v=mwahv466"
+     "name": "01.png"
     },
     {
-     "src": "media/car-decision-fatigue/02.png?v=mwahv48h",
+     "src": "media/car-decision-fatigue/02-mwahv48h.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-decision-fatigue/02.png?v=mwahv48h"
+     "name": "02.png"
     },
     {
-     "src": "media/car-decision-fatigue/03.png?v=mwahv4b6",
+     "src": "media/car-decision-fatigue/03-mwahv4b6.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-decision-fatigue/03.png?v=mwahv4b6"
+     "name": "03.png"
     },
     {
-     "src": "media/car-decision-fatigue/04.png?v=mwahv4dn",
+     "src": "media/car-decision-fatigue/04-mwahv4dn.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-decision-fatigue/04.png?v=mwahv4dn"
+     "name": "04.png"
     },
     {
-     "src": "media/car-decision-fatigue/05.png?v=mwahv4g3",
+     "src": "media/car-decision-fatigue/05-mwahv4g3.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-decision-fatigue/05.png?v=mwahv4g3"
+     "name": "05.png"
     },
     {
-     "src": "media/car-decision-fatigue/06.png?v=mwahv4ig",
+     "src": "media/car-decision-fatigue/06-mwahv4ig.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-decision-fatigue/06.png?v=mwahv4ig"
+     "name": "06.png"
     },
     {
-     "src": "media/car-decision-fatigue/07.png?v=mwahv4l8",
+     "src": "media/car-decision-fatigue/07-mwahv4l8.png",
      "kind": "image",
-     "name": "07.png",
-     "url": "media/car-decision-fatigue/07.png?v=mwahv4l8"
+     "name": "07.png"
     },
     {
-     "src": "media/car-decision-fatigue/08.png?v=mwahv4nz",
+     "src": "media/car-decision-fatigue/08-mwahv4nz.png",
      "kind": "image",
-     "name": "08.png",
-     "url": "media/car-decision-fatigue/08.png?v=mwahv4nz"
+     "name": "08.png"
     },
     {
-     "src": "media/car-decision-fatigue/09.png?v=mwahv4qk",
+     "src": "media/car-decision-fatigue/09-mwahv4qk.png",
      "kind": "image",
-     "name": "09.png",
-     "url": "media/car-decision-fatigue/09.png?v=mwahv4qk"
+     "name": "09.png"
     },
     {
-     "src": "media/car-decision-fatigue/10.png?v=mwahv4sz",
+     "src": "media/car-decision-fatigue/10-mwahv4sz.png",
      "kind": "image",
-     "name": "10.png",
-     "url": "media/car-decision-fatigue/10.png?v=mwahv4sz"
+     "name": "10.png"
     },
     {
-     "src": "media/car-decision-fatigue/11.png?v=mwahv4vj",
+     "src": "media/car-decision-fatigue/11-mwahv4vj.png",
      "kind": "image",
-     "name": "11.png",
-     "url": "media/car-decision-fatigue/11.png?v=mwahv4vj"
+     "name": "11.png"
     }
    ],
    "created": "2026-11-10T09:35:11.838Z",
-   "thumb": "thumbs/car-decision-fatigue.jpg?v=mwaitq0q",
-   "thumbUrl": "thumbs/car-decision-fatigue.jpg?v=mwaitq0q"
+   "thumb": "thumbs/car-decision-fatigue-mwahv466.jpg"
   },
   {
    "tags": [
@@ -212,21 +192,18 @@
    "caption": "Monday motivation: optional. ☕ Which level are you starting the week on? 1, 2 or 3 👇",
    "media": [
     {
-     "src": "media/img-monday-motivation/Monday-post-feed-.png?v=mwahqnwy",
+     "src": "media/img-monday-motivation/Monday-post-feed--mwahqnwy.png",
      "kind": "image",
-     "name": "Monday post (feed).png",
-     "url": "media/img-monday-motivation/Monday-post-feed-.png?v=mwahqnwy"
+     "name": "Monday post (feed).png"
     },
     {
-     "src": "media/img-monday-motivation/Monday-story.png?v=mwahqo21",
+     "src": "media/img-monday-motivation/Monday-story-mwahqo21.png",
      "kind": "image",
-     "name": "Monday story.png",
-     "url": "media/img-monday-motivation/Monday-story.png?v=mwahqo21"
+     "name": "Monday story.png"
     }
    ],
    "created": "2026-11-10T09:31:44.146Z",
-   "thumb": "thumbs/img-monday-motivation.jpg?v=mwaitqpo",
-   "thumbUrl": "thumbs/img-monday-motivation.jpg?v=mwaitqpo"
+   "thumb": "thumbs/img-monday-motivation-mwahqnwy.jpg"
   },
   {
    "tags": [
@@ -247,21 +224,18 @@
    "caption": "Open the curtains. Tiny win unlocked. Which level are you today?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-14/14-Sunday-reset.png?v=mwahqntj",
+     "src": "media/daily-14/14-Sunday-reset-mwahqns6.png",
      "kind": "image",
-     "name": "14 - Sunday reset.png",
-     "url": "media/daily-14/14-Sunday-reset.png?v=mwahqntj"
+     "name": "14 - Sunday reset.png"
     },
     {
-     "src": "media/daily-14/14-Sunday-reset.png?v=mwahqntj",
+     "src": "media/daily-14/14-Sunday-reset-mwahqntj.png",
      "kind": "image",
-     "name": "14 - Sunday reset.png",
-     "url": "media/daily-14/14-Sunday-reset.png?v=mwahqntj"
+     "name": "14 - Sunday reset.png"
     }
    ],
    "created": "2026-11-10T09:31:43.974Z",
-   "thumb": "thumbs/daily-14.jpg?v=mwaitqwn",
-   "thumbUrl": "thumbs/daily-14.jpg?v=mwaitqwn"
+   "thumb": "thumbs/daily-14-mwahqns6.jpg"
   },
   {
    "tags": [
@@ -282,21 +256,18 @@
    "caption": "Dancing to one song counts. Tell me your level.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-13/13-Saturday-exercise.png?v=mwahqnqb",
+     "src": "media/daily-13/13-Saturday-exercise-mwahqnm1.png",
      "kind": "image",
-     "name": "13 - Saturday exercise.png",
-     "url": "media/daily-13/13-Saturday-exercise.png?v=mwahqnqb"
+     "name": "13 - Saturday exercise.png"
     },
     {
-     "src": "media/daily-13/13-Saturday-exercise.png?v=mwahqnqb",
+     "src": "media/daily-13/13-Saturday-exercise-mwahqnqb.png",
      "kind": "image",
-     "name": "13 - Saturday exercise.png",
-     "url": "media/daily-13/13-Saturday-exercise.png?v=mwahqnqb"
+     "name": "13 - Saturday exercise.png"
     }
    ],
    "created": "2026-11-10T09:31:43.753Z",
-   "thumb": "thumbs/daily-13.jpg?v=mwaitqw7",
-   "thumbUrl": "thumbs/daily-13.jpg?v=mwaitqw7"
+   "thumb": "thumbs/daily-13-mwahqnm1.jpg"
   },
   {
    "tags": [
@@ -317,21 +288,18 @@
    "caption": "Pick up 5 things. That's it. That's the level.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-12/12-Friday-chores.png?v=mwahqnj2",
+     "src": "media/daily-12/12-Friday-chores-mwahqnhv.png",
      "kind": "image",
-     "name": "12 - Friday chores.png",
-     "url": "media/daily-12/12-Friday-chores.png?v=mwahqnj2"
+     "name": "12 - Friday chores.png"
     },
     {
-     "src": "media/daily-12/12-Friday-chores.png?v=mwahqnj2",
+     "src": "media/daily-12/12-Friday-chores-mwahqnj2.png",
      "kind": "image",
-     "name": "12 - Friday chores.png",
-     "url": "media/daily-12/12-Friday-chores.png?v=mwahqnj2"
+     "name": "12 - Friday chores.png"
     }
    ],
    "created": "2026-11-10T09:31:43.603Z",
-   "thumb": "thumbs/daily-12.jpg?v=mwaitqvk",
-   "thumbUrl": "thumbs/daily-12.jpg?v=mwaitqvk"
+   "thumb": "thumbs/daily-12-mwahqnhv.jpg"
   },
   {
    "tags": [
@@ -352,21 +320,18 @@
    "caption": "Sending a meme counts as socializing. Which level?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-11/11-Thursday-social.png?v=mwahqnfb",
+     "src": "media/daily-11/11-Thursday-social-mwahqnb1.png",
      "kind": "image",
-     "name": "11 - Thursday social.png",
-     "url": "media/daily-11/11-Thursday-social.png?v=mwahqnfb"
+     "name": "11 - Thursday social.png"
     },
     {
-     "src": "media/daily-11/11-Thursday-social.png?v=mwahqnfb",
+     "src": "media/daily-11/11-Thursday-social-mwahqnfb.png",
      "kind": "image",
-     "name": "11 - Thursday social.png",
-     "url": "media/daily-11/11-Thursday-social.png?v=mwahqnfb"
+     "name": "11 - Thursday social.png"
     }
    ],
    "created": "2026-11-10T09:31:43.357Z",
-   "thumb": "thumbs/daily-11.jpg?v=mwaitqv3",
-   "thumbUrl": "thumbs/daily-11.jpg?v=mwaitqv3"
+   "thumb": "thumbs/daily-11-mwahqnb1.jpg"
   },
   {
    "tags": [
@@ -387,21 +352,18 @@
    "caption": "Brushing your teeth counts as self-care. Comment your level.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-10/10-Wednesday-self-care.png?v=mwahqn7t",
+     "src": "media/daily-10/10-Wednesday-self-care-mwahqn6j.png",
      "kind": "image",
-     "name": "10 - Wednesday self-care.png",
-     "url": "media/daily-10/10-Wednesday-self-care.png?v=mwahqn7t"
+     "name": "10 - Wednesday self-care.png"
     },
     {
-     "src": "media/daily-10/10-Wednesday-self-care.png?v=mwahqn7t",
+     "src": "media/daily-10/10-Wednesday-self-care-mwahqn7t.png",
      "kind": "image",
-     "name": "10 - Wednesday self-care.png",
-     "url": "media/daily-10/10-Wednesday-self-care.png?v=mwahqn7t"
+     "name": "10 - Wednesday self-care.png"
     }
    ],
    "created": "2026-11-10T09:31:43.195Z",
-   "thumb": "thumbs/daily-10.jpg?v=mwaitquk",
-   "thumbUrl": "thumbs/daily-10.jpg?v=mwaitquk"
+   "thumb": "thumbs/daily-10-mwahqn6j.jpg"
   },
   {
    "tags": [
@@ -422,21 +384,18 @@
    "caption": "A snack plate is a meal if you believe in yourself.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-9/09-Tuesday-meals.png?v=mwahqn4w",
+     "src": "media/daily-9/09-Tuesday-meals-mwahqn0o.png",
      "kind": "image",
-     "name": "09 - Tuesday meals.png",
-     "url": "media/daily-9/09-Tuesday-meals.png?v=mwahqn4w"
+     "name": "09 - Tuesday meals.png"
     },
     {
-     "src": "media/daily-9/09-Tuesday-meals.png?v=mwahqn4w",
+     "src": "media/daily-9/09-Tuesday-meals-mwahqn4w.png",
      "kind": "image",
-     "name": "09 - Tuesday meals.png",
-     "url": "media/daily-9/09-Tuesday-meals.png?v=mwahqn4w"
+     "name": "09 - Tuesday meals.png"
     }
    ],
    "created": "2026-11-10T09:31:42.984Z",
-   "thumb": "thumbs/daily-9.jpg?v=mwaitqu4",
-   "thumbUrl": "thumbs/daily-9.jpg?v=mwaitqu4"
+   "thumb": "thumbs/daily-9-mwahqn0o.jpg"
   },
   {
    "tags": [
@@ -457,21 +416,18 @@
    "caption": "One bag of trash is progress. Where are you at today?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-8/08-Monday-chores.png?v=mwahqmxl",
+     "src": "media/daily-8/08-Monday-chores-mwahqmw7.png",
      "kind": "image",
-     "name": "08 - Monday chores.png",
-     "url": "media/daily-8/08-Monday-chores.png?v=mwahqmxl"
+     "name": "08 - Monday chores.png"
     },
     {
-     "src": "media/daily-8/08-Monday-chores.png?v=mwahqmxl",
+     "src": "media/daily-8/08-Monday-chores-mwahqmxl.png",
      "kind": "image",
-     "name": "08 - Monday chores.png",
-     "url": "media/daily-8/08-Monday-chores.png?v=mwahqmxl"
+     "name": "08 - Monday chores.png"
     }
    ],
    "created": "2026-11-10T09:31:42.823Z",
-   "thumb": "thumbs/daily-8.jpg?v=mwaitqtk",
-   "thumbUrl": "thumbs/daily-8.jpg?v=mwaitqtk"
+   "thumb": "thumbs/daily-8-mwahqmw7.jpg"
   },
   {
    "tags": [
@@ -492,21 +448,18 @@
    "caption": "A glass of water is a win. Which level are you starting the week on?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-7/07-Sunday-reset.png?v=mwahqmu5",
+     "src": "media/daily-7/07-Sunday-reset-mwahqmpn.png",
      "kind": "image",
-     "name": "07 - Sunday reset.png",
-     "url": "media/daily-7/07-Sunday-reset.png?v=mwahqmu5"
+     "name": "07 - Sunday reset.png"
     },
     {
-     "src": "media/daily-7/07-Sunday-reset.png?v=mwahqmu5",
+     "src": "media/daily-7/07-Sunday-reset-mwahqmu5.png",
      "kind": "image",
-     "name": "07 - Sunday reset.png",
-     "url": "media/daily-7/07-Sunday-reset.png?v=mwahqmu5"
+     "name": "07 - Sunday reset.png"
     }
    ],
    "created": "2026-11-10T09:31:42.587Z",
-   "thumb": "thumbs/daily-7.jpg?v=mwaitqt2",
-   "thumbUrl": "thumbs/daily-7.jpg?v=mwaitqt2"
+   "thumb": "thumbs/daily-7-mwahqmpn.jpg"
   },
   {
    "tags": [
@@ -527,21 +480,18 @@
    "caption": "Two minutes of doodling is still making something.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-6/06-Saturday-creative.png?v=mwahqmmj",
+     "src": "media/daily-6/06-Saturday-creative-mwahqml8.png",
      "kind": "image",
-     "name": "06 - Saturday creative.png",
-     "url": "media/daily-6/06-Saturday-creative.png?v=mwahqmmj"
+     "name": "06 - Saturday creative.png"
     },
     {
-     "src": "media/daily-6/06-Saturday-creative.png?v=mwahqmmj",
+     "src": "media/daily-6/06-Saturday-creative-mwahqmmj.png",
      "kind": "image",
-     "name": "06 - Saturday creative.png",
-     "url": "media/daily-6/06-Saturday-creative.png?v=mwahqmmj"
+     "name": "06 - Saturday creative.png"
     }
    ],
    "created": "2026-11-10T09:31:42.428Z",
-   "thumb": "thumbs/daily-6.jpg?v=mwaitqse",
-   "thumbUrl": "thumbs/daily-6.jpg?v=mwaitqse"
+   "thumb": "thumbs/daily-6-mwahqml8.jpg"
   },
   {
    "tags": [
@@ -562,21 +512,18 @@
    "caption": "1 minute of stretching still counts as moving.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-5/05-Friday-exercise.png?v=mwahqmjb",
+     "src": "media/daily-5/05-Friday-exercise-mwahqmfb.png",
      "kind": "image",
-     "name": "05 - Friday exercise.png",
-     "url": "media/daily-5/05-Friday-exercise.png?v=mwahqmjb"
+     "name": "05 - Friday exercise.png"
     },
     {
-     "src": "media/daily-5/05-Friday-exercise.png?v=mwahqmjb",
+     "src": "media/daily-5/05-Friday-exercise-mwahqmjb.png",
      "kind": "image",
-     "name": "05 - Friday exercise.png",
-     "url": "media/daily-5/05-Friday-exercise.png?v=mwahqmjb"
+     "name": "05 - Friday exercise.png"
     }
    ],
    "created": "2026-11-10T09:31:42.215Z",
-   "thumb": "thumbs/daily-5.jpg?v=mwaitqs0",
-   "thumbUrl": "thumbs/daily-5.jpg?v=mwaitqs0"
+   "thumb": "thumbs/daily-5-mwahqmfb.jpg"
   },
   {
    "tags": [
@@ -597,21 +544,18 @@
    "caption": "The letter isn't going to open itself. Level 1 is just opening it.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-4/04-Thursday-admin.png?v=mwahqmcb",
+     "src": "media/daily-4/04-Thursday-admin-mwahqmax.png",
      "kind": "image",
-     "name": "04 - Thursday admin.png",
-     "url": "media/daily-4/04-Thursday-admin.png?v=mwahqmcb"
+     "name": "04 - Thursday admin.png"
     },
     {
-     "src": "media/daily-4/04-Thursday-admin.png?v=mwahqmcb",
+     "src": "media/daily-4/04-Thursday-admin-mwahqmcb.png",
      "kind": "image",
-     "name": "04 - Thursday admin.png",
-     "url": "media/daily-4/04-Thursday-admin.png?v=mwahqmcb"
+     "name": "04 - Thursday admin.png"
     }
    ],
    "created": "2026-11-10T09:31:42.057Z",
-   "thumb": "thumbs/daily-4.jpg?v=mwaitqrf",
-   "thumbUrl": "thumbs/daily-4.jpg?v=mwaitqrf"
+   "thumb": "thumbs/daily-4-mwahqmax.jpg"
   },
   {
    "tags": [
@@ -632,21 +576,18 @@
    "caption": "Wearing pajamas is self-care. Fight me. Which level?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-3/03-Wednesday-self-care.png?v=mwahqm93",
+     "src": "media/daily-3/03-Wednesday-self-care-mwahqm4v.png",
      "kind": "image",
-     "name": "03 - Wednesday self-care.png",
-     "url": "media/daily-3/03-Wednesday-self-care.png?v=mwahqm93"
+     "name": "03 - Wednesday self-care.png"
     },
     {
-     "src": "media/daily-3/03-Wednesday-self-care.png?v=mwahqm93",
+     "src": "media/daily-3/03-Wednesday-self-care-mwahqm93.png",
      "kind": "image",
-     "name": "03 - Wednesday self-care.png",
-     "url": "media/daily-3/03-Wednesday-self-care.png?v=mwahqm93"
+     "name": "03 - Wednesday self-care.png"
     }
    ],
    "created": "2026-11-10T09:31:41.839Z",
-   "thumb": "thumbs/daily-3.jpg?v=mwaitqr1",
-   "thumbUrl": "thumbs/daily-3.jpg?v=mwaitqr1"
+   "thumb": "thumbs/daily-3-mwahqm4v.jpg"
   },
   {
    "tags": [
@@ -667,21 +608,18 @@
    "caption": "Cereal counts. Dinner is dinner. Which level?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-2/02-Tuesday-meals.png?v=mwahqm1x",
+     "src": "media/daily-2/02-Tuesday-meals-mwahqm0g.png",
      "kind": "image",
-     "name": "02 - Tuesday meals.png",
-     "url": "media/daily-2/02-Tuesday-meals.png?v=mwahqm1x"
+     "name": "02 - Tuesday meals.png"
     },
     {
-     "src": "media/daily-2/02-Tuesday-meals.png?v=mwahqm1x",
+     "src": "media/daily-2/02-Tuesday-meals-mwahqm1x.png",
      "kind": "image",
-     "name": "02 - Tuesday meals.png",
-     "url": "media/daily-2/02-Tuesday-meals.png?v=mwahqm1x"
+     "name": "02 - Tuesday meals.png"
     }
    ],
    "created": "2026-11-10T09:31:41.680Z",
-   "thumb": "thumbs/daily-2.jpg?v=mwaitqqk",
-   "thumbUrl": "thumbs/daily-2.jpg?v=mwaitqqk"
+   "thumb": "thumbs/daily-2-mwahqm0g.jpg"
   },
   {
    "tags": [
@@ -702,21 +640,18 @@
    "caption": "Monday doesn't get to boss you around. Which level are you today?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-1/01-Monday-chores.png?v=mwahqlyz",
+     "src": "media/daily-1/01-Monday-chores-mwahqlul.png",
      "kind": "image",
-     "name": "01 - Monday chores.png",
-     "url": "media/daily-1/01-Monday-chores.png?v=mwahqlyz"
+     "name": "01 - Monday chores.png"
     },
     {
-     "src": "media/daily-1/01-Monday-chores.png?v=mwahqlyz",
+     "src": "media/daily-1/01-Monday-chores-mwahqlyz.png",
      "kind": "image",
-     "name": "01 - Monday chores.png",
-     "url": "media/daily-1/01-Monday-chores.png?v=mwahqlyz"
+     "name": "01 - Monday chores.png"
     }
    ],
    "created": "2026-11-10T09:31:41.469Z",
-   "thumb": "thumbs/daily-1.jpg?v=mwaitqq7",
-   "thumbUrl": "thumbs/daily-1.jpg?v=mwaitqq7"
+   "thumb": "thumbs/daily-1-mwahqlul.jpg"
   },
   {
    "tags": [
@@ -743,15 +678,13 @@
    "caption": "I made Level Vibes for my ADHD brain. But some days I know exactly what to do and still can't start. For me, that's executive dysfunction, so Level Vibes 2.0 is all about getting started, with a whole new look. 💚\n\nJust 2 minutes, a tiny first step for anything, a 3, 2, 1 before every timer, starting straight from the daily nudge, and (on shared household lists with the Plus Pack) asking for company. Plus the wave, and a brand new design.\n\nOut now on the App Store. Link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-1-2-announcement/Level-Vibes-2.0-announcement-reel.mp4?v=mwahq7fe",
+     "src": "media/reel-1-2-announcement/Level-Vibes-2.0-announcement-reel-mwahq7fe.mp4",
      "kind": "video",
-     "name": "Level Vibes 2.0 announcement reel.mp4",
-     "url": "media/reel-1-2-announcement/Level-Vibes-2.0-announcement-reel.mp4?v=mwahq7fe"
+     "name": "Level Vibes 2.0 announcement reel.mp4"
     }
    ],
    "created": "2026-11-10T09:31:15.358Z",
-   "thumb": "thumbs/reel-1-2-announcement.jpg?v=mwaitqab",
-   "thumbUrl": "thumbs/reel-1-2-announcement.jpg?v=mwaitqab"
+   "thumb": "thumbs/reel-1-2-announcement-mwahq7fe.jpg"
   },
   {
    "tags": [
@@ -771,27 +704,23 @@
    "caption": "It's here. Level Vibes is on the App Store! 🎉\n\nSome days you can deep-clean the kitchen. Some days a bowl of cereal counts as dinner. 🥣\n\nLevel Vibes gets that. Tap the level of energy you've got (1, 2 or 3) and it picks one thing to do, so you don't have to decide.\n\nChores, meals, workouts, what to watch… make a list for anything. Free on iPhone, iPad and Apple Watch. Link in bio.\n\nPut some vibe in your level. 💚💛❤️",
    "media": [
     {
-     "src": "media/launch-post/launch-portrait.png?v=mwagwbwg",
+     "src": "media/launch-post/launch-portrait-mwagwbwg.png",
      "kind": "image",
-     "name": "launch-portrait.png",
-     "url": "media/launch-post/launch-portrait.png?v=mwagwbwg"
+     "name": "launch-portrait.png"
     },
     {
-     "src": "media/launch-post/launch-square.png?v=mwagwbzq",
+     "src": "media/launch-post/launch-square-mwagwbzq.png",
      "kind": "image",
-     "name": "launch-square.png",
-     "url": "media/launch-post/launch-square.png?v=mwagwbzq"
+     "name": "launch-square.png"
     },
     {
-     "src": "media/launch-post/launch-story.png?v=mwagwc43",
+     "src": "media/launch-post/launch-story-mwagwc43.png",
      "kind": "image",
-     "name": "launch-story.png",
-     "url": "media/launch-post/launch-story.png?v=mwagwc43"
+     "name": "launch-story.png"
     }
    ],
    "created": "2026-11-10T09:08:08.896Z",
-   "thumb": "thumbs/launch-post.jpg?v=mwaitqys",
-   "thumbUrl": "thumbs/launch-post.jpg?v=mwaitqys"
+   "thumb": "thumbs/launch-post-mwagwbwg.jpg"
   },
   {
    "tags": [
@@ -806,63 +735,53 @@
    "caption": "Out now on the App Store! ✨ Add a link sticker: https://apps.apple.com/app/id6815524811",
    "media": [
     {
-     "src": "media/story-set-features/02-pick.png?v=mwagwajr",
+     "src": "media/story-set-features/02-pick-mwagwajr.png",
      "kind": "image",
-     "name": "02-pick.png",
-     "url": "media/story-set-features/02-pick.png?v=mwagwajr"
+     "name": "02-pick.png"
     },
     {
-     "src": "media/story-set-features/03-start.png?v=mwagwaq0",
+     "src": "media/story-set-features/03-start-mwagwaq0.png",
      "kind": "image",
-     "name": "03-start.png",
-     "url": "media/story-set-features/03-start.png?v=mwagwaq0"
+     "name": "03-start.png"
     },
     {
-     "src": "media/story-set-features/04-timer.png?v=mwagwaxb",
+     "src": "media/story-set-features/04-timer-mwagwaxb.png",
      "kind": "image",
-     "name": "04-timer.png",
-     "url": "media/story-set-features/04-timer.png?v=mwagwaxb"
+     "name": "04-timer.png"
     },
     {
-     "src": "media/story-set-features/05-done.png?v=mwagwb1d",
+     "src": "media/story-set-features/05-done-mwagwb1d.png",
      "kind": "image",
-     "name": "05-done.png",
-     "url": "media/story-set-features/05-done.png?v=mwagwb1d"
+     "name": "05-done.png"
     },
     {
-     "src": "media/story-set-features/06-wins.png?v=mwagwb8j",
+     "src": "media/story-set-features/06-wins-mwagwb8j.png",
      "kind": "image",
-     "name": "06-wins.png",
-     "url": "media/story-set-features/06-wins.png?v=mwagwb8j"
+     "name": "06-wins.png"
     },
     {
-     "src": "media/story-set-features/07-lists.png?v=mwagwbde",
+     "src": "media/story-set-features/07-lists-mwagwbde.png",
      "kind": "image",
-     "name": "07-lists.png",
-     "url": "media/story-set-features/07-lists.png?v=mwagwbde"
+     "name": "07-lists.png"
     },
     {
-     "src": "media/story-set-features/08-styles.png?v=mwagwbjr",
+     "src": "media/story-set-features/08-styles-mwagwbjr.png",
      "kind": "image",
-     "name": "08-styles.png",
-     "url": "media/story-set-features/08-styles.png?v=mwagwbjr"
+     "name": "08-styles.png"
     },
     {
-     "src": "media/story-set-features/09-themes.png?v=mwagwbnh",
+     "src": "media/story-set-features/09-themes-mwagwbnh.png",
      "kind": "image",
-     "name": "09-themes.png",
-     "url": "media/story-set-features/09-themes.png?v=mwagwbnh"
+     "name": "09-themes.png"
     },
     {
-     "src": "media/story-set-features/10-watch.png?v=mwagwbso",
+     "src": "media/story-set-features/10-watch-mwagwbso.png",
      "kind": "image",
-     "name": "10-watch.png",
-     "url": "media/story-set-features/10-watch.png?v=mwagwbso"
+     "name": "10-watch.png"
     }
    ],
    "created": "2026-11-10T09:08:07.143Z",
-   "thumb": "thumbs/story-set-features.jpg?v=mwaitqz5",
-   "thumbUrl": "thumbs/story-set-features.jpg?v=mwaitqz5"
+   "thumb": "thumbs/story-set-features-mwagwajr.jpg"
   },
   {
    "tags": [
@@ -884,75 +803,63 @@
    "caption": "Level Vibes is out now 💚💛❤️ Swipe to see what it does:\n\n→ Tap the level you've got, and it picks the thing\n→ Name your levels: \"Take it easy\", \"Be productive\", \"Kick ass\"\n→ Chores that come back weekly or monthly, on the day you choose\n→ Timers that ring, with rain, brown noise or waves while you work\n→ Pick from your wrist on Apple Watch ⌚\n→ Share lists with your household\n→ Little wins count: achievements, and no streaks to break\n\nFree on the App Store. The Plus Pack is a one-time unlock, no subscription. Link in bio.",
    "media": [
     {
-     "src": "media/car-features/01-cover.png?v=mwagw98b",
+     "src": "media/car-features/01-cover-mwagw98b.png",
      "kind": "image",
-     "name": "01-cover.png",
-     "url": "media/car-features/01-cover.png?v=mwagw98b"
+     "name": "01-cover.png"
     },
     {
-     "src": "media/car-features/02-pick.png?v=mwagw9c5",
+     "src": "media/car-features/02-pick-mwagw9c5.png",
      "kind": "image",
-     "name": "02-pick.png",
-     "url": "media/car-features/02-pick.png?v=mwagw9c5"
+     "name": "02-pick.png"
     },
     {
-     "src": "media/car-features/03-start.png?v=mwagw9h0",
+     "src": "media/car-features/03-start-mwagw9h0.png",
      "kind": "image",
-     "name": "03-start.png",
-     "url": "media/car-features/03-start.png?v=mwagw9h0"
+     "name": "03-start.png"
     },
     {
-     "src": "media/car-features/04-timer.png?v=mwagw9ms",
+     "src": "media/car-features/04-timer-mwagw9ms.png",
      "kind": "image",
-     "name": "04-timer.png",
-     "url": "media/car-features/04-timer.png?v=mwagw9ms"
+     "name": "04-timer.png"
     },
     {
-     "src": "media/car-features/05-done.png?v=mwagw9qo",
+     "src": "media/car-features/05-done-mwagw9qo.png",
      "kind": "image",
-     "name": "05-done.png",
-     "url": "media/car-features/05-done.png?v=mwagw9qo"
+     "name": "05-done.png"
     },
     {
-     "src": "media/car-features/06-wins.png?v=mwagw9vq",
+     "src": "media/car-features/06-wins-mwagw9vq.png",
      "kind": "image",
-     "name": "06-wins.png",
-     "url": "media/car-features/06-wins.png?v=mwagw9vq"
+     "name": "06-wins.png"
     },
     {
-     "src": "media/car-features/07-lists.png?v=mwagw9z6",
+     "src": "media/car-features/07-lists-mwagw9z6.png",
      "kind": "image",
-     "name": "07-lists.png",
-     "url": "media/car-features/07-lists.png?v=mwagw9z6"
+     "name": "07-lists.png"
     },
     {
-     "src": "media/car-features/08-styles.png?v=mwagwa41",
+     "src": "media/car-features/08-styles-mwagwa41.png",
      "kind": "image",
-     "name": "08-styles.png",
-     "url": "media/car-features/08-styles.png?v=mwagwa41"
+     "name": "08-styles.png"
     },
     {
-     "src": "media/car-features/09-themes.png?v=mwagwa7v",
+     "src": "media/car-features/09-themes-mwagwa7v.png",
      "kind": "image",
-     "name": "09-themes.png",
-     "url": "media/car-features/09-themes.png?v=mwagwa7v"
+     "name": "09-themes.png"
     },
     {
-     "src": "media/car-features/10-watch.png?v=mwagwacp",
+     "src": "media/car-features/10-watch-mwagwacp.png",
      "kind": "image",
-     "name": "10-watch.png",
-     "url": "media/car-features/10-watch.png?v=mwagwacp"
+     "name": "10-watch.png"
     },
     {
-     "src": "media/car-features/11-end.png?v=mwagwag2",
+     "src": "media/car-features/11-end-mwagwag2.png",
      "kind": "image",
-     "name": "11-end.png",
-     "url": "media/car-features/11-end.png?v=mwagwag2"
+     "name": "11-end.png"
     }
    ],
    "created": "2026-11-10T09:08:05.435Z",
-   "thumb": "thumbs/car-features.jpg?v=mwaitqo4",
-   "thumbUrl": "thumbs/car-features.jpg?v=mwaitqo4"
+   "thumb": "thumbs/car-features-mwagw98b.jpg"
   },
   {
    "tags": [
@@ -974,15 +881,13 @@
    "caption": "Seven things on the list. One got done. It was the right one. 🛋️ What did your Sunday actually look like?",
    "media": [
     {
-     "src": "media/img-sunday-plans/Sunday-plans-meme.png?v=mwagrskg",
+     "src": "media/img-sunday-plans/Sunday-plans-meme-mwagrskg.png",
      "kind": "image",
-     "name": "Sunday plans meme.png",
-     "url": "media/img-sunday-plans/Sunday-plans-meme.png?v=mwagrskg"
+     "name": "Sunday plans meme.png"
     }
    ],
    "created": "2026-11-10T09:04:37.216Z",
-   "thumb": "thumbs/img-sunday-plans.jpg?v=mwaitqp3",
-   "thumbUrl": "thumbs/img-sunday-plans.jpg?v=mwaitqp3"
+   "thumb": "thumbs/img-sunday-plans-mwagrskg.jpg"
   },
   {
    "tags": [
@@ -1003,15 +908,13 @@
    "caption": "Monday energy check 🔋 Which battery are you today? Comment 1, 2 or 3 👇 (All three count.)",
    "media": [
     {
-     "src": "media/img-monday-battery/Monday-energy-check-meme.png?v=mwagrsih",
+     "src": "media/img-monday-battery/Monday-energy-check-meme-mwagrsih.png",
      "kind": "image",
-     "name": "Monday energy check meme.png",
-     "url": "media/img-monday-battery/Monday-energy-check-meme.png?v=mwagrsih"
+     "name": "Monday energy check meme.png"
     }
    ],
    "created": "2026-11-10T09:04:37.145Z",
-   "thumb": "thumbs/img-monday-battery.jpg?v=mwaitqou",
-   "thumbUrl": "thumbs/img-monday-battery.jpg?v=mwaitqou"
+   "thumb": "thumbs/img-monday-battery-mwagrsih.jpg"
   },
   {
    "tags": [
@@ -1035,21 +938,18 @@
    "caption": "The holidays don't have to be all or nothing. 🎁 Level 1: wrap one present. Level 3: host the whole crew. Which level are you this week?\nNew in Level Vibes: tap New List +, then Holidays. Free update, out now. Link in bio.",
    "media": [
     {
-     "src": "media/img-holidays-pack/Holidays-pack-post-feed-.png?v=mwagrsa5",
+     "src": "media/img-holidays-pack/Holidays-pack-post-feed--mwagrsa5.png",
      "kind": "image",
-     "name": "Holidays pack post (feed).png",
-     "url": "media/img-holidays-pack/Holidays-pack-post-feed-.png?v=mwagrsa5"
+     "name": "Holidays pack post (feed).png"
     },
     {
-     "src": "media/img-holidays-pack/Holidays-pack-story.png?v=mwagrsek",
+     "src": "media/img-holidays-pack/Holidays-pack-story-mwagrsek.png",
      "kind": "image",
-     "name": "Holidays pack story.png",
-     "url": "media/img-holidays-pack/Holidays-pack-story.png?v=mwagrsek"
+     "name": "Holidays pack story.png"
     }
    ],
    "created": "2026-11-10T09:04:36.845Z",
-   "thumb": "thumbs/img-holidays-pack.jpg?v=mwaitqpe",
-   "thumbUrl": "thumbs/img-holidays-pack.jpg?v=mwaitqpe"
+   "thumb": "thumbs/img-holidays-pack-mwagrsa5.jpg"
   },
   {
    "tags": [
@@ -1065,21 +965,18 @@
    "link": "https://levelvibes.app/home.html?ct=meta-test-1",
    "media": [
     {
-     "src": "media/ad-static/Ad-static-4x5.png?v=mwagrs2t",
+     "src": "media/ad-static/Ad-static-4x5-mwagrs2t.png",
      "kind": "image",
-     "name": "Ad static 4x5.png",
-     "url": "media/ad-static/Ad-static-4x5.png?v=mwagrs2t"
+     "name": "Ad static 4x5.png"
     },
     {
-     "src": "media/ad-static/Ad-static-1x1.png?v=mwagrs6g",
+     "src": "media/ad-static/Ad-static-1x1-mwagrs6g.png",
      "kind": "image",
-     "name": "Ad static 1x1.png",
-     "url": "media/ad-static/Ad-static-1x1.png?v=mwagrs6g"
+     "name": "Ad static 1x1.png"
     }
    ],
    "created": "2026-11-10T09:04:36.581Z",
-   "thumb": "thumbs/ad-static.jpg?v=mwaitrks",
-   "thumbUrl": "thumbs/ad-static.jpg?v=mwaitrks"
+   "thumb": "thumbs/ad-static-mwagrs2t.jpg"
   },
   {
    "tags": [
@@ -1101,21 +998,18 @@
    "caption": "Behind the scenes of a one-person app 🫠\n\nLevel 1: post something. Level 2: make some content. Level 3: figure out Meta Ads Manager (send help).\n\nI made Level Vibes for days like this: when you can't face the whole list, it picks one thing that fits your energy. Even marketing the app gets the Level Vibes treatment.\n\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-marketing-my-app/Marketing-my-own-app-feed-.png?v=mwagq1br",
+     "src": "media/img-marketing-my-app/Marketing-my-own-app-feed--mwagq1br.png",
      "kind": "image",
-     "name": "Marketing my own app (feed).png",
-     "url": "media/img-marketing-my-app/Marketing-my-own-app-feed-.png?v=mwagq1br"
+     "name": "Marketing my own app (feed).png"
     },
     {
-     "src": "media/img-marketing-my-app/Marketing-my-own-app-story-.png?v=mwagq1g9",
+     "src": "media/img-marketing-my-app/Marketing-my-own-app-story--mwagq1g9.png",
      "kind": "image",
-     "name": "Marketing my own app (story).png",
-     "url": "media/img-marketing-my-app/Marketing-my-own-app-story-.png?v=mwagq1g9"
+     "name": "Marketing my own app (story).png"
     }
    ],
    "created": "2026-11-10T09:03:15.255Z",
-   "thumb": "thumbs/img-marketing-my-app.jpg?v=mwaitqoj",
-   "thumbUrl": "thumbs/img-marketing-my-app.jpg?v=mwaitqoj"
+   "thumb": "thumbs/img-marketing-my-app-mwagq1br.jpg"
   },
   {
    "tags": [
@@ -1140,63 +1034,53 @@
    "caption": "I have ADHD and I'm autistic, and almost every feature in Level Vibes started as a problem in my own head. 🧠 Swipe through.\n\nGetting started is my hardest part, so there's Just 2 minutes. Big tasks look like walls, so any option can have a tiny first step. And there are no streaks, because missing one day used to make me quit the whole thing.\n\nWhich one would help your brain most? 👇\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-built-for-my-brain/01.png?v=mwagoj79",
+     "src": "media/car-built-for-my-brain/01-mwagoj79.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-built-for-my-brain/01.png?v=mwagoj79"
+     "name": "01.png"
     },
     {
-     "src": "media/car-built-for-my-brain/02.png?v=mwagoj9o",
+     "src": "media/car-built-for-my-brain/02-mwagoj9o.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-built-for-my-brain/02.png?v=mwagoj9o"
+     "name": "02.png"
     },
     {
-     "src": "media/car-built-for-my-brain/03.png?v=mwagojcc",
+     "src": "media/car-built-for-my-brain/03-mwagojcc.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-built-for-my-brain/03.png?v=mwagojcc"
+     "name": "03.png"
     },
     {
-     "src": "media/car-built-for-my-brain/04.png?v=mwagojes",
+     "src": "media/car-built-for-my-brain/04-mwagojes.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-built-for-my-brain/04.png?v=mwagojes"
+     "name": "04.png"
     },
     {
-     "src": "media/car-built-for-my-brain/05.png?v=mwagojh3",
+     "src": "media/car-built-for-my-brain/05-mwagojh3.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-built-for-my-brain/05.png?v=mwagojh3"
+     "name": "05.png"
     },
     {
-     "src": "media/car-built-for-my-brain/06.png?v=mwagojjn",
+     "src": "media/car-built-for-my-brain/06-mwagojjn.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-built-for-my-brain/06.png?v=mwagojjn"
+     "name": "06.png"
     },
     {
-     "src": "media/car-built-for-my-brain/07.png?v=mwagojly",
+     "src": "media/car-built-for-my-brain/07-mwagojly.png",
      "kind": "image",
-     "name": "07.png",
-     "url": "media/car-built-for-my-brain/07.png?v=mwagojly"
+     "name": "07.png"
     },
     {
-     "src": "media/car-built-for-my-brain/08.png?v=mwagojoi",
+     "src": "media/car-built-for-my-brain/08-mwagojoi.png",
      "kind": "image",
-     "name": "08.png",
-     "url": "media/car-built-for-my-brain/08.png?v=mwagojoi"
+     "name": "08.png"
     },
     {
-     "src": "media/car-built-for-my-brain/09.png?v=mwagojr6",
+     "src": "media/car-built-for-my-brain/09-mwagojr6.png",
      "kind": "image",
-     "name": "09.png",
-     "url": "media/car-built-for-my-brain/09.png?v=mwagojr6"
+     "name": "09.png"
     }
    ],
    "created": "2026-11-10T09:02:05.109Z",
-   "thumb": "thumbs/car-built-for-my-brain.jpg?v=mwaitqhh",
-   "thumbUrl": "thumbs/car-built-for-my-brain.jpg?v=mwaitqhh"
+   "thumb": "thumbs/car-built-for-my-brain-mwagoj79.jpg"
   },
   {
    "tags": [
@@ -1221,21 +1105,18 @@
    "caption": "Level Vibes 2.0 is out. 💚 A whole new look, made for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Update on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-feed-.png?v=mwagoieg",
+     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-feed--mwagoieg.png",
      "kind": "image",
-     "name": "Level Vibes 2.0 announcement (feed).png",
-     "url": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-feed-.png?v=mwagoieg"
+     "name": "Level Vibes 2.0 announcement (feed).png"
     },
     {
-     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-story-.png?v=mwagoihk",
+     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-story--mwagoihk.png",
      "kind": "image",
-     "name": "Level Vibes 2.0 announcement (story).png",
-     "url": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-story-.png?v=mwagoihk"
+     "name": "Level Vibes 2.0 announcement (story).png"
     }
    ],
    "created": "2026-11-10T09:02:04.072Z",
-   "thumb": "thumbs/img-1-2-announcement.jpg?v=mwaitqb4",
-   "thumbUrl": "thumbs/img-1-2-announcement.jpg?v=mwaitqb4"
+   "thumb": "thumbs/img-1-2-announcement-mwagoieg.jpg"
   },
   {
    "tags": [
@@ -1261,63 +1142,53 @@
    "caption": "I made Level Vibes for my ADHD brain. Level Vibes 2.0 is for the part where I know exactly what to do and still can't start. 🫠 And it comes with a whole new look.\n\nFor me, that's what executive dysfunction feels like. So this update is all about getting started:\n⏱️ Just 2 minutes: if I stop when it rings, it still counts\n👣 A tiny first step for any option\n3️⃣ A 3, 2, 1 countdown before timers\n🔔 Start straight from the daily nudge\n🤝 Want company? Ask your household to join in (on shared lists, part of the Plus Pack)\n\nOut now on the App Store. Link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-level-vibes-1-2/01.png?v=mwagohqh",
+     "src": "media/car-level-vibes-1-2/01-mwagohqh.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-level-vibes-1-2/01.png?v=mwagohqh"
+     "name": "01.png"
     },
     {
-     "src": "media/car-level-vibes-1-2/02.png?v=mwagoht2",
+     "src": "media/car-level-vibes-1-2/02-mwagoht2.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-level-vibes-1-2/02.png?v=mwagoht2"
+     "name": "02.png"
     },
     {
-     "src": "media/car-level-vibes-1-2/03.png?v=mwagohvc",
+     "src": "media/car-level-vibes-1-2/03-mwagohvc.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-level-vibes-1-2/03.png?v=mwagohvc"
+     "name": "03.png"
     },
     {
-     "src": "media/car-level-vibes-1-2/04.png?v=mwagohxs",
+     "src": "media/car-level-vibes-1-2/04-mwagohxs.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-level-vibes-1-2/04.png?v=mwagohxs"
+     "name": "04.png"
     },
     {
-     "src": "media/car-level-vibes-1-2/05.png?v=mwagohzq",
+     "src": "media/car-level-vibes-1-2/05-mwagohzq.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-level-vibes-1-2/05.png?v=mwagohzq"
+     "name": "05.png"
     },
     {
-     "src": "media/car-level-vibes-1-2/06.png?v=mwagoi2f",
+     "src": "media/car-level-vibes-1-2/06-mwagoi2f.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-level-vibes-1-2/06.png?v=mwagoi2f"
+     "name": "06.png"
     },
     {
-     "src": "media/car-level-vibes-1-2/07.png?v=mwagoi4p",
+     "src": "media/car-level-vibes-1-2/07-mwagoi4p.png",
      "kind": "image",
-     "name": "07.png",
-     "url": "media/car-level-vibes-1-2/07.png?v=mwagoi4p"
+     "name": "07.png"
     },
     {
-     "src": "media/car-level-vibes-1-2/08.png?v=mwagoi90",
+     "src": "media/car-level-vibes-1-2/08-mwagoi90.png",
      "kind": "image",
-     "name": "08.png",
-     "url": "media/car-level-vibes-1-2/08.png?v=mwagoi90"
+     "name": "08.png"
     },
     {
-     "src": "media/car-level-vibes-1-2/09.png?v=mwagoibn",
+     "src": "media/car-level-vibes-1-2/09-mwagoibn.png",
      "kind": "image",
-     "name": "09.png",
-     "url": "media/car-level-vibes-1-2/09.png?v=mwagoibn"
+     "name": "09.png"
     }
    ],
    "created": "2026-11-10T09:02:03.209Z",
-   "thumb": "thumbs/car-level-vibes-1-2.jpg?v=mwaitqi6",
-   "thumbUrl": "thumbs/car-level-vibes-1-2.jpg?v=mwaitqi6"
+   "thumb": "thumbs/car-level-vibes-1-2-mwagohqh.jpg"
   },
   {
    "tags": [
@@ -1340,15 +1211,13 @@
    "caption": "Level 1 days aren't lazy days. 💚 They're the days you did something anyway, with less to work with.\n\nThat's why Level 1 counts just as much as Level 3 in Level Vibes. Opening the curtains is a win. Cereal for dinner is a win.\n\nSave this for the next Level 1 day. 📌\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-level-1-not-lazy/Level-1-days-aren-t-lazy-days.png?v=mwagohn7",
+     "src": "media/img-level-1-not-lazy/Level-1-days-aren-t-lazy-days-mwagohn7.png",
      "kind": "image",
-     "name": "Level 1 days aren't lazy days.png",
-     "url": "media/img-level-1-not-lazy/Level-1-days-aren-t-lazy-days.png?v=mwagohn7"
+     "name": "Level 1 days aren't lazy days.png"
     }
    ],
    "created": "2026-11-10T09:02:03.091Z",
-   "thumb": "thumbs/img-level-1-not-lazy.jpg?v=mwaitqc1",
-   "thumbUrl": "thumbs/img-level-1-not-lazy.jpg?v=mwaitqc1"
+   "thumb": "thumbs/img-level-1-not-lazy-mwagohn7.jpg"
   },
   {
    "tags": [
@@ -1370,15 +1239,13 @@
    "caption": "Things I built because of my ADHD, part 5: Just 2 minutes. ⏱️ (New in 2.0)\n\nGetting started is the hardest part for me. So now I can tap Just 2 minutes. If I stop when it rings, it still counts. Usually I keep going.\n\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-adhd-5/Built-because-of-my-ADHD-5-Just-2-minutes.png?v=mwagohkg",
+     "src": "media/img-adhd-5/Built-because-of-my-ADHD-5-Just-2-minutes-mwagohkg.png",
      "kind": "image",
-     "name": "Built because of my ADHD 5 - Just 2 minutes.png",
-     "url": "media/img-adhd-5/Built-because-of-my-ADHD-5-Just-2-minutes.png?v=mwagohkg"
+     "name": "Built because of my ADHD 5 - Just 2 minutes.png"
     }
    ],
    "created": "2026-11-10T09:02:02.992Z",
-   "thumb": "thumbs/img-adhd-5.jpg?v=mwaitqgm",
-   "thumbUrl": "thumbs/img-adhd-5.jpg?v=mwaitqgm"
+   "thumb": "thumbs/img-adhd-5-mwagohkg.jpg"
   },
   {
    "tags": [
@@ -1400,15 +1267,13 @@
    "caption": "Things I built because of my ADHD, part 4: Pick Again. 🔄\n\nSome days the first pick just isn't happening. So there's a Pick Again button, and it never judges me for using it four times in a row.\n\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-adhd-4/Built-because-of-my-ADHD-4-Pick-Again.png?v=mwagohhj",
+     "src": "media/img-adhd-4/Built-because-of-my-ADHD-4-Pick-Again-mwagohhj.png",
      "kind": "image",
-     "name": "Built because of my ADHD 4 - Pick Again.png",
-     "url": "media/img-adhd-4/Built-because-of-my-ADHD-4-Pick-Again.png?v=mwagohhj"
+     "name": "Built because of my ADHD 4 - Pick Again.png"
     }
    ],
    "created": "2026-11-10T09:02:02.887Z",
-   "thumb": "thumbs/img-adhd-4.jpg?v=mwaitqfw",
-   "thumbUrl": "thumbs/img-adhd-4.jpg?v=mwaitqfw"
+   "thumb": "thumbs/img-adhd-4-mwagohhj.jpg"
   },
   {
    "tags": [
@@ -1430,15 +1295,13 @@
    "caption": "Things I built because of my ADHD, part 3: timers that ring. ⏰\n\nTime just disappears on me. Every pick in Level Vibes can start a timer that rings when it's done, with rain, brown noise or waves while I work if I want them.\n\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-adhd-3/Built-because-of-my-ADHD-3-Timers-that-ring.png?v=mwagohek",
+     "src": "media/img-adhd-3/Built-because-of-my-ADHD-3-Timers-that-ring-mwagohek.png",
      "kind": "image",
-     "name": "Built because of my ADHD 3 - Timers that ring.png",
-     "url": "media/img-adhd-3/Built-because-of-my-ADHD-3-Timers-that-ring.png?v=mwagohek"
+     "name": "Built because of my ADHD 3 - Timers that ring.png"
     }
    ],
    "created": "2026-11-10T09:02:02.780Z",
-   "thumb": "thumbs/img-adhd-3.jpg?v=mwaitqew",
-   "thumbUrl": "thumbs/img-adhd-3.jpg?v=mwaitqew"
+   "thumb": "thumbs/img-adhd-3-mwagohek.jpg"
   },
   {
    "tags": [
@@ -1460,15 +1323,13 @@
    "caption": "Things I built because of my ADHD, part 2: it picks one thing. ☝️\n\nA long list makes me freeze. So Level Vibes doesn't show me the list. I tap my energy level and it gives me one thing that fits.\n\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-adhd-2/Built-because-of-my-ADHD-2-It-picks-one-thing.png?v=mwagohbg",
+     "src": "media/img-adhd-2/Built-because-of-my-ADHD-2-It-picks-one-thing-mwagohbg.png",
      "kind": "image",
-     "name": "Built because of my ADHD 2 - It picks one thing.png",
-     "url": "media/img-adhd-2/Built-because-of-my-ADHD-2-It-picks-one-thing.png?v=mwagohbg"
+     "name": "Built because of my ADHD 2 - It picks one thing.png"
     }
    ],
    "created": "2026-11-10T09:02:02.668Z",
-   "thumb": "thumbs/img-adhd-2.jpg?v=mwaitqdy",
-   "thumbUrl": "thumbs/img-adhd-2.jpg?v=mwaitqdy"
+   "thumb": "thumbs/img-adhd-2-mwagohbg.jpg"
   },
   {
    "tags": [
@@ -1490,15 +1351,13 @@
    "caption": "Things I built because of my ADHD, part 1: no streaks. 💚\n\nMissing one day used to make me give up on the whole thing, so Level Vibes doesn't count days in a row. It has achievements for showing up, whenever I show up.\n\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-adhd-1/Built-because-of-my-ADHD-1-No-streaks.png?v=mwagoh8p",
+     "src": "media/img-adhd-1/Built-because-of-my-ADHD-1-No-streaks-mwagoh8p.png",
      "kind": "image",
-     "name": "Built because of my ADHD 1 - No streaks.png",
-     "url": "media/img-adhd-1/Built-because-of-my-ADHD-1-No-streaks.png?v=mwagoh8p"
+     "name": "Built because of my ADHD 1 - No streaks.png"
     }
    ],
    "created": "2026-11-10T09:02:02.569Z",
-   "thumb": "thumbs/img-adhd-1.jpg?v=mwaitqd1",
-   "thumbUrl": "thumbs/img-adhd-1.jpg?v=mwaitqd1"
+   "thumb": "thumbs/img-adhd-1-mwagoh8p.jpg"
   },
   {
    "tags": [
@@ -1521,39 +1380,33 @@
    "caption": "Why it's called Level Vibes. 💚💛❤️\n\nLevel is the energy I've actually got today: 1, 2 or 3. Vibes is how today feels, not how it's supposed to feel. It started as a spreadsheet with a randomizer formula, and now it's an app that asks one question every morning: what's the vibe today?\n\nWhat's yours? 👇\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/car-why-the-name/01.png?v=mwagogvt",
+     "src": "media/car-why-the-name/01-mwagogvt.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-why-the-name/01.png?v=mwagogvt"
+     "name": "01.png"
     },
     {
-     "src": "media/car-why-the-name/02.png?v=mwagogy8",
+     "src": "media/car-why-the-name/02-mwagogy8.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-why-the-name/02.png?v=mwagogy8"
+     "name": "02.png"
     },
     {
-     "src": "media/car-why-the-name/03.png?v=mwagoh0k",
+     "src": "media/car-why-the-name/03-mwagoh0k.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-why-the-name/03.png?v=mwagoh0k"
+     "name": "03.png"
     },
     {
-     "src": "media/car-why-the-name/04.png?v=mwagoh2v",
+     "src": "media/car-why-the-name/04-mwagoh2v.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-why-the-name/04.png?v=mwagoh2v"
+     "name": "04.png"
     },
     {
-     "src": "media/car-why-the-name/05.png?v=mwagoh5n",
+     "src": "media/car-why-the-name/05-mwagoh5n.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-why-the-name/05.png?v=mwagoh5n"
+     "name": "05.png"
     }
    ],
    "created": "2026-11-10T09:02:02.105Z",
-   "thumb": "thumbs/car-why-the-name.jpg?v=mwaitqno",
-   "thumbUrl": "thumbs/car-why-the-name.jpg?v=mwaitqno"
+   "thumb": "thumbs/car-why-the-name-mwagogvt.jpg"
   },
   {
    "tags": [
@@ -1576,45 +1429,38 @@
    "caption": "Behind the scenes, week two. Honest numbers from a one-person app. 📊\n\n16 downloads, most of them from people I know (hi, Mom). My first ad got zero clicks. The one where I told my own story got a 5% click rate. Lesson learned: less pitch, more me.\n\nNext up is Level Vibes 2.0: a whole new look, and help with getting started. If you've downloaded the app, thank you. A rating on the App Store genuinely helps a tiny app like mine. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-bts-week-two/01.png?v=mwagoggj",
+     "src": "media/car-bts-week-two/01-mwagoggj.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-bts-week-two/01.png?v=mwagoggj"
+     "name": "01.png"
     },
     {
-     "src": "media/car-bts-week-two/02.png?v=mwagogiy",
+     "src": "media/car-bts-week-two/02-mwagogiy.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-bts-week-two/02.png?v=mwagogiy"
+     "name": "02.png"
     },
     {
-     "src": "media/car-bts-week-two/03.png?v=mwagogle",
+     "src": "media/car-bts-week-two/03-mwagogle.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-bts-week-two/03.png?v=mwagogle"
+     "name": "03.png"
     },
     {
-     "src": "media/car-bts-week-two/04.png?v=mwagognu",
+     "src": "media/car-bts-week-two/04-mwagognu.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-bts-week-two/04.png?v=mwagognu"
+     "name": "04.png"
     },
     {
-     "src": "media/car-bts-week-two/05.png?v=mwagogq6",
+     "src": "media/car-bts-week-two/05-mwagogq6.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-bts-week-two/05.png?v=mwagogq6"
+     "name": "05.png"
     },
     {
-     "src": "media/car-bts-week-two/06.png?v=mwagogsx",
+     "src": "media/car-bts-week-two/06-mwagogsx.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-bts-week-two/06.png?v=mwagogsx"
+     "name": "06.png"
     }
    ],
    "created": "2026-11-10T09:02:01.555Z",
-   "thumb": "thumbs/car-bts-week-two.jpg?v=mwaitqmy",
-   "thumbUrl": "thumbs/car-bts-week-two.jpg?v=mwaitqmy"
+   "thumb": "thumbs/car-bts-week-two-mwagoggj.jpg"
   },
   {
    "tags": [
@@ -1636,75 +1482,63 @@
    "caption": "Low energy day bingo, one square at a time. 🎯 Count as you swipe.\n\nThe free square is tapping Level 1, because deciding to do a small thing still counts. Pick Again × 4 is also extremely valid.\n\nHow many did you get? Comment your number 👇 Screenshot the last slide and share it to your story.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-bingo/01.png?v=mwagoftu",
+     "src": "media/car-bingo/01-mwagoftu.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-bingo/01.png?v=mwagoftu"
+     "name": "01.png"
     },
     {
-     "src": "media/car-bingo/02.png?v=mwagofwe",
+     "src": "media/car-bingo/02-mwagofwe.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-bingo/02.png?v=mwagofwe"
+     "name": "02.png"
     },
     {
-     "src": "media/car-bingo/03.png?v=mwagofyh",
+     "src": "media/car-bingo/03-mwagofyh.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-bingo/03.png?v=mwagofyh"
+     "name": "03.png"
     },
     {
-     "src": "media/car-bingo/04.png?v=mwagog0o",
+     "src": "media/car-bingo/04-mwagog0o.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-bingo/04.png?v=mwagog0o"
+     "name": "04.png"
     },
     {
-     "src": "media/car-bingo/05.png?v=mwagog2s",
+     "src": "media/car-bingo/05-mwagog2s.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-bingo/05.png?v=mwagog2s"
+     "name": "05.png"
     },
     {
-     "src": "media/car-bingo/06.png?v=mwagog4y",
+     "src": "media/car-bingo/06-mwagog4y.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-bingo/06.png?v=mwagog4y"
+     "name": "06.png"
     },
     {
-     "src": "media/car-bingo/07.png?v=mwagog71",
+     "src": "media/car-bingo/07-mwagog71.png",
      "kind": "image",
-     "name": "07.png",
-     "url": "media/car-bingo/07.png?v=mwagog71"
+     "name": "07.png"
     },
     {
-     "src": "media/car-bingo/08.png?v=mwagog94",
+     "src": "media/car-bingo/08-mwagog94.png",
      "kind": "image",
-     "name": "08.png",
-     "url": "media/car-bingo/08.png?v=mwagog94"
+     "name": "08.png"
     },
     {
-     "src": "media/car-bingo/09.png?v=mwagogb7",
+     "src": "media/car-bingo/09-mwagogb7.png",
      "kind": "image",
-     "name": "09.png",
-     "url": "media/car-bingo/09.png?v=mwagogb7"
+     "name": "09.png"
     },
     {
-     "src": "media/car-bingo/10.png?v=mwagogda",
+     "src": "media/car-bingo/10-mwagogda.png",
      "kind": "image",
-     "name": "10.png",
-     "url": "media/car-bingo/10.png?v=mwagogda"
+     "name": "10.png"
     },
     {
-     "src": "media/car-bingo/11.png?v=mwagogdv",
+     "src": "media/car-bingo/11-mwagogdv.png",
      "kind": "image",
-     "name": "11.png",
-     "url": "media/car-bingo/11.png?v=mwagogdv"
+     "name": "11.png"
     }
    ],
    "created": "2026-11-10T09:02:00.738Z",
-   "thumb": "thumbs/car-bingo.jpg?v=mwaitqm8",
-   "thumbUrl": "thumbs/car-bingo.jpg?v=mwaitqm8"
+   "thumb": "thumbs/car-bingo-mwagoftu.jpg"
   },
   {
    "tags": [
@@ -1726,51 +1560,43 @@
    "caption": "Self-care by energy level. 🛁 Level 1 is still self-care.\n\nBrushing your teeth counts. A snack plate counts. Opening a window counts. I made a self-care list in Level Vibes for the days I can't decide what I need: I tap my level and it picks one thing.\n\nSave this for a Level 1 day. 📌 Which level are you today?\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-self-care/01.png?v=mwagofap",
+     "src": "media/car-self-care/01-mwagofap.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-self-care/01.png?v=mwagofap"
+     "name": "01.png"
     },
     {
-     "src": "media/car-self-care/02.png?v=mwagofd6",
+     "src": "media/car-self-care/02-mwagofd6.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-self-care/02.png?v=mwagofd6"
+     "name": "02.png"
     },
     {
-     "src": "media/car-self-care/03.png?v=mwagoffy",
+     "src": "media/car-self-care/03-mwagoffy.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-self-care/03.png?v=mwagoffy"
+     "name": "03.png"
     },
     {
-     "src": "media/car-self-care/04.png?v=mwagofiv",
+     "src": "media/car-self-care/04-mwagofiv.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-self-care/04.png?v=mwagofiv"
+     "name": "04.png"
     },
     {
-     "src": "media/car-self-care/05.png?v=mwagofld",
+     "src": "media/car-self-care/05-mwagofld.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-self-care/05.png?v=mwagofld"
+     "name": "05.png"
     },
     {
-     "src": "media/car-self-care/06.png?v=mwagofns",
+     "src": "media/car-self-care/06-mwagofns.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-self-care/06.png?v=mwagofns"
+     "name": "06.png"
     },
     {
-     "src": "media/car-self-care/07.png?v=mwagofqg",
+     "src": "media/car-self-care/07-mwagofqg.png",
      "kind": "image",
-     "name": "07.png",
-     "url": "media/car-self-care/07.png?v=mwagofqg"
+     "name": "07.png"
     }
    ],
    "created": "2026-11-10T09:02:00.049Z",
-   "thumb": "thumbs/car-self-care.jpg?v=mwaitqlj",
-   "thumbUrl": "thumbs/car-self-care.jpg?v=mwaitqlj"
+   "thumb": "thumbs/car-self-care-mwagofap.jpg"
   },
   {
    "tags": [
@@ -1793,63 +1619,53 @@
    "caption": "A whole week of Level 1 wins. 💚 None of them were big. All of them counted.\n\nSome weeks are Level 3 weeks. This wasn't one of them, and that's okay. Level Vibes picks one small thing that fits the energy I've got, and on a Level 1 day, one small thing is the whole goal.\n\nWhat was your smallest win this week? 👇\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-week-of-wins/01.png?v=mwagoeof",
+     "src": "media/car-week-of-wins/01-mwagoeof.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-week-of-wins/01.png?v=mwagoeof"
+     "name": "01.png"
     },
     {
-     "src": "media/car-week-of-wins/02.png?v=mwagoequ",
+     "src": "media/car-week-of-wins/02-mwagoequ.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-week-of-wins/02.png?v=mwagoequ"
+     "name": "02.png"
     },
     {
-     "src": "media/car-week-of-wins/03.png?v=mwagoeti",
+     "src": "media/car-week-of-wins/03-mwagoeti.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-week-of-wins/03.png?v=mwagoeti"
+     "name": "03.png"
     },
     {
-     "src": "media/car-week-of-wins/04.png?v=mwagoevx",
+     "src": "media/car-week-of-wins/04-mwagoevx.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-week-of-wins/04.png?v=mwagoevx"
+     "name": "04.png"
     },
     {
-     "src": "media/car-week-of-wins/05.png?v=mwagoey9",
+     "src": "media/car-week-of-wins/05-mwagoey9.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-week-of-wins/05.png?v=mwagoey9"
+     "name": "05.png"
     },
     {
-     "src": "media/car-week-of-wins/06.png?v=mwagof0k",
+     "src": "media/car-week-of-wins/06-mwagof0k.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-week-of-wins/06.png?v=mwagof0k"
+     "name": "06.png"
     },
     {
-     "src": "media/car-week-of-wins/07.png?v=mwagof30",
+     "src": "media/car-week-of-wins/07-mwagof30.png",
      "kind": "image",
-     "name": "07.png",
-     "url": "media/car-week-of-wins/07.png?v=mwagof30"
+     "name": "07.png"
     },
     {
-     "src": "media/car-week-of-wins/08.png?v=mwagof57",
+     "src": "media/car-week-of-wins/08-mwagof57.png",
      "kind": "image",
-     "name": "08.png",
-     "url": "media/car-week-of-wins/08.png?v=mwagof57"
+     "name": "08.png"
     },
     {
-     "src": "media/car-week-of-wins/09.png?v=mwagof7m",
+     "src": "media/car-week-of-wins/09-mwagof7m.png",
      "kind": "image",
-     "name": "09.png",
-     "url": "media/car-week-of-wins/09.png?v=mwagof7m"
+     "name": "09.png"
     }
    ],
    "created": "2026-11-10T09:01:59.247Z",
-   "thumb": "thumbs/car-week-of-wins.jpg?v=mwaitqks",
-   "thumbUrl": "thumbs/car-week-of-wins.jpg?v=mwaitqks"
+   "thumb": "thumbs/car-week-of-wins-mwagoeof.jpg"
   },
   {
    "tags": [
@@ -1871,45 +1687,38 @@
    "caption": "How Level Vibes works, in 6 slides. ✨\n\nMake a list once, sort it by energy, then each day tap the level you've got. It picks one thing. Not feeling it? Pick Again, no judgment. That's the whole app, on purpose.\n\nSave this for the next time your to-do list feels too big. 📌\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-how-it-works/01.png?v=mwagoe7z",
+     "src": "media/car-how-it-works/01-mwagoe7z.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-how-it-works/01.png?v=mwagoe7z"
+     "name": "01.png"
     },
     {
-     "src": "media/car-how-it-works/02.png?v=mwagoeae",
+     "src": "media/car-how-it-works/02-mwagoeae.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-how-it-works/02.png?v=mwagoeae"
+     "name": "02.png"
     },
     {
-     "src": "media/car-how-it-works/03.png?v=mwagoed6",
+     "src": "media/car-how-it-works/03-mwagoed6.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-how-it-works/03.png?v=mwagoed6"
+     "name": "03.png"
     },
     {
-     "src": "media/car-how-it-works/04.png?v=mwagoefm",
+     "src": "media/car-how-it-works/04-mwagoefm.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-how-it-works/04.png?v=mwagoefm"
+     "name": "04.png"
     },
     {
-     "src": "media/car-how-it-works/05.png?v=mwagoeie",
+     "src": "media/car-how-it-works/05-mwagoeie.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-how-it-works/05.png?v=mwagoeie"
+     "name": "05.png"
     },
     {
-     "src": "media/car-how-it-works/06.png?v=mwagoel6",
+     "src": "media/car-how-it-works/06-mwagoel6.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-how-it-works/06.png?v=mwagoel6"
+     "name": "06.png"
     }
    ],
    "created": "2026-11-10T09:01:58.655Z",
-   "thumb": "thumbs/car-how-it-works.jpg?v=mwaitqjx",
-   "thumbUrl": "thumbs/car-how-it-works.jpg?v=mwaitqjx"
+   "thumb": "thumbs/car-how-it-works-mwagoe7z.jpg"
   },
   {
    "tags": [
@@ -1932,57 +1741,48 @@
    "caption": "Same house, three very different days. 🏠 Swipe room by room.\n\nSome days I can scrub the shower. Some days opening the curtains is the whole bedroom done. Level Vibes asks how much energy I've got, then picks one thing that fits. Level 1 days count too.\n\nWhich room are you avoiding today? 👇\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-room-by-room/01.png?v=mwagodlb",
+     "src": "media/car-room-by-room/01-mwagodlb.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-room-by-room/01.png?v=mwagodlb"
+     "name": "01.png"
     },
     {
-     "src": "media/car-room-by-room/02.png?v=mwagodnu",
+     "src": "media/car-room-by-room/02-mwagodnu.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-room-by-room/02.png?v=mwagodnu"
+     "name": "02.png"
     },
     {
-     "src": "media/car-room-by-room/03.png?v=mwagodqn",
+     "src": "media/car-room-by-room/03-mwagodqn.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-room-by-room/03.png?v=mwagodqn"
+     "name": "03.png"
     },
     {
-     "src": "media/car-room-by-room/04.png?v=mwagodti",
+     "src": "media/car-room-by-room/04-mwagodti.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-room-by-room/04.png?v=mwagodti"
+     "name": "04.png"
     },
     {
-     "src": "media/car-room-by-room/05.png?v=mwagodwc",
+     "src": "media/car-room-by-room/05-mwagodwc.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-room-by-room/05.png?v=mwagodwc"
+     "name": "05.png"
     },
     {
-     "src": "media/car-room-by-room/06.png?v=mwagodyy",
+     "src": "media/car-room-by-room/06-mwagodyy.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-room-by-room/06.png?v=mwagodyy"
+     "name": "06.png"
     },
     {
-     "src": "media/car-room-by-room/07.png?v=mwagoe1e",
+     "src": "media/car-room-by-room/07-mwagoe1e.png",
      "kind": "image",
-     "name": "07.png",
-     "url": "media/car-room-by-room/07.png?v=mwagoe1e"
+     "name": "07.png"
     },
     {
-     "src": "media/car-room-by-room/08.png?v=mwagoe4e",
+     "src": "media/car-room-by-room/08-mwagoe4e.png",
      "kind": "image",
-     "name": "08.png",
-     "url": "media/car-room-by-room/08.png?v=mwagoe4e"
+     "name": "08.png"
     }
    ],
    "created": "2026-11-10T09:01:57.839Z",
-   "thumb": "thumbs/car-room-by-room.jpg?v=mwaitqj0",
-   "thumbUrl": "thumbs/car-room-by-room.jpg?v=mwaitqj0"
+   "thumb": "thumbs/car-room-by-room-mwagodlb.jpg"
   },
   {
    "tags": [
@@ -2003,15 +1803,13 @@
    "caption": "The list was ambitious. The laundry got done. 🧺 That counts.",
    "media": [
     {
-     "src": "media/meme-6/6-Meant-to-do-vs-did.png?v=mwagnc4x",
+     "src": "media/meme-6/6-Meant-to-do-vs-did-mwagnc4x.png",
      "kind": "image",
-     "name": "6 - Meant to do vs did.png",
-     "url": "media/meme-6/6-Meant-to-do-vs-did.png?v=mwagnc4x"
+     "name": "6 - Meant to do vs did.png"
     }
    ],
    "created": "2026-11-10T09:01:09.297Z",
-   "thumb": "thumbs/meme-6.jpg?v=mwaitqyg",
-   "thumbUrl": "thumbs/meme-6.jpg?v=mwaitqyg"
+   "thumb": "thumbs/meme-6-mwagnc4x.jpg"
   },
   {
    "tags": [
@@ -2032,15 +1830,13 @@
    "caption": "It's always the spice rack. 🌶️ What's yours?",
    "media": [
     {
-     "src": "media/meme-5/5-Nobody-my-brain.png?v=mwagnc2y",
+     "src": "media/meme-5/5-Nobody-my-brain-mwagnc2y.png",
      "kind": "image",
-     "name": "5 - Nobody, my brain.png",
-     "url": "media/meme-5/5-Nobody-my-brain.png?v=mwagnc2y"
+     "name": "5 - Nobody, my brain.png"
     }
    ],
    "created": "2026-11-10T09:01:09.226Z",
-   "thumb": "thumbs/meme-5.jpg?v=mwaitqy8",
-   "thumbUrl": "thumbs/meme-5.jpg?v=mwaitqy8"
+   "thumb": "thumbs/meme-5-mwagnc2y.jpg"
   },
   {
    "tags": [
@@ -2060,15 +1856,13 @@
    "caption": "Pick Again is a love language. 😤",
    "media": [
     {
-     "src": "media/meme-4/4-One-small-thing.png?v=mwagnbzd",
+     "src": "media/meme-4/4-One-small-thing-mwagnbzd.png",
      "kind": "image",
-     "name": "4 - One small thing.png",
-     "url": "media/meme-4/4-One-small-thing.png?v=mwagnbzd"
+     "name": "4 - One small thing.png"
     }
    ],
    "created": "2026-11-10T09:01:09.097Z",
-   "thumb": "thumbs/meme-4.jpg?v=mwaitqxx",
-   "thumbUrl": "thumbs/meme-4.jpg?v=mwaitqxx"
+   "thumb": "thumbs/meme-4-mwagnbzd.jpg"
   },
   {
    "tags": [
@@ -2090,15 +1884,13 @@
    "caption": "How many did you get? Comment your number 👇 Screenshot it and share to your story.",
    "media": [
     {
-     "src": "media/meme-3/3-Low-energy-day-bingo.png?v=mwagnbw0",
+     "src": "media/meme-3/3-Low-energy-day-bingo-mwagnbw0.png",
      "kind": "image",
-     "name": "3 - Low energy day bingo.png",
-     "url": "media/meme-3/3-Low-energy-day-bingo.png?v=mwagnbw0"
+     "name": "3 - Low energy day bingo.png"
     }
    ],
    "created": "2026-11-10T09:01:08.976Z",
-   "thumb": "thumbs/meme-3.jpg?v=mwaitqxm",
-   "thumbUrl": "thumbs/meme-3.jpg?v=mwaitqxm"
+   "thumb": "thumbs/meme-3-mwagnbw0.jpg"
   },
   {
    "tags": [
@@ -2119,15 +1911,13 @@
    "caption": "Which level are we on today? 🪥 (Level 1 still counts.)",
    "media": [
     {
-     "src": "media/meme-2/2-Dental-hygiene-by-energy-level.png?v=mwagnbua",
+     "src": "media/meme-2/2-Dental-hygiene-by-energy-level-mwagnbua.png",
      "kind": "image",
-     "name": "2 - Dental hygiene by energy level.png",
-     "url": "media/meme-2/2-Dental-hygiene-by-energy-level.png?v=mwagnbua"
+     "name": "2 - Dental hygiene by energy level.png"
     }
    ],
    "created": "2026-11-10T09:01:08.914Z",
-   "thumb": "thumbs/meme-2.jpg?v=mwaitqxb",
-   "thumbUrl": "thumbs/meme-2.jpg?v=mwaitqxb"
+   "thumb": "thumbs/meme-2-mwagnbua.jpg"
   },
   {
    "tags": [
@@ -2149,15 +1939,13 @@
    "caption": "Why is 11pm the only time I want to deep-clean everything? 📈 Tag someone with the same graph.",
    "media": [
     {
-     "src": "media/meme-1/1-Energy-graph.png?v=mwagnbro",
+     "src": "media/meme-1/1-Energy-graph-mwagnbro.png",
      "kind": "image",
-     "name": "1 - Energy graph.png",
-     "url": "media/meme-1/1-Energy-graph.png?v=mwagnbro"
+     "name": "1 - Energy graph.png"
     }
    ],
    "created": "2026-11-10T09:01:08.820Z",
-   "thumb": "thumbs/meme-1.jpg?v=mwaitqx2",
-   "thumbUrl": "thumbs/meme-1.jpg?v=mwaitqx2"
+   "thumb": "thumbs/meme-1-mwagnbro.jpg"
   },
   {
    "tags": [
@@ -2181,15 +1969,13 @@
    "caption": "A little sneak peek. 👀\n\nA new way to pick your level, help with getting started, and a timer you can watch close. Level Vibes 2.0 is almost here. Which part are you most excited for? 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-sneak-peek/Reel-Sneak-peek.mp4?v=mwagh0rb",
+     "src": "media/reel-sneak-peek/Reel-Sneak-peek-mwagh0rb.mp4",
      "kind": "video",
-     "name": "Reel - Sneak peek.mp4",
-     "url": "media/reel-sneak-peek/Reel-Sneak-peek.mp4?v=mwagh0rb"
+     "name": "Reel - Sneak peek.mp4"
     }
    ],
    "created": "2026-11-10T08:47:47.892Z",
-   "thumb": "thumbs/reel-sneak-peek.jpg?v=mwaitq68",
-   "thumbUrl": "thumbs/reel-sneak-peek.jpg?v=mwaitq68"
+   "thumb": "thumbs/reel-sneak-peek-mwagh0rb.jpg"
   },
   {
    "tags": [
@@ -2213,15 +1999,13 @@
    "caption": "Level Vibes has been quiet lately. Here's why. 👀\n\nI've been building something big: Level Vibes 2.0. A whole new look, and more help getting started. Coming soon, so stay tuned. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-coming-soon/Reel-Something-big-is-coming.mp4?v=mwag65gg",
+     "src": "media/reel-coming-soon/Reel-Something-big-is-coming-mwag65gg.mp4",
      "kind": "video",
-     "name": "Reel - Something big is coming.mp4",
-     "url": "media/reel-coming-soon/Reel-Something-big-is-coming.mp4?v=mwag65gg"
+     "name": "Reel - Something big is coming.mp4"
     }
    ],
    "created": "2026-11-10T08:46:54.167Z",
-   "thumb": "thumbs/reel-coming-soon.jpg?v=mwagav45",
-   "thumbUrl": "thumbs/reel-coming-soon.jpg?v=mwagav45"
+   "thumb": "thumbs/reel-coming-soon-mwag65gg.jpg"
   },
   {
    "tags": [
@@ -2245,45 +2029,38 @@
    "caption": "Something big is coming to Level Vibes. 👀\n\nI've been quietly rebuilding the whole app: a whole new look, and more help with the part I find hardest, actually starting. Same idea at its heart: tap your energy, it picks one thing.\n\nLevel Vibes 2.0 is coming soon. Follow along so you don't miss it. 💚💛❤️",
    "media": [
     {
-     "src": "media/car-coming-soon/01.png?v=mwag4vvx",
+     "src": "media/car-coming-soon/01-mwag4vvx.png",
      "kind": "image",
-     "name": "01.png",
-     "url": "media/car-coming-soon/01.png?v=mwag4vvx"
+     "name": "01.png"
     },
     {
-     "src": "media/car-coming-soon/02.png?v=mwag4vyl",
+     "src": "media/car-coming-soon/02-mwag4vyl.png",
      "kind": "image",
-     "name": "02.png",
-     "url": "media/car-coming-soon/02.png?v=mwag4vyl"
+     "name": "02.png"
     },
     {
-     "src": "media/car-coming-soon/03.png?v=mwag4w1x",
+     "src": "media/car-coming-soon/03-mwag4w1x.png",
      "kind": "image",
-     "name": "03.png",
-     "url": "media/car-coming-soon/03.png?v=mwag4w1x"
+     "name": "03.png"
     },
     {
-     "src": "media/car-coming-soon/04.png?v=mwag4w4i",
+     "src": "media/car-coming-soon/04-mwag4w4i.png",
      "kind": "image",
-     "name": "04.png",
-     "url": "media/car-coming-soon/04.png?v=mwag4w4i"
+     "name": "04.png"
     },
     {
-     "src": "media/car-coming-soon/05.png?v=mwag4w8s",
+     "src": "media/car-coming-soon/05-mwag4w8s.png",
      "kind": "image",
-     "name": "05.png",
-     "url": "media/car-coming-soon/05.png?v=mwag4w8s"
+     "name": "05.png"
     },
     {
-     "src": "media/car-coming-soon/06.png?v=mwag4wcq",
+     "src": "media/car-coming-soon/06-mwag4wcq.png",
      "kind": "image",
-     "name": "06.png",
-     "url": "media/car-coming-soon/06.png?v=mwag4wcq"
+     "name": "06.png"
     }
    ],
    "created": "2026-11-10T08:46:48.429Z",
-   "thumb": "thumbs/car-coming-soon.jpg?v=mwagavaj",
-   "thumbUrl": "thumbs/car-coming-soon.jpg?v=mwagavaj"
+   "thumb": "thumbs/car-coming-soon-mwag4vvx.jpg"
   },
   {
    "tags": [
@@ -2306,27 +2083,23 @@
    "caption": "Something big is coming. 👀 Level Vibes 2.0: a whole new look, and more help with getting started. Stay tuned. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-coming-soon/Feed-Something-big-is-coming.png?v=mwag4hfo",
+     "src": "media/img-coming-soon/Feed-Something-big-is-coming-mwag4hfo.png",
      "kind": "image",
-     "name": "Feed - Something big is coming.png",
-     "url": "media/img-coming-soon/Feed-Something-big-is-coming.png?v=mwag4hfo"
+     "name": "Feed - Something big is coming.png"
     },
     {
-     "src": "media/img-coming-soon/Story-Something-big-is-coming.png?v=mwag4hjm",
+     "src": "media/img-coming-soon/Story-Something-big-is-coming-mwag4hjm.png",
      "kind": "image",
-     "name": "Story - Something big is coming.png",
-     "url": "media/img-coming-soon/Story-Something-big-is-coming.png?v=mwag4hjm"
+     "name": "Story - Something big is coming.png"
     },
     {
-     "src": "media/img-coming-soon/Story-Sneak-peek.png?v=mwag4hpa",
+     "src": "media/img-coming-soon/Story-Sneak-peek-mwag4hpa.png",
      "kind": "image",
-     "name": "Story - Sneak peek.png",
-     "url": "media/img-coming-soon/Story-Sneak-peek.png?v=mwag4hpa"
+     "name": "Story - Sneak peek.png"
     }
    ],
    "created": "2026-11-10T08:46:29.700Z",
-   "thumb": "thumbs/img-coming-soon.jpg?v=mwagav9r",
-   "thumbUrl": "thumbs/img-coming-soon.jpg?v=mwagav9r"
+   "thumb": "thumbs/img-coming-soon-mwag4hfo.jpg"
   },
   {
    "tags": [
@@ -2347,15 +2120,13 @@
    "caption": "My workout, by energy level 💪 Level 1: stretch for 10 minutes. Level 2: dance for 30. Level 3: HIIT for 50. Tap the energy you've got and Level Vibes picks for you. Every level counts.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-40/40-Workout-by-energy-level.mp4?v=mwahrzdt",
+     "src": "media/reel-40/40-Workout-by-energy-level-mwahrzdt.mp4",
      "kind": "video",
-     "name": "40 - Workout by energy level.mp4",
-     "url": "media/reel-40/40-Workout-by-energy-level.mp4?v=mwahrzdt"
+     "name": "40 - Workout by energy level.mp4"
     }
    ],
    "created": "2026-11-09T09:15:33.878Z",
-   "thumb": "thumbs/reel-40.jpg?v=mwaitj93",
-   "thumbUrl": "thumbs/reel-40.jpg?v=mwaitj93"
+   "thumb": "thumbs/reel-40-mwahrzdt.jpg"
   },
   {
    "tags": [
@@ -2373,45 +2144,38 @@
    "link": "https://levelvibes.app/home.html?ct=meta-test-3",
    "media": [
     {
-     "src": "media/ad-d/Ad-video-D-Decision-fatigue-feed-4x5-.mp4?v=mwahv8kz",
+     "src": "media/ad-d/Ad-video-D-Decision-fatigue-feed-4x5--mwahv8kz.mp4",
      "kind": "video",
-     "name": "Ad video D - Decision fatigue (feed 4x5).mp4",
-     "url": "media/ad-d/Ad-video-D-Decision-fatigue-feed-4x5-.mp4?v=mwahv8kz"
+     "name": "Ad video D - Decision fatigue (feed 4x5).mp4"
     },
     {
-     "src": "media/ad-d/Ad-video-D-Decision-fatigue-9x16-.mp4?v=mwahqv2w",
+     "src": "media/ad-d/Ad-video-D-Decision-fatigue-9x16--mwahqv2w.mp4",
      "kind": "video",
-     "name": "Ad video D - Decision fatigue (9x16).mp4",
-     "url": "media/ad-d/Ad-video-D-Decision-fatigue-9x16-.mp4?v=mwahqv2w"
+     "name": "Ad video D - Decision fatigue (9x16).mp4"
     },
     {
-     "src": "media/ad-d/Ad-image-D1-Decision-fatigue-feed-4x5-.png?v=mwahv4yf",
+     "src": "media/ad-d/Ad-image-D1-Decision-fatigue-feed-4x5--mwahv4yf.png",
      "kind": "image",
-     "name": "Ad image D1 - Decision fatigue (feed 4x5).png",
-     "url": "media/ad-d/Ad-image-D1-Decision-fatigue-feed-4x5-.png?v=mwahv4yf"
+     "name": "Ad image D1 - Decision fatigue (feed 4x5).png"
     },
     {
-     "src": "media/ad-d/Ad-image-D1-Decision-fatigue-9x16-.png?v=mwahv54x",
+     "src": "media/ad-d/Ad-image-D1-Decision-fatigue-9x16--mwahv54x.png",
      "kind": "image",
-     "name": "Ad image D1 - Decision fatigue (9x16).png",
-     "url": "media/ad-d/Ad-image-D1-Decision-fatigue-9x16-.png?v=mwahv54x"
+     "name": "Ad image D1 - Decision fatigue (9x16).png"
     },
     {
-     "src": "media/ad-d/Ad-image-D2-It-picks-one-thing-feed-4x5-.png?v=mwahv51s",
+     "src": "media/ad-d/Ad-image-D2-It-picks-one-thing-feed-4x5--mwahv51s.png",
      "kind": "image",
-     "name": "Ad image D2 - It picks one thing (feed 4x5).png",
-     "url": "media/ad-d/Ad-image-D2-It-picks-one-thing-feed-4x5-.png?v=mwahv51s"
+     "name": "Ad image D2 - It picks one thing (feed 4x5).png"
     },
     {
-     "src": "media/ad-d/Ad-image-D2-It-picks-one-thing-9x16-.png?v=mwahv58x",
+     "src": "media/ad-d/Ad-image-D2-It-picks-one-thing-9x16--mwahv58x.png",
      "kind": "image",
-     "name": "Ad image D2 - It picks one thing (9x16).png",
-     "url": "media/ad-d/Ad-image-D2-It-picks-one-thing-9x16-.png?v=mwahv58x"
+     "name": "Ad image D2 - It picks one thing (9x16).png"
     }
    ],
    "created": "2026-11-09T07:49:35.129Z",
-   "thumb": "thumbs/ad-d.jpg?v=mwaitr78",
-   "thumbUrl": "thumbs/ad-d.jpg?v=mwaitr78"
+   "thumb": "thumbs/ad-d-mwahv8kz.jpg"
   },
   {
    "tags": [
@@ -2436,15 +2200,13 @@
    "caption": "I wake up and go downstairs. I pass the messy kitchen and know I should do the dishes, my most difficult chore. I pass the laundry room and know I should do laundry. I walk into the bathroom: the sink, the mirror, the shower wall. I walk back through the same rooms to the living room. This is the room we live in, and you can tell. And I sit down on the couch, the biggest mistake I can make.\n\nI'm aware of everything that needs doing, and each thing demands my attention. With it comes guilt.\n\nSome days I wake up with the energy to get something done. But with a list that long, where do I start? Decision fatigue drains my ambition, and I spend so long deciding that I don't want to do anything anymore.\n\nThat's why I made Level Vibes. On a Level 1 day it picks one thing, like laundry, and I've accomplished something. 💚💛❤️\n\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-39/39-What-decision-fatigue-feels-like.mp4?v=mwah6sd9",
+     "src": "media/reel-39/39-What-decision-fatigue-feels-like-mwah6sd9.mp4",
      "kind": "video",
-     "name": "39 - What decision fatigue feels like.mp4",
-     "url": "media/reel-39/39-What-decision-fatigue-feels-like.mp4?v=mwah6sd9"
+     "name": "39 - What decision fatigue feels like.mp4"
     }
    ],
    "created": "2026-11-09T07:43:27.898Z",
-   "thumb": "thumbs/reel-39.jpg?v=mwaitjdo",
-   "thumbUrl": "thumbs/reel-39.jpg?v=mwaitjdo"
+   "thumb": "thumbs/reel-39-mwah6sd9.jpg"
   },
   {
    "tags": [
@@ -2466,15 +2228,13 @@
    "caption": "Monday picked: clean the whole house. Nope. 🙅 Pick again… and again… until Monday and I reach an agreement. 🤝\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-38/38-Making-a-deal-with-Monday.mp4?v=mwah85am",
+     "src": "media/reel-38/38-Making-a-deal-with-Monday-mwah85am.mp4",
      "kind": "video",
-     "name": "38 - Making a deal with Monday.mp4",
-     "url": "media/reel-38/38-Making-a-deal-with-Monday.mp4?v=mwah85am"
+     "name": "38 - Making a deal with Monday.mp4"
     }
    ],
    "created": "2026-11-09T03:34:03.994Z",
-   "thumb": "thumbs/reel-38.jpg?v=mwaitjik",
-   "thumbUrl": "thumbs/reel-38.jpg?v=mwaitjik"
+   "thumb": "thumbs/reel-38-mwah85am.jpg"
   },
   {
    "tags": [
@@ -2496,15 +2256,13 @@
    "caption": "Sunday walk? My legs: hmm. 🚶 Level 1: stand outside for two minutes. Level 3: the full podcast walk. Fresh air counts, every step.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-37/37-Sunday-walk.mp4?v=mwah7p4x",
+     "src": "media/reel-37/37-Sunday-walk-mwah7p4x.mp4",
      "kind": "video",
-     "name": "37 - Sunday walk.mp4",
-     "url": "media/reel-37/37-Sunday-walk.mp4?v=mwah7p4x"
+     "name": "37 - Sunday walk.mp4"
     }
    ],
    "created": "2026-11-08T12:36:03.556Z",
-   "thumb": "thumbs/reel-37.jpg?v=mwaitjnj",
-   "thumbUrl": "thumbs/reel-37.jpg?v=mwaitjnj"
+   "thumb": "thumbs/reel-37-mwah7p4x.jpg"
   },
   {
    "tags": [
@@ -2529,15 +2287,13 @@
    "caption": "New in Level Vibes: the Holidays pack 🎄 Wrap one present, or wrap them all. Every level counts, even in December.\nFree update, out now. Link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-36/36-Holidays-pack.mp4?v=mwah77yz",
+     "src": "media/reel-36/36-Holidays-pack-mwah77yz.mp4",
      "kind": "video",
-     "name": "36 - Holidays pack.mp4",
-     "url": "media/reel-36/36-Holidays-pack.mp4?v=mwah77yz"
+     "name": "36 - Holidays pack.mp4"
     }
    ],
    "created": "2026-11-06T12:29:12.870Z",
-   "thumb": "thumbs/reel-36.jpg?v=mwaitjs4",
-   "thumbUrl": "thumbs/reel-36.jpg?v=mwaitjs4"
+   "thumb": "thumbs/reel-36-mwah77yz.jpg"
   },
   {
    "tags": [
@@ -2556,45 +2312,38 @@
    "link": "https://levelvibes.app/home.html?ct=meta-test-2",
    "media": [
     {
-     "src": "media/ad-c/Ad-video-C-My-story-feed-4x5-.mp4?v=mwahv3vj",
+     "src": "media/ad-c/Ad-video-C-My-story-feed-4x5--mwahv3vj.mp4",
      "kind": "video",
-     "name": "Ad video C - My story (feed 4x5).mp4",
-     "url": "media/ad-c/Ad-video-C-My-story-feed-4x5-.mp4?v=mwahv3vj"
+     "name": "Ad video C - My story (feed 4x5).mp4"
     },
     {
-     "src": "media/ad-c/Ad-video-C-My-story-9x16-.mp4?v=mwahv2g2",
+     "src": "media/ad-c/Ad-video-C-My-story-9x16--mwahv2g2.mp4",
      "kind": "video",
-     "name": "Ad video C - My story (9x16).mp4",
-     "url": "media/ad-c/Ad-video-C-My-story-9x16-.mp4?v=mwahv2g2"
+     "name": "Ad video C - My story (9x16).mp4"
     },
     {
-     "src": "media/ad-c/Ad-image-C1-My-story-feed-4x5-.png?v=mwagqatn",
+     "src": "media/ad-c/Ad-image-C1-My-story-feed-4x5--mwagqatn.png",
      "kind": "image",
-     "name": "Ad image C1 - My story (feed 4x5).png",
-     "url": "media/ad-c/Ad-image-C1-My-story-feed-4x5-.png?v=mwagqatn"
+     "name": "Ad image C1 - My story (feed 4x5).png"
     },
     {
-     "src": "media/ad-c/Ad-image-C1-My-story-9x16-.png?v=mwagqaxw",
+     "src": "media/ad-c/Ad-image-C1-My-story-9x16--mwagqaxw.png",
      "kind": "image",
-     "name": "Ad image C1 - My story (9x16).png",
-     "url": "media/ad-c/Ad-image-C1-My-story-9x16-.png?v=mwagqaxw"
+     "name": "Ad image C1 - My story (9x16).png"
     },
     {
-     "src": "media/ad-c/Ad-image-C2-My-story-with-app-feed-4x5-.png?v=mwagqb3p",
+     "src": "media/ad-c/Ad-image-C2-My-story-with-app-feed-4x5--mwagqb3p.png",
      "kind": "image",
-     "name": "Ad image C2 - My story with app (feed 4x5).png",
-     "url": "media/ad-c/Ad-image-C2-My-story-with-app-feed-4x5-.png?v=mwagqb3p"
+     "name": "Ad image C2 - My story with app (feed 4x5).png"
     },
     {
-     "src": "media/ad-c/Ad-image-C2-My-story-with-app-9x16-.png?v=mwagqbb2",
+     "src": "media/ad-c/Ad-image-C2-My-story-with-app-9x16--mwagqbb2.png",
      "kind": "image",
-     "name": "Ad image C2 - My story with app (9x16).png",
-     "url": "media/ad-c/Ad-image-C2-My-story-with-app-9x16-.png?v=mwagqbb2"
+     "name": "Ad image C2 - My story with app (9x16).png"
     }
    ],
    "created": "2026-11-05T08:58:49.023Z",
-   "thumb": "thumbs/ad-c.jpg?v=mwaitr3x",
-   "thumbUrl": "thumbs/ad-c.jpg?v=mwaitr3x"
+   "thumb": "thumbs/ad-c-mwahv3vj.jpg"
   },
   {
    "tags": [
@@ -2618,15 +2367,13 @@
    "caption": "I have ADHD and I'm autistic, and for years the hardest part of my day wasn't doing things. It was deciding what to do. 🫠\n\nSo I made Level Vibes: tap the energy you've got and it picks one thing that fits. Level 1 days count just as much as Level 3 days.\n\nIt's just me behind this little app. If it helps you, I'd love to hear about it, and a rating on the App Store means the world. 💚💛❤️ Link in bio.",
    "media": [
     {
-     "src": "media/reel-35/35-My-story.mp4?v=mwah47wr",
+     "src": "media/reel-35/35-My-story-mwah47wr.mp4",
      "kind": "video",
-     "name": "35 - My story.mp4",
-     "url": "media/reel-35/35-My-story.mp4?v=mwah47wr"
+     "name": "35 - My story.mp4"
     }
    ],
    "created": "2026-11-03T07:36:58.692Z",
-   "thumb": "thumbs/reel-35.jpg?v=mwaitjwk",
-   "thumbUrl": "thumbs/reel-35.jpg?v=mwaitjwk"
+   "thumb": "thumbs/reel-35-mwah47wr.jpg"
   },
   {
    "tags": [
@@ -2648,15 +2395,13 @@
    "caption": "Low energy day bingo 🎯 I got a line before lunch. How many did you get? 👇\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-34/34-Low-energy-day-bingo.mp4?v=mwah39i8",
+     "src": "media/reel-34/34-Low-energy-day-bingo-mwah39i8.mp4",
      "kind": "video",
-     "name": "34 - Low energy day bingo.mp4",
-     "url": "media/reel-34/34-Low-energy-day-bingo.mp4?v=mwah39i8"
+     "name": "34 - Low energy day bingo.mp4"
     }
    ],
    "created": "2026-11-03T07:29:15.738Z",
-   "thumb": "thumbs/reel-34.jpg?v=mwaitk0t",
-   "thumbUrl": "thumbs/reel-34.jpg?v=mwaitk0t"
+   "thumb": "thumbs/reel-34-mwah39i8.jpg"
   },
   {
    "tags": [
@@ -2673,15 +2418,13 @@
    "link": "https://levelvibes.app/home.html?ct=meta-test-1",
    "media": [
     {
-     "src": "media/ad-b/Ad-video-B-Less-choosing-more-watching.mp4?v=mwahv2es",
+     "src": "media/ad-b/Ad-video-B-Less-choosing-more-watching-mwahv2es.mp4",
      "kind": "video",
-     "name": "Ad video B - Less choosing, more watching.mp4",
-     "url": "media/ad-b/Ad-video-B-Less-choosing-more-watching.mp4?v=mwahv2es"
+     "name": "Ad video B - Less choosing, more watching.mp4"
     }
    ],
    "created": "2026-11-02T10:24:15.989Z",
-   "thumb": "thumbs/ad-b.jpg?v=mwaitrkh",
-   "thumbUrl": "thumbs/ad-b.jpg?v=mwaitrkh"
+   "thumb": "thumbs/ad-b-mwahv2es.jpg"
   },
   {
    "tags": [
@@ -2698,21 +2441,18 @@
    "link": "https://levelvibes.app/home.html?ct=meta-test-1",
    "media": [
     {
-     "src": "media/ad-a/Ad-video-A-Still-deciding-vs-let-it-pick-feed-4x5-.mp4?v=mwahv2du",
+     "src": "media/ad-a/Ad-video-A-Still-deciding-vs-let-it-pick-feed-4x5--mwahv2du.mp4",
      "kind": "video",
-     "name": "Ad video A - Still deciding vs let it pick (feed 4x5).mp4",
-     "url": "media/ad-a/Ad-video-A-Still-deciding-vs-let-it-pick-feed-4x5-.mp4?v=mwahv2du"
+     "name": "Ad video A - Still deciding vs let it pick (feed 4x5).mp4"
     },
     {
-     "src": "media/ad-a/Ad-video-A-Still-deciding-vs-let-it-pick.mp4?v=mwahv2cq",
+     "src": "media/ad-a/Ad-video-A-Still-deciding-vs-let-it-pick-mwahv2cq.mp4",
      "kind": "video",
-     "name": "Ad video A - Still deciding vs let it pick.mp4",
-     "url": "media/ad-a/Ad-video-A-Still-deciding-vs-let-it-pick.mp4?v=mwahv2cq"
+     "name": "Ad video A - Still deciding vs let it pick.mp4"
     }
    ],
    "created": "2026-11-02T10:24:15.943Z",
-   "thumb": "thumbs/ad-a.jpg?v=mwaitrcq",
-   "thumbUrl": "thumbs/ad-a.jpg?v=mwaitrcq"
+   "thumb": "thumbs/ad-a-mwahv2du.jpg"
   },
   {
    "tags": [
@@ -2734,21 +2474,18 @@
    "caption": "Top: still deciding. Bottom: let it pick, did one thing, feet up. 🛋️ Which one are you today?\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-33/33-Still-deciding-vs-let-it-pick.mp4?v=mwahsv4m",
+     "src": "media/reel-33/33-Still-deciding-vs-let-it-pick-mwahsv4m.mp4",
      "kind": "video",
-     "name": "33 - Still deciding vs let it pick.mp4",
-     "url": "media/reel-33/33-Still-deciding-vs-let-it-pick.mp4?v=mwahsv4m"
+     "name": "33 - Still deciding vs let it pick.mp4"
     },
     {
-     "src": "media/reel-33/33-Still-deciding-vs-let-it-pick-feed-4x5-.mp4?v=mwaht6d6",
+     "src": "media/reel-33/33-Still-deciding-vs-let-it-pick-feed-4x5--mwaht6d6.mp4",
      "kind": "video",
-     "name": "33 - Still deciding vs let it pick (feed 4x5).mp4",
-     "url": "media/reel-33/33-Still-deciding-vs-let-it-pick-feed-4x5-.mp4?v=mwaht6d6"
+     "name": "33 - Still deciding vs let it pick (feed 4x5).mp4"
     }
    ],
    "created": "2026-11-02T10:18:13.989Z",
-   "thumb": "thumbs/reel-33.jpg?v=mwaitk81",
-   "thumbUrl": "thumbs/reel-33.jpg?v=mwaitk81"
+   "thumb": "thumbs/reel-33-mwahsv4m.jpg"
   },
   {
    "tags": [
@@ -2769,15 +2506,13 @@
    "caption": "Monday motivation: still loading… 🫠 That's okay. You don't need motivation, just pick a level. Level 1 counts.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-32/32-Monday-motivation.mp4?v=mwahn43o",
+     "src": "media/reel-32/32-Monday-motivation-mwahn43o.mp4",
      "kind": "video",
-     "name": "32 - Monday motivation.mp4",
-     "url": "media/reel-32/32-Monday-motivation.mp4?v=mwahn43o"
+     "name": "32 - Monday motivation.mp4"
     }
    ],
    "created": "2026-11-02T07:47:56.130Z",
-   "thumb": "thumbs/reel-32.jpg?v=mwaitkd0",
-   "thumbUrl": "thumbs/reel-32.jpg?v=mwaitkd0"
+   "thumb": "thumbs/reel-32-mwahn43o.jpg"
   },
   {
    "tags": [
@@ -2801,15 +2536,13 @@
    "caption": "November energy check 🍂 Dark by 5pm, energy also dark. Level 1: soup and a blanket. Level 2: write one page. Level 3: start the holiday prep. Cosy counts.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-31/31-November-energy-check.mp4?v=mwahmm3p",
+     "src": "media/reel-31/31-November-energy-check-mwahmm3p.mp4",
      "kind": "video",
-     "name": "31 - November energy check.mp4",
-     "url": "media/reel-31/31-November-energy-check.mp4?v=mwahmm3p"
+     "name": "31 - November energy check.mp4"
     }
    ],
    "created": "2026-11-01T15:07:16.265Z",
-   "thumb": "thumbs/reel-31.jpg?v=mwaitkhw",
-   "thumbUrl": "thumbs/reel-31.jpg?v=mwaitkhw"
+   "thumb": "thumbs/reel-31-mwahmm3p.jpg"
   },
   {
    "tags": [
@@ -2831,15 +2564,13 @@
    "caption": "Washed my face and now I'm walking the red carpet. ✨ One (1) task. Main character energy.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-30/30-Me-after-one-task.mp4?v=mwahrfv6",
+     "src": "media/reel-30/30-Me-after-one-task-mwahrfv6.mp4",
      "kind": "video",
-     "name": "30 - Me after one task.mp4",
-     "url": "media/reel-30/30-Me-after-one-task.mp4?v=mwahrfv6"
+     "name": "30 - Me after one task.mp4"
     }
    ],
    "created": "2026-10-29T12:26:51.651Z",
-   "thumb": "thumbs/reel-30.jpg?v=mwaitkzy",
-   "thumbUrl": "thumbs/reel-30.jpg?v=mwaitkzy"
+   "thumb": "thumbs/reel-30-mwahrfv6.jpg"
   },
   {
    "tags": [
@@ -2861,15 +2592,13 @@
    "caption": "Halloween energy check 🎃 Level 1: hand out treats from the sofa. Level 2: carve ONE pumpkin. Level 3: full costume, full party. All valid. No tricks, just treats. 👻\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-29/29-Halloween-energy-check.mp4?v=mwahm4uj",
+     "src": "media/reel-29/29-Halloween-energy-check-mwahm4uj.mp4",
      "kind": "video",
-     "name": "29 - Halloween energy check.mp4",
-     "url": "media/reel-29/29-Halloween-energy-check.mp4?v=mwahm4uj"
+     "name": "29 - Halloween energy check.mp4"
     }
    ],
    "created": "2026-10-29T11:32:42.554Z",
-   "thumb": "thumbs/reel-29.jpg?v=mwaitl4o",
-   "thumbUrl": "thumbs/reel-29.jpg?v=mwaitl4o"
+   "thumb": "thumbs/reel-29-mwahm4uj.jpg"
   },
   {
    "tags": [
@@ -2891,15 +2620,13 @@
    "caption": "ADHD? Executive dysfunction? Decision fatigue? Brain fog? Task paralysis? Same. 🙋\nLevel Vibes: tap the energy you've got and it picks ONE thing. No streaks, no guilt.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-28/28-ADHD-executive-dysfunction-same.mp4?v=mwahlnmw",
+     "src": "media/reel-28/28-ADHD-executive-dysfunction-same-mwahlnmw.mp4",
      "kind": "video",
-     "name": "28 - ADHD, executive dysfunction, same.mp4",
-     "url": "media/reel-28/28-ADHD-executive-dysfunction-same.mp4?v=mwahlnmw"
+     "name": "28 - ADHD, executive dysfunction, same.mp4"
     }
    ],
    "created": "2026-10-29T11:11:50.687Z",
-   "thumb": "thumbs/reel-28.jpg?v=mwaitl9h",
-   "thumbUrl": "thumbs/reel-28.jpg?v=mwaitl9h"
+   "thumb": "thumbs/reel-28-mwahlnmw.jpg"
   },
   {
    "tags": [
@@ -2921,15 +2648,13 @@
    "caption": "Inbox: 214 unread. 😬 Level 1: reply to ONE email. Done. Feels good.\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-27/27-One-email.mp4?v=mwahr38v",
+     "src": "media/reel-27/27-One-email-mwahr38v.mp4",
      "kind": "video",
-     "name": "27 - One email.mp4",
-     "url": "media/reel-27/27-One-email.mp4?v=mwahr38v"
+     "name": "27 - One email.mp4"
     }
    ],
    "created": "2026-10-29T08:58:23.484Z",
-   "thumb": "thumbs/reel-27.jpg?v=mwaitlhd",
-   "thumbUrl": "thumbs/reel-27.jpg?v=mwaitlhd"
+   "thumb": "thumbs/reel-27-mwahr38v.jpg"
   },
   {
    "tags": [
@@ -2951,15 +2676,13 @@
    "caption": "Friday night plans? Level 3: out out. 🪩 Level 1: staying in. Both count.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-26/26-Friday-night.mp4?v=mwahqt0p",
+     "src": "media/reel-26/26-Friday-night-mwahqt0p.mp4",
      "kind": "video",
-     "name": "26 - Friday night.mp4",
-     "url": "media/reel-26/26-Friday-night.mp4?v=mwahqt0p"
+     "name": "26 - Friday night.mp4"
     }
    ],
    "created": "2026-10-29T08:58:15.649Z",
-   "thumb": "thumbs/reel-26.jpg?v=mwaitlp5",
-   "thumbUrl": "thumbs/reel-26.jpg?v=mwaitlp5"
+   "thumb": "thumbs/reel-26-mwahqt0p.jpg"
   },
   {
    "tags": [
@@ -2980,15 +2703,13 @@
    "caption": "What's for dinner? Let it pick. 🍝 Pasta night: decided.\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-25/25-Pasta-night.mp4?v=mwahqgze",
+     "src": "media/reel-25/25-Pasta-night-mwahqgze.mp4",
      "kind": "video",
-     "name": "25 - Pasta night.mp4",
-     "url": "media/reel-25/25-Pasta-night.mp4?v=mwahqgze"
+     "name": "25 - Pasta night.mp4"
     }
    ],
    "created": "2026-10-29T08:58:07.417Z",
-   "thumb": "thumbs/reel-25.jpg?v=mwaitlxf",
-   "thumbUrl": "thumbs/reel-25.jpg?v=mwaitlxf"
+   "thumb": "thumbs/reel-25-mwahqgze.jpg"
   },
   {
    "tags": [
@@ -3010,15 +2731,13 @@
    "caption": "Level 3 energy today? Deep-clean the kitchen. LET'S GOOO. 🕺\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-24/24-Level-3-energy.mp4?v=mwahq5sg",
+     "src": "media/reel-24/24-Level-3-energy-mwahq5sg.mp4",
      "kind": "video",
-     "name": "24 - Level 3 energy.mp4",
-     "url": "media/reel-24/24-Level-3-energy.mp4?v=mwahq5sg"
+     "name": "24 - Level 3 energy.mp4"
     }
    ],
    "created": "2026-10-29T08:57:59.888Z",
-   "thumb": "thumbs/reel-24.jpg?v=mwaitm69",
-   "thumbUrl": "thumbs/reel-24.jpg?v=mwaitm69"
+   "thumb": "thumbs/reel-24-mwahq5sg.jpg"
   },
   {
    "tags": [
@@ -3039,15 +2758,13 @@
    "caption": "Still scrolling for something to watch? 📺 Let it pick from your list. Sorted.\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-23/23-Still-scrolling.mp4?v=mwahptdk",
+     "src": "media/reel-23/23-Still-scrolling-mwahptdk.mp4",
      "kind": "video",
-     "name": "23 - Still scrolling.mp4",
-     "url": "media/reel-23/23-Still-scrolling.mp4?v=mwahptdk"
+     "name": "23 - Still scrolling.mp4"
     }
    ],
    "created": "2026-10-29T08:57:52.367Z",
-   "thumb": "thumbs/reel-23.jpg?v=mwaitmd1",
-   "thumbUrl": "thumbs/reel-23.jpg?v=mwaitmd1"
+   "thumb": "thumbs/reel-23-mwahptdk.jpg"
   },
   {
    "tags": [
@@ -3069,15 +2786,13 @@
    "caption": "One of those days? Level 1 self-care: open the curtains. That's a win. ☀️\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-22/22-Open-the-curtains.mp4?v=mwahpjij",
+     "src": "media/reel-22/22-Open-the-curtains-mwahpjij.mp4",
      "kind": "video",
-     "name": "22 - Open the curtains.mp4",
-     "url": "media/reel-22/22-Open-the-curtains.mp4?v=mwahpjij"
+     "name": "22 - Open the curtains.mp4"
     }
    ],
    "created": "2026-10-29T08:42:24.325Z",
-   "thumb": "thumbs/reel-22.jpg?v=mwaitmjw",
-   "thumbUrl": "thumbs/reel-22.jpg?v=mwaitmjw"
+   "thumb": "thumbs/reel-22-mwahpjij.jpg"
   },
   {
    "tags": [
@@ -3099,15 +2814,13 @@
    "caption": "Chores with a toddler underfoot? Let it pick ONE small thing. Then: little win dance. 💃\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-21/21-One-small-thing-then-dance.mp4?v=mwahp9j5",
+     "src": "media/reel-21/21-One-small-thing-then-dance-mwahp9j5.mp4",
      "kind": "video",
-     "name": "21 - One small thing, then dance.mp4",
-     "url": "media/reel-21/21-One-small-thing-then-dance.mp4?v=mwahp9j5"
+     "name": "21 - One small thing, then dance.mp4"
     }
    ],
    "created": "2026-10-29T08:42:16.425Z",
-   "thumb": "thumbs/reel-21.jpg?v=mwaitmr9",
-   "thumbUrl": "thumbs/reel-21.jpg?v=mwaitmr9"
+   "thumb": "thumbs/reel-21-mwahp9j5.jpg"
   },
   {
    "tags": [
@@ -3129,15 +2842,13 @@
    "caption": "Too tired to cook? Level 1 dinner: toast and tea. 🍞☕ Dinner sorted, no guilt.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-20/20-Too-tired-to-cook.mp4?v=mwahoxor",
+     "src": "media/reel-20/20-Too-tired-to-cook-mwahoxor.mp4",
      "kind": "video",
-     "name": "20 - Too tired to cook.mp4",
-     "url": "media/reel-20/20-Too-tired-to-cook.mp4?v=mwahoxor"
+     "name": "20 - Too tired to cook.mp4"
     }
    ],
    "created": "2026-10-29T08:42:08.246Z",
-   "thumb": "thumbs/reel-20.jpg?v=mwaitmyx",
-   "thumbUrl": "thumbs/reel-20.jpg?v=mwaitmyx"
+   "thumb": "thumbs/reel-20-mwahoxor.jpg"
   },
   {
    "tags": [
@@ -3160,15 +2871,13 @@
    "caption": "45 minutes picking a show? 🍿 Make a TV list, tap your energy, and let it pick. Less time choosing, more time watching.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-19/19-Less-choosing-more-watching.mp4?v=mwahoobt",
+     "src": "media/reel-19/19-Less-choosing-more-watching-mwahoobt.mp4",
      "kind": "video",
-     "name": "19 - Less choosing, more watching.mp4",
-     "url": "media/reel-19/19-Less-choosing-more-watching.mp4?v=mwahoobt"
+     "name": "19 - Less choosing, more watching.mp4"
     }
    ],
    "created": "2026-10-29T08:40:51.558Z",
-   "thumb": "thumbs/reel-19.jpg?v=mwaitn6k",
-   "thumbUrl": "thumbs/reel-19.jpg?v=mwaitn6k"
+   "thumb": "thumbs/reel-19-mwahoobt.jpg"
   },
   {
    "tags": [
@@ -3191,15 +2900,13 @@
    "caption": "50 jump squats? Nope. Pick again. Band kickbacks? Okay, fine. 😅\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-18/18-Pick-again-workout.mp4?v=mwahoe11",
+     "src": "media/reel-18/18-Pick-again-workout-mwahoe11.mp4",
      "kind": "video",
-     "name": "18 - Pick again workout.mp4",
-     "url": "media/reel-18/18-Pick-again-workout.mp4?v=mwahoe11"
+     "name": "18 - Pick again workout.mp4"
     }
    ],
    "created": "2026-10-29T08:34:34.237Z",
-   "thumb": "thumbs/reel-18.jpg?v=mwaitnb8",
-   "thumbUrl": "thumbs/reel-18.jpg?v=mwaitnb8"
+   "thumb": "thumbs/reel-18-mwahoe11.jpg"
   },
   {
    "tags": [
@@ -3221,15 +2928,13 @@
    "caption": "Exercise? Today?? 🫠 Five minutes of stretching still counts.\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-17/17-Exercise-today.mp4?v=mwaho01t",
+     "src": "media/reel-17/17-Exercise-today-mwaho01t.mp4",
      "kind": "video",
-     "name": "17 - Exercise today.mp4",
-     "url": "media/reel-17/17-Exercise-today.mp4?v=mwaho01t"
+     "name": "17 - Exercise today.mp4"
     }
    ],
    "created": "2026-10-29T08:34:26.095Z",
-   "thumb": "thumbs/reel-17.jpg?v=mwaitnih",
-   "thumbUrl": "thumbs/reel-17.jpg?v=mwaitnih"
+   "thumb": "thumbs/reel-17-mwaho01t.jpg"
   },
   {
    "tags": [
@@ -3250,15 +2955,13 @@
    "caption": "Can't decide which workout? Tap your energy. Level 1: stretches. Level 2: glute bridges. Level 3: dumbbells. 💪\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-16/16-Which-workout-today.mp4?v=mwahnov8",
+     "src": "media/reel-16/16-Which-workout-today-mwahnov8.mp4",
      "kind": "video",
-     "name": "16 - Which workout today.mp4",
-     "url": "media/reel-16/16-Which-workout-today.mp4?v=mwahnov8"
+     "name": "16 - Which workout today.mp4"
     }
    ],
    "created": "2026-10-29T08:34:17.717Z",
-   "thumb": "thumbs/reel-16.jpg?v=mwaitnq3",
-   "thumbUrl": "thumbs/reel-16.jpg?v=mwaitnq3"
+   "thumb": "thumbs/reel-16-mwahnov8.jpg"
   },
   {
    "tags": [
@@ -3280,15 +2983,13 @@
    "caption": "Me on a Level 1 day vs me on a Level 3 day. 😴🎸 Level Vibes picks the right thing for both.\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-15/15-Level-1-me-vs-Level-3-me.mp4?v=mwaisy42",
+     "src": "media/reel-15/15-Level-1-me-vs-Level-3-me-mwaisy42.mp4",
      "kind": "video",
-     "name": "15 - Level 1 me vs Level 3 me.mp4",
-     "url": "media/reel-15/15-Level-1-me-vs-Level-3-me.mp4?v=mwaisy42"
+     "name": "15 - Level 1 me vs Level 3 me.mp4"
     }
    ],
    "created": "2026-10-29T08:02:09.333Z",
-   "thumb": "thumbs/reel-15.jpg?v=mwaitnx7",
-   "thumbUrl": "thumbs/reel-15.jpg?v=mwaitnx7"
+   "thumb": "thumbs/reel-15-mwaisy42.jpg"
   },
   {
    "tags": [
@@ -3310,15 +3011,13 @@
    "caption": "Level 1: fold one sock. Level 2: put a playlist on. Level 3: deep-clean EVERYTHING. 🧦🎧🧹 Every level counts.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-14/14-Every-level-counts.mp4?v=mwaisqzd",
+     "src": "media/reel-14/14-Every-level-counts-mwaisqzd.mp4",
      "kind": "video",
-     "name": "14 - Every level counts.mp4",
-     "url": "media/reel-14/14-Every-level-counts.mp4?v=mwaisqzd"
+     "name": "14 - Every level counts.mp4"
     }
    ],
    "created": "2026-10-29T08:01:59.908Z",
-   "thumb": "thumbs/reel-14.jpg?v=mwaito44",
-   "thumbUrl": "thumbs/reel-14.jpg?v=mwaito44"
+   "thumb": "thumbs/reel-14-mwaisqzd.jpg"
   },
   {
    "tags": [
@@ -3338,15 +3037,13 @@
    "caption": "How much have you got today? Low, some, or lots. One tap, one thing. 💚💛❤️\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-13/13-One-tap-ripples.mp4?v=mwahohyr",
+     "src": "media/reel-13/13-One-tap-ripples-mwahohyr.mp4",
      "kind": "video",
-     "name": "13 - One tap ripples.mp4",
-     "url": "media/reel-13/13-One-tap-ripples.mp4?v=mwahohyr"
+     "name": "13 - One tap ripples.mp4"
     }
    ],
    "created": "2026-10-29T07:05:56.180Z",
-   "thumb": "thumbs/reel-13.jpg?v=mwaito8o",
-   "thumbUrl": "thumbs/reel-13.jpg?v=mwaito8o"
+   "thumb": "thumbs/reel-13-mwahohyr.jpg"
   },
   {
    "tags": [
@@ -3367,15 +3064,13 @@
    "caption": "Make a little room on your home screen. 📱 Level Vibes is out now, free on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/reel-12/12-Home-screen-drop.mp4?v=mwahtggo",
+     "src": "media/reel-12/12-Home-screen-drop-mwahtggo.mp4",
      "kind": "video",
-     "name": "12 - Home screen drop.mp4",
-     "url": "media/reel-12/12-Home-screen-drop.mp4?v=mwahtggo"
+     "name": "12 - Home screen drop.mp4"
     }
    ],
    "created": "2026-10-29T07:04:20.468Z",
-   "thumb": "thumbs/reel-12.jpg?v=mwaitode",
-   "thumbUrl": "thumbs/reel-12.jpg?v=mwaitode"
+   "thumb": "thumbs/reel-12-mwahtggo.jpg"
   },
   {
    "tags": [
@@ -3396,15 +3091,13 @@
    "caption": "Out now. ✨ Level Vibes: tap your energy, it picks the thing.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-11/11-Icon-reveal.mp4?v=mwahuucy",
+     "src": "media/reel-11/11-Icon-reveal-mwahuucy.mp4",
      "kind": "video",
-     "name": "11 - Icon reveal.mp4",
-     "url": "media/reel-11/11-Icon-reveal.mp4?v=mwahuucy"
+     "name": "11 - Icon reveal.mp4"
     }
    ],
    "created": "2026-10-29T07:03:46.289Z",
-   "thumb": "thumbs/reel-11.jpg?v=mwaitohk",
-   "thumbUrl": "thumbs/reel-11.jpg?v=mwaitohk"
+   "thumb": "thumbs/reel-11-mwahuucy.jpg"
   },
   {
    "tags": [
@@ -3425,15 +3118,13 @@
    "caption": "Your brain: 40 tabs open. Level Vibes: one task, one timer. 🧠➡️✨\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-10/10-Your-brain-vs-Level-Vibes.mp4?v=mwah30xx",
+     "src": "media/reel-10/10-Your-brain-vs-Level-Vibes-mwah30xx.mp4",
      "kind": "video",
-     "name": "10 - Your brain vs Level Vibes.mp4",
-     "url": "media/reel-10/10-Your-brain-vs-Level-Vibes.mp4?v=mwah30xx"
+     "name": "10 - Your brain vs Level Vibes.mp4"
     }
    ],
    "created": "2026-10-29T06:57:14.684Z",
-   "thumb": "thumbs/reel-10.jpg?v=mwaitom8",
-   "thumbUrl": "thumbs/reel-10.jpg?v=mwaitom8"
+   "thumb": "thumbs/reel-10-mwah30xx.jpg"
   },
   {
    "tags": [
@@ -3455,15 +3146,13 @@
    "caption": "POV: it's 3pm and the to-do list is winning. 🫠 Level Vibes picks ONE thing.\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-9/9-POV-3pm.mp4?v=mwah2c8e",
+     "src": "media/reel-9/9-POV-3pm-mwah2c8e.mp4",
      "kind": "video",
-     "name": "9 - POV 3pm.mp4",
-     "url": "media/reel-9/9-POV-3pm.mp4?v=mwah2c8e"
+     "name": "9 - POV 3pm.mp4"
     }
    ],
    "created": "2026-10-29T06:56:55.034Z",
-   "thumb": "thumbs/reel-9.jpg?v=mwaitoqt",
-   "thumbUrl": "thumbs/reel-9.jpg?v=mwaitoqt"
+   "thumb": "thumbs/reel-9-mwah2c8e.jpg"
   },
   {
    "tags": [
@@ -3484,15 +3173,13 @@
    "caption": "Some days you deep-clean the kitchen. Some days cereal is dinner. Both count. 🥣\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-8/8-Bold-words.mp4?v=mwah0641",
+     "src": "media/reel-8/8-Bold-words-mwah0641.mp4",
      "kind": "video",
-     "name": "8 - Bold words.mp4",
-     "url": "media/reel-8/8-Bold-words.mp4?v=mwah0641"
+     "name": "8 - Bold words.mp4"
     }
    ],
    "created": "2026-10-29T06:56:47.243Z",
-   "thumb": "thumbs/reel-8.jpg?v=mwaitovh",
-   "thumbUrl": "thumbs/reel-8.jpg?v=mwaitovh"
+   "thumb": "thumbs/reel-8-mwah0641.jpg"
   },
   {
    "tags": [
@@ -3513,15 +3200,13 @@
    "caption": "Low energy, some energy, or lots? 🎰 Spin it and do the one it lands on.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-7/7-Slot-machine.mp4?v=mwah1wxh",
+     "src": "media/reel-7/7-Slot-machine-mwah1wxh.mp4",
      "kind": "video",
-     "name": "7 - Slot machine.mp4",
-     "url": "media/reel-7/7-Slot-machine.mp4?v=mwah1wxh"
+     "name": "7 - Slot machine.mp4"
     }
    ],
    "created": "2026-10-29T06:56:22.505Z",
-   "thumb": "thumbs/reel-7.jpg?v=mwaitp02",
-   "thumbUrl": "thumbs/reel-7.jpg?v=mwaitp02"
+   "thumb": "thumbs/reel-7-mwah1wxh.jpg"
   },
   {
    "tags": [
@@ -3543,15 +3228,13 @@
    "caption": "Level Vibes in 15 seconds: tap your energy, it picks one thing, it helps you get started, you watch the ring close, and every level counts. 💚💛❤️\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-6/6-What-it-does-in-15-seconds.mp4?v=mwaisewv",
+     "src": "media/reel-6/6-What-it-does-in-15-seconds-mwaisewv.mp4",
      "kind": "video",
-     "name": "6 - What it does in 15 seconds.mp4",
-     "url": "media/reel-6/6-What-it-does-in-15-seconds.mp4?v=mwaisewv"
+     "name": "6 - What it does in 15 seconds.mp4"
     }
    ],
    "created": "2026-10-29T01:16:24.981Z",
-   "thumb": "thumbs/reel-6.jpg?v=mwaitp4o",
-   "thumbUrl": "thumbs/reel-6.jpg?v=mwaitp4o"
+   "thumb": "thumbs/reel-6-mwaisewv.jpg"
   },
   {
    "tags": [
@@ -3573,15 +3256,13 @@
    "caption": "Every task gets a timer, with rain, brown noise or waves while you work. 🌧️ Even 2 minutes counts.\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-5/5-Rain-sounds-while-you-work.mp4?v=mwaircig",
+     "src": "media/reel-5/5-Rain-sounds-while-you-work-mwaircig.mp4",
      "kind": "video",
-     "name": "5 - Rain sounds while you work.mp4",
-     "url": "media/reel-5/5-Rain-sounds-while-you-work.mp4?v=mwaircig"
+     "name": "5 - Rain sounds while you work.mp4"
     }
    ],
    "created": "2026-10-29T01:16:13.934Z",
-   "thumb": "thumbs/reel-5.jpg?v=mwaitp9s",
-   "thumbUrl": "thumbs/reel-5.jpg?v=mwaitp9s"
+   "thumb": "thumbs/reel-5-mwaircig.jpg"
   },
   {
    "tags": [
@@ -3601,15 +3282,13 @@
    "caption": "Chores, meals, workouts, writing, what to watch… make a list for anything and split it into three levels. Then let it pick. ✍️\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-4/4-Make-a-list-for-anything.mp4?v=mwair4ah",
+     "src": "media/reel-4/4-Make-a-list-for-anything-mwair4ah.mp4",
      "kind": "video",
-     "name": "4 - Make a list for anything.mp4",
-     "url": "media/reel-4/4-Make-a-list-for-anything.mp4?v=mwair4ah"
+     "name": "4 - Make a list for anything.mp4"
     }
    ],
    "created": "2026-10-29T01:15:59.353Z",
-   "thumb": "thumbs/reel-4.jpg?v=mwaitpeo",
-   "thumbUrl": "thumbs/reel-4.jpg?v=mwaitpeo"
+   "thumb": "thumbs/reel-4-mwair4ah.jpg"
   },
   {
    "tags": [
@@ -3628,15 +3307,13 @@
    "caption": "Can't even pick a level? Tap \"Surprise me\" and let Level Vibes choose both. 🎲\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-3/3-Surprise-me.mp4?v=mwaiqv76",
+     "src": "media/reel-3/3-Surprise-me-mwaiqv76.mp4",
      "kind": "video",
-     "name": "3 - Surprise me.mp4",
-     "url": "media/reel-3/3-Surprise-me.mp4?v=mwaiqv76"
+     "name": "3 - Surprise me.mp4"
     }
    ],
    "created": "2026-10-29T01:15:49.046Z",
-   "thumb": "thumbs/reel-3.jpg?v=mwaitpjr",
-   "thumbUrl": "thumbs/reel-3.jpg?v=mwaitpjr"
+   "thumb": "thumbs/reel-3-mwaiqv76.jpg"
   },
   {
    "tags": [
@@ -3656,15 +3333,13 @@
    "caption": "Not feeling it? Pick again. Nobody's keeping score. 🙂\nFree on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/reel-2/2-Pick-again-no-judgment.mp4?v=mwaiqngf",
+     "src": "media/reel-2/2-Pick-again-no-judgment-mwaiqngf.mp4",
      "kind": "video",
-     "name": "2 - Pick again, no judgment.mp4",
-     "url": "media/reel-2/2-Pick-again-no-judgment.mp4?v=mwaiqngf"
+     "name": "2 - Pick again, no judgment.mp4"
     }
    ],
    "created": "2026-10-29T01:15:40.247Z",
-   "thumb": "thumbs/reel-2.jpg?v=mwaitpp8",
-   "thumbUrl": "thumbs/reel-2.jpg?v=mwaitpp8"
+   "thumb": "thumbs/reel-2-mwaiqngf.jpg"
   },
   {
    "tags": [
@@ -3686,15 +3361,13 @@
    "caption": "Some days deciding is the hardest part. 🫠 Tap the energy you've got and Level Vibes picks one thing. That's it.\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-1/1-Too-tired-to-decide.mp4?v=mwaiqgcc",
+     "src": "media/reel-1/1-Too-tired-to-decide-mwaiqgcc.mp4",
      "kind": "video",
-     "name": "1 - Too tired to decide.mp4",
-     "url": "media/reel-1/1-Too-tired-to-decide.mp4?v=mwaiqgcc"
+     "name": "1 - Too tired to decide.mp4"
     }
    ],
    "created": "2026-10-29T01:14:52.777Z",
-   "thumb": "thumbs/reel-1.jpg?v=mwaitpul",
-   "thumbUrl": "thumbs/reel-1.jpg?v=mwaitpul"
+   "thumb": "thumbs/reel-1-mwaiqgcc.jpg"
   }
  ]
 }

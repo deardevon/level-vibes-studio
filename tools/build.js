@@ -24,23 +24,26 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
       if (!fs.existsSync(src)) { missing.push(rel); continue; }
       const st = fs.statSync(src);
       created = Math.min(created, st.birthtimeMs || st.mtimeMs);
-      const name = safe(path.basename(rel));
+      // The version (when the source last changed) is part of the file name, so a remade post gets
+      // a new address and phones can't keep showing a copy they saved earlier
+      const v = Math.round(st.mtimeMs).toString(36);
+      const ext = path.extname(rel);
+      const name = `${safe(path.basename(rel, ext))}-${v}${ext}`;
       const dest = path.join(dir, name);
-      // Copy when it's new, a different size, or the source was changed since (restyled files)
-      if (!fs.existsSync(dest) || fs.statSync(dest).size !== st.size || fs.statSync(dest).mtimeMs < st.mtimeMs) fs.copyFileSync(src, dest);
-      it.media.push({ src: `media/${it.id}/${name}`, kind: isVideo(rel) ? 'video' : 'image', name: path.basename(rel) });
+      if (!fs.existsSync(dest) || fs.statSync(dest).size !== st.size) fs.copyFileSync(src, dest);
+      it.media.push({ src: `media/${it.id}/${name}`, kind: isVideo(rel) ? 'video' : 'image', name: path.basename(rel), v });
     }
     delete it.files;
     // When it was made: the earliest of its files
     if (created < Infinity) it.created = new Date(created).toISOString();
-    // Preview for the grid, from the first file
+    // Preview for the grid, from the first file (named with that file's version too)
     const first = it.media[0];
     if (!first) continue;
-    const thumb = path.join(ROOT, 'thumbs', `${it.id}.jpg`);
+    const thumbRel = `thumbs/${it.id}-${first.v}.jpg`;
+    const thumb = path.join(ROOT, thumbRel);
     fs.mkdirSync(path.dirname(thumb), { recursive: true });
-    const firstPath = path.join(ROOT, first.src);
-    // Make the preview again whenever the first file is newer than it
-    if (!fs.existsSync(thumb) || fs.statSync(thumb).mtimeMs < fs.statSync(firstPath).mtimeMs) {
+    if (!fs.existsSync(thumb)) {
+      const firstPath = path.join(ROOT, first.src);
       if (first.kind === 'video') {
         const tmp = thumb + '.png';
         execFileSync(FFMPEG, ['-hide_banner', '-loglevel', 'error', '-y', '-ss', '1.5', '-i', firstPath, '-frames:v', '1', tmp]);
@@ -50,31 +53,19 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
         await sharp(firstPath).resize({ width: 480 }).jpeg({ quality: 78 }).toFile(thumb);
       }
     }
-    it.thumb = `thumbs/${it.id}.jpg`;
-  }
-  // A version stamp on every address, so phones fetch a file again when it changes instead of
-  // showing the copy they saved earlier (the files keep the same names when posts are remade)
-  const stamp = (rel) => `${rel}?v=${Math.round(fs.statSync(path.join(ROOT, rel)).mtimeMs).toString(36)}`;
-  for (const it of items) {
-    for (const m of it.media) m.url = stamp(m.src);
-    if (it.thumb) it.thumbUrl = stamp(it.thumb);
+    it.thumb = thumbRel;
+    for (const m of it.media) delete m.v;
   }
   // Remove files and previews no post uses any more (old versions, renamed or removed posts)
-  const used = new Set(items.flatMap((i) => i.media.map((m) => m.src)));
-  const ids = new Set(items.map((i) => i.id));
+  const used = new Set(items.flatMap((i) => [...i.media.map((m) => m.src), i.thumb]));
   let removed = 0;
   for (const d of fs.readdirSync(path.join(ROOT, 'media'))) {
     const dir = path.join(ROOT, 'media', d);
     for (const f of fs.readdirSync(dir)) if (!used.has(`media/${d}/${f}`)) { fs.unlinkSync(path.join(dir, f)); removed++; }
     if (!fs.readdirSync(dir).length) fs.rmdirSync(dir);
   }
-  for (const f of fs.readdirSync(path.join(ROOT, 'thumbs'))) if (!ids.has(f.replace(/\.jpg$/, ''))) { fs.unlinkSync(path.join(ROOT, 'thumbs', f)); removed++; }
+  for (const f of fs.readdirSync(path.join(ROOT, 'thumbs'))) if (!used.has(`thumbs/${f}`)) { fs.unlinkSync(path.join(ROOT, 'thumbs', f)); removed++; }
   if (removed) console.log(`removed ${removed} unused files`);
-  // Older copies of the page (saved on phones) read src and thumb, so those carry the stamp too
-  for (const it of items) {
-    for (const m of it.media) m.src = m.url;
-    if (it.thumbUrl) it.thumb = it.thumbUrl;
-  }
   // Newest first
   items.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
   fs.writeFileSync(path.join(ROOT, 'catalog.json'), JSON.stringify({ updated: new Date().toISOString(), items }, null, 1));
