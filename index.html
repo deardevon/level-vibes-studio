@@ -148,7 +148,7 @@ async function save(list) {
   toast(list.length > 1 ? `Preparing ${list.length} files…` : 'Preparing…');
   try {
     const files = await Promise.all(list.map(async (m) => {
-      const blob = await (await fetch(m.src)).blob();
+      const blob = await (await fetch(m.url || m.src)).blob();
       return new File([blob], m.name, { type: blob.type || (m.kind === 'video' ? 'video/mp4' : 'image/png') });
     }));
     if (navigator.canShare && navigator.canShare({ files })) { await navigator.share({ files }); return; }
@@ -175,7 +175,7 @@ function render() {
   $('count').textContent = `${list.length} post${list.length === 1 ? '' : 's'}`;
   $('grid').innerHTML = list.length ? list.map((it) => `
     <button class="card${posted[it.id] ? ' posted' : ''}" data-id="${it.id}">
-      <img src="${it.thumb}" alt="" loading="lazy" />
+      <img src="${it.thumbUrl || it.thumb}" alt="" loading="lazy" />
       <span class="badge b-${it.type}">${esc(TYPES.find((t) => t[0] === it.type)[1].replace(/s$/, ''))}${it.media.length > 1 ? ' · ' + it.media.length : ''}</span>
       ${posted[it.id] ? '<span class="done">✓ Posted</span>' : ''}
       <div class="t">${esc(it.title)}<div class="d">${fmtDate(it.created)}</div></div>
@@ -188,7 +188,7 @@ function open(id) {
   $('dTitle').textContent = it.title;
   const media = it.media.map((m, i) => `
     <div class="m">
-      ${m.kind === 'video' ? `<video src="${m.src}" controls playsinline preload="metadata" poster="${i === 0 ? it.thumb : ''}"></video>` : `<img src="${m.src}" alt="" loading="lazy" />`}
+      ${m.kind === 'video' ? `<video src="${m.url || m.src}" controls playsinline preload="metadata" poster="${i === 0 ? (it.thumbUrl || it.thumb) : ''}"></video>` : `<img src="${m.url || m.src}" alt="" loading="lazy" />`}
       <div class="lbl">${esc(m.name)}</div>
       <button class="btn small ghost" data-save="${i}">Save to Photos</button>
     </div>`).join('');

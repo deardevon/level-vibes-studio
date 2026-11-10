@@ -52,6 +52,13 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
     }
     it.thumb = `thumbs/${it.id}.jpg`;
   }
+  // A version stamp on every address, so phones fetch a file again when it changes instead of
+  // showing the copy they saved earlier (the files keep the same names when posts are remade)
+  const stamp = (rel) => `${rel}?v=${Math.round(fs.statSync(path.join(ROOT, rel)).mtimeMs).toString(36)}`;
+  for (const it of items) {
+    for (const m of it.media) m.url = stamp(m.src);
+    if (it.thumb) it.thumbUrl = stamp(it.thumb);
+  }
   // Remove files and previews no post uses any more (old versions, renamed or removed posts)
   const used = new Set(items.flatMap((i) => i.media.map((m) => m.src)));
   const ids = new Set(items.map((i) => i.id));
