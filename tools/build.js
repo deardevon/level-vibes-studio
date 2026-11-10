@@ -11,8 +11,47 @@ const ROOT = path.join(__dirname, '..');
 const isVideo = (f) => /\.mp4$/i.test(f);
 const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
 
+// One post per thing you actually post. Carousels and story sets stay together (they're posted
+// together). A feed version and a story version are two separate posts. An ad keeps its sizes
+// together (Ads Manager uses them in one ad), but different creatives become separate ads.
+const STORY_NOTE = 'Story: no caption needed. Add a link sticker (levelvibes.app) if you like.';
+const kindOf = (f) => (/\.mp4$/i.test(f) ? (/4x5/.test(f) ? 'feedvid' : 'reel') : /\/Story\/|story|9x16/i.test(f) ? 'story' : /square|1x1/i.test(f) ? 'square' : 'feed');
+const LABEL = { feed: 'feed post', story: 'story', square: 'square post', reel: 'Reel', feedvid: 'feed version, 4:5' };
+function split(items) {
+  const out = [];
+  for (const it of items) {
+    if (it.files.length < 2 || it.type === 'carousel' || it.type === 'story') { out.push(it); continue; }
+    if (it.type === 'ad') {
+      // group by creative: the name without its size
+      const groups = new Map();
+      for (const f of it.files) {
+        const key = path.basename(f).replace(/\s*\((feed 4x5|9x16)\)|\s*(4x5|1x1)(?=\.)/g, '').replace(/\.\w+$/, '');
+        if (!groups.has(key)) groups.set(key, []);
+        groups.get(key).push(f);
+      }
+      if (groups.size === 1) { out.push(it); continue; }
+      [...groups.entries()].forEach(([key, files], k) => {
+        const what = key.replace(/^Ad (video|image) (\w+) - /, (m, t, n) => `${t} ${n}: `);
+        out.push({ ...it, id: `${it.id}-${k + 1}`, title: `${it.title.replace(/^Ad: /, 'Ad: ')} (${what.split(':')[0]})`, files });
+      });
+      continue;
+    }
+    const base = it.title.replace(/\s*\((before|after) 2\.0\)/, '');
+    const when = (it.title.match(/\((before|after) 2\.0\)/) || [''])[0];
+    it.files.forEach((f, k) => {
+      const kind = kindOf(f);
+      const stories = it.files.filter((x) => kindOf(x) === 'story').length;
+      const name = stories > 1 && kind === 'story' ? `story: ${path.basename(f).replace(/^Story - |\.png$/g, '')}` : LABEL[kind];
+      const story = kind === 'story';
+      out.push({ ...it, id: `${it.id}-${k + 1}`, title: `${base} (${name})${when ? ' ' + when : ''}`, type: story ? 'story' : it.type, files: [f],
+        ...(story ? { caption: STORY_NOTE, hashtags: [] } : {}) });
+    });
+  }
+  return out;
+}
+
 (async () => {
-  const items = build();
+  const items = split(build());
   const missing = [];
   for (const it of items) {
     const dir = path.join(ROOT, 'media', it.id);
@@ -68,8 +107,8 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
   if (removed) console.log(`removed ${removed} unused files`);
   // Pinned at the top, in this order (the 2.0 rollout: coming soon, then the announcement); the rest newest first
   const TOP = ['car-coming-soon', 'reel-coming-soon', 'reel-sneak-peek', 'img-coming-soon', 'reel-1-2-announcement', 'car-level-vibes-1-2', 'img-1-2-announcement'];
-  const rank = (i) => (TOP.includes(i.id) ? TOP.indexOf(i.id) : TOP.length);
-  items.sort((a, b) => rank(a) - rank(b) || (b.created || '').localeCompare(a.created || ''));
+  const rank = (i) => { const k = TOP.findIndex((t) => i.id === t || i.id.startsWith(t + '-')); return k < 0 ? TOP.length : k; };
+  items.sort((a, b) => rank(a) - rank(b) || (rank(a) < TOP.length ? a.id.localeCompare(b.id) : (b.created || '').localeCompare(a.created || '')));
   fs.writeFileSync(path.join(ROOT, 'catalog.json'), JSON.stringify({ updated: new Date().toISOString(), items }, null, 1));
   console.log(`${items.length} posts, ${items.reduce((a, i) => a + i.media.length, 0)} files`);
   if (missing.length) console.log('MISSING:\n' + missing.join('\n'));

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:07:57.166Z",
+ "updated": "2026-11-10T12:33:39.158Z",
  "items": [
   {
    "tags": [
@@ -131,29 +131,65 @@
     "#buildinpublic",
     "#adhd"
    ],
-   "id": "img-coming-soon",
-   "title": "Something big is coming: feed post and 2 stories (before 2.0)",
+   "id": "img-coming-soon-1",
+   "title": "Something big is coming (feed post) (before 2.0)",
    "type": "image",
    "caption": "Something big is coming. 👀 Level Vibes 2.0: a whole new look, and more help with getting started. Stay tuned. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-coming-soon/Feed-Something-big-is-coming-mwag4hfo.png",
+     "src": "media/img-coming-soon-1/Feed-Something-big-is-coming-mwag4hfo.png",
      "kind": "image",
      "name": "Feed - Something big is coming.png"
-    },
+    }
+   ],
+   "created": "2026-11-10T08:46:29.700Z",
+   "thumb": "thumbs/img-coming-soon-1-mwag4hfo.jpg"
+  },
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "2.0",
+    "sneak peek",
+    "story"
+   ],
+   "hashtags": [],
+   "id": "img-coming-soon-2",
+   "title": "Something big is coming (story: Something big is coming) (before 2.0)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
     {
-     "src": "media/img-coming-soon/Story-Something-big-is-coming-mwag4hjm.png",
+     "src": "media/img-coming-soon-2/Story-Something-big-is-coming-mwag4hjm.png",
      "kind": "image",
      "name": "Story - Something big is coming.png"
-    },
+    }
+   ],
+   "created": "2026-11-10T08:46:29.842Z",
+   "thumb": "thumbs/img-coming-soon-2-mwag4hjm.jpg"
+  },
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "2.0",
+    "sneak peek",
+    "story"
+   ],
+   "hashtags": [],
+   "id": "img-coming-soon-3",
+   "title": "Something big is coming (story: Sneak peek) (before 2.0)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
     {
-     "src": "media/img-coming-soon/Story-Sneak-peek-mwag4hpa.png",
+     "src": "media/img-coming-soon-3/Story-Sneak-peek-mwag4hpa.png",
      "kind": "image",
      "name": "Story - Sneak peek.png"
     }
    ],
-   "created": "2026-11-10T08:46:29.700Z",
-   "thumb": "thumbs/img-coming-soon-mwag4hfo.jpg"
+   "created": "2026-11-10T08:46:30.046Z",
+   "thumb": "thumbs/img-coming-soon-3-mwag4hpa.jpg"
   },
   {
    "tags": [
@@ -277,24 +313,44 @@
     "#gettingstarted",
     "#neurodivergent"
    ],
-   "id": "img-1-2-announcement",
-   "title": "Level Vibes 2.0 announcement (after 2.0)",
+   "id": "img-1-2-announcement-1",
+   "title": "Level Vibes 2.0 announcement (feed post) (after 2.0)",
    "type": "image",
    "caption": "Level Vibes 2.0 is out. 💚 A whole new look, made for the days I know exactly what to do and still can't start.\n\nTap Just 2 minutes for a small start that still counts, give any option a tiny first step, and get a 3, 2, 1 countdown before timers. Update on the App Store, link in bio.",
    "media": [
     {
-     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-feed--mwagoieg.png",
+     "src": "media/img-1-2-announcement-1/Level-Vibes-2.0-announcement-feed--mwagoieg.png",
      "kind": "image",
      "name": "Level Vibes 2.0 announcement (feed).png"
-    },
+    }
+   ],
+   "created": "2026-11-10T09:02:04.072Z",
+   "thumb": "thumbs/img-1-2-announcement-1-mwagoieg.jpg"
+  },
+  {
+   "tags": [
+    "2.0",
+    "1.2",
+    "update",
+    "new design",
+    "announcement",
+    "executive dysfunction",
+    "new feature"
+   ],
+   "hashtags": [],
+   "id": "img-1-2-announcement-2",
+   "title": "Level Vibes 2.0 announcement (story) (after 2.0)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
     {
-     "src": "media/img-1-2-announcement/Level-Vibes-2.0-announcement-story--mwagoihk.png",
+     "src": "media/img-1-2-announcement-2/Level-Vibes-2.0-announcement-story--mwagoihk.png",
      "kind": "image",
      "name": "Level Vibes 2.0 announcement (story).png"
     }
    ],
-   "created": "2026-11-10T09:02:04.072Z",
-   "thumb": "thumbs/img-1-2-announcement-mwagoieg.jpg"
+   "created": "2026-11-10T09:02:04.184Z",
+   "thumb": "thumbs/img-1-2-announcement-2-mwagoihk.jpg"
   },
   {
    "tags": [
@@ -322,6 +378,30 @@
    ],
    "created": "2026-11-10T10:00:16.472Z",
    "thumb": "thumbs/reel-klingon-mwairkzn.jpg"
+  },
+  {
+   "tags": [
+    "my story",
+    "adhd",
+    "autism",
+    "chores",
+    "notebook",
+    "relatable"
+   ],
+   "hashtags": [],
+   "id": "img-couch-sitters-2",
+   "title": "Hot take for my fellow couch sitters (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-couch-sitters-2/Ad-image-E-Notebook-9x16--mwaib1jp.png",
+     "kind": "image",
+     "name": "Ad image E - Notebook (9x16).png"
+    }
+   ],
+   "created": "2026-11-10T09:47:34.933Z",
+   "thumb": "thumbs/img-couch-sitters-2-mwaib1jp.jpg"
   },
   {
    "tags": [
@@ -370,24 +450,77 @@
     "#decisionfatigue",
     "#neurodivergent"
    ],
-   "id": "img-couch-sitters",
-   "title": "Hot take for my fellow couch sitters",
+   "id": "img-couch-sitters-1",
+   "title": "Hot take for my fellow couch sitters (feed post)",
    "type": "image",
    "caption": "Hot take for my fellow couch sitters 🛋️ My house isn't messy because I don't care. Getting started at all is the hardest part. So I made an app that gives me a place to start: one thing. Anyone else? 👇\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-couch-sitters/Ad-image-E-Notebook-feed-4x5--mwaib1hy.png",
+     "src": "media/img-couch-sitters-1/Ad-image-E-Notebook-feed-4x5--mwaib1hy.png",
      "kind": "image",
      "name": "Ad image E - Notebook (feed 4x5).png"
-    },
-    {
-     "src": "media/img-couch-sitters/Ad-image-E-Notebook-9x16--mwaib1jp.png",
-     "kind": "image",
-     "name": "Ad image E - Notebook (9x16).png"
     }
    ],
    "created": "2026-11-10T09:47:34.870Z",
-   "thumb": "thumbs/img-couch-sitters-mwaib1hy.jpg"
+   "thumb": "thumbs/img-couch-sitters-1-mwaib1hy.jpg"
+  },
+  {
+   "tags": [
+    "ad",
+    "decision fatigue",
+    "my story",
+    "adhd"
+   ],
+   "hashtags": [],
+   "id": "ad-d-3",
+   "title": "Ad: Decision fatigue (image D2)",
+   "type": "ad",
+   "caption": "Every room has something waiting, and every chore wants my attention at once. I have ADHD and I'm autistic, and deciding was always the hardest part. So I made Level Vibes: tap the energy you've got, and it picks one thing. Free on iPhone, iPad and Apple Watch.",
+   "headline": "One thing at a time",
+   "link": "https://levelvibes.app/home.html?ct=meta-test-3",
+   "media": [
+    {
+     "src": "media/ad-d-3/Ad-image-D2-It-picks-one-thing-feed-4x5--mwahv51s.png",
+     "kind": "image",
+     "name": "Ad image D2 - It picks one thing (feed 4x5).png"
+    },
+    {
+     "src": "media/ad-d-3/Ad-image-D2-It-picks-one-thing-9x16--mwahv58x.png",
+     "kind": "image",
+     "name": "Ad image D2 - It picks one thing (9x16).png"
+    }
+   ],
+   "created": "2026-11-10T09:35:12.976Z",
+   "thumb": "thumbs/ad-d-3-mwahv51s.jpg"
+  },
+  {
+   "tags": [
+    "ad",
+    "decision fatigue",
+    "my story",
+    "adhd"
+   ],
+   "hashtags": [],
+   "id": "ad-d-2",
+   "title": "Ad: Decision fatigue (image D1)",
+   "type": "ad",
+   "caption": "Every room has something waiting, and every chore wants my attention at once. I have ADHD and I'm autistic, and deciding was always the hardest part. So I made Level Vibes: tap the energy you've got, and it picks one thing. Free on iPhone, iPad and Apple Watch.",
+   "headline": "One thing at a time",
+   "link": "https://levelvibes.app/home.html?ct=meta-test-3",
+   "media": [
+    {
+     "src": "media/ad-d-2/Ad-image-D1-Decision-fatigue-feed-4x5--mwahv4yf.png",
+     "kind": "image",
+     "name": "Ad image D1 - Decision fatigue (feed 4x5).png"
+    },
+    {
+     "src": "media/ad-d-2/Ad-image-D1-Decision-fatigue-9x16--mwahv54x.png",
+     "kind": "image",
+     "name": "Ad image D1 - Decision fatigue (9x16).png"
+    }
+   ],
+   "created": "2026-11-10T09:35:12.855Z",
+   "thumb": "thumbs/ad-d-2-mwahv4yf.jpg"
   },
   {
    "tags": [
@@ -474,6 +607,26 @@
     "monday",
     "motivation"
    ],
+   "hashtags": [],
+   "id": "img-monday-motivation-2",
+   "title": "Monday motivation: optional (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-monday-motivation-2/Monday-story-mwahqo21.png",
+     "kind": "image",
+     "name": "Monday story.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:44.329Z",
+   "thumb": "thumbs/img-monday-motivation-2-mwahqo21.jpg"
+  },
+  {
+   "tags": [
+    "monday",
+    "motivation"
+   ],
    "hashtags": [
     "#LevelVibes",
     "#MondayMotivation",
@@ -481,24 +634,40 @@
     "#adhd",
     "#smallwins"
    ],
-   "id": "img-monday-motivation",
-   "title": "Monday motivation: optional",
+   "id": "img-monday-motivation-1",
+   "title": "Monday motivation: optional (feed post)",
    "type": "image",
    "caption": "Monday motivation: optional. ☕ Which level are you starting the week on? 1, 2 or 3 👇",
    "media": [
     {
-     "src": "media/img-monday-motivation/Monday-post-feed--mwahqnwy.png",
+     "src": "media/img-monday-motivation-1/Monday-post-feed--mwahqnwy.png",
      "kind": "image",
      "name": "Monday post (feed).png"
-    },
-    {
-     "src": "media/img-monday-motivation/Monday-story-mwahqo21.png",
-     "kind": "image",
-     "name": "Monday story.png"
     }
    ],
    "created": "2026-11-10T09:31:44.146Z",
-   "thumb": "thumbs/img-monday-motivation-mwahqnwy.jpg"
+   "thumb": "thumbs/img-monday-motivation-1-mwahqnwy.jpg"
+  },
+  {
+   "tags": [
+    "sunday",
+    "reset",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-14-2",
+   "title": "Sunday: reset (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-14-2/14-Sunday-reset-mwahqntj.png",
+     "kind": "image",
+     "name": "14 - Sunday reset.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:44.023Z",
+   "thumb": "thumbs/daily-14-2-mwahqntj.jpg"
   },
   {
    "tags": [
@@ -513,24 +682,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-14",
-   "title": "Sunday: reset",
+   "id": "daily-14-1",
+   "title": "Sunday: reset (feed post)",
    "type": "image",
    "caption": "Open the curtains. Tiny win unlocked. Which level are you today?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-14/14-Sunday-reset-mwahqns6.png",
-     "kind": "image",
-     "name": "14 - Sunday reset.png"
-    },
-    {
-     "src": "media/daily-14/14-Sunday-reset-mwahqntj.png",
+     "src": "media/daily-14-1/14-Sunday-reset-mwahqns6.png",
      "kind": "image",
      "name": "14 - Sunday reset.png"
     }
    ],
    "created": "2026-11-10T09:31:43.974Z",
-   "thumb": "thumbs/daily-14-mwahqns6.jpg"
+   "thumb": "thumbs/daily-14-1-mwahqns6.jpg"
+  },
+  {
+   "tags": [
+    "saturday",
+    "exercise",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-13-2",
+   "title": "Saturday: exercise (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-13-2/13-Saturday-exercise-mwahqnqb.png",
+     "kind": "image",
+     "name": "13 - Saturday exercise.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:43.907Z",
+   "thumb": "thumbs/daily-13-2-mwahqnqb.jpg"
   },
   {
    "tags": [
@@ -545,24 +730,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-13",
-   "title": "Saturday: exercise",
+   "id": "daily-13-1",
+   "title": "Saturday: exercise (feed post)",
    "type": "image",
    "caption": "Dancing to one song counts. Tell me your level.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-13/13-Saturday-exercise-mwahqnm1.png",
-     "kind": "image",
-     "name": "13 - Saturday exercise.png"
-    },
-    {
-     "src": "media/daily-13/13-Saturday-exercise-mwahqnqb.png",
+     "src": "media/daily-13-1/13-Saturday-exercise-mwahqnm1.png",
      "kind": "image",
      "name": "13 - Saturday exercise.png"
     }
    ],
    "created": "2026-11-10T09:31:43.753Z",
-   "thumb": "thumbs/daily-13-mwahqnm1.jpg"
+   "thumb": "thumbs/daily-13-1-mwahqnm1.jpg"
+  },
+  {
+   "tags": [
+    "friday",
+    "chores",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-12-2",
+   "title": "Friday: chores (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-12-2/12-Friday-chores-mwahqnj2.png",
+     "kind": "image",
+     "name": "12 - Friday chores.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:43.646Z",
+   "thumb": "thumbs/daily-12-2-mwahqnj2.jpg"
   },
   {
    "tags": [
@@ -577,24 +778,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-12",
-   "title": "Friday: chores",
+   "id": "daily-12-1",
+   "title": "Friday: chores (feed post)",
    "type": "image",
    "caption": "Pick up 5 things. That's it. That's the level.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-12/12-Friday-chores-mwahqnhv.png",
-     "kind": "image",
-     "name": "12 - Friday chores.png"
-    },
-    {
-     "src": "media/daily-12/12-Friday-chores-mwahqnj2.png",
+     "src": "media/daily-12-1/12-Friday-chores-mwahqnhv.png",
      "kind": "image",
      "name": "12 - Friday chores.png"
     }
    ],
    "created": "2026-11-10T09:31:43.603Z",
-   "thumb": "thumbs/daily-12-mwahqnhv.jpg"
+   "thumb": "thumbs/daily-12-1-mwahqnhv.jpg"
+  },
+  {
+   "tags": [
+    "thursday",
+    "social",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-11-2",
+   "title": "Thursday: social (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-11-2/11-Thursday-social-mwahqnfb.png",
+     "kind": "image",
+     "name": "11 - Thursday social.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:43.511Z",
+   "thumb": "thumbs/daily-11-2-mwahqnfb.jpg"
   },
   {
    "tags": [
@@ -609,24 +826,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-11",
-   "title": "Thursday: social",
+   "id": "daily-11-1",
+   "title": "Thursday: social (feed post)",
    "type": "image",
    "caption": "Sending a meme counts as socializing. Which level?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-11/11-Thursday-social-mwahqnb1.png",
-     "kind": "image",
-     "name": "11 - Thursday social.png"
-    },
-    {
-     "src": "media/daily-11/11-Thursday-social-mwahqnfb.png",
+     "src": "media/daily-11-1/11-Thursday-social-mwahqnb1.png",
      "kind": "image",
      "name": "11 - Thursday social.png"
     }
    ],
    "created": "2026-11-10T09:31:43.357Z",
-   "thumb": "thumbs/daily-11-mwahqnb1.jpg"
+   "thumb": "thumbs/daily-11-1-mwahqnb1.jpg"
+  },
+  {
+   "tags": [
+    "wednesday",
+    "self-care",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-10-2",
+   "title": "Wednesday: self-care (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-10-2/10-Wednesday-self-care-mwahqn7t.png",
+     "kind": "image",
+     "name": "10 - Wednesday self-care.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:43.241Z",
+   "thumb": "thumbs/daily-10-2-mwahqn7t.jpg"
   },
   {
    "tags": [
@@ -641,24 +874,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-10",
-   "title": "Wednesday: self-care",
+   "id": "daily-10-1",
+   "title": "Wednesday: self-care (feed post)",
    "type": "image",
    "caption": "Brushing your teeth counts as self-care. Comment your level.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-10/10-Wednesday-self-care-mwahqn6j.png",
-     "kind": "image",
-     "name": "10 - Wednesday self-care.png"
-    },
-    {
-     "src": "media/daily-10/10-Wednesday-self-care-mwahqn7t.png",
+     "src": "media/daily-10-1/10-Wednesday-self-care-mwahqn6j.png",
      "kind": "image",
      "name": "10 - Wednesday self-care.png"
     }
    ],
    "created": "2026-11-10T09:31:43.195Z",
-   "thumb": "thumbs/daily-10-mwahqn6j.jpg"
+   "thumb": "thumbs/daily-10-1-mwahqn6j.jpg"
+  },
+  {
+   "tags": [
+    "tuesday",
+    "meals",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-9-2",
+   "title": "Tuesday: meals (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-9-2/09-Tuesday-meals-mwahqn4w.png",
+     "kind": "image",
+     "name": "09 - Tuesday meals.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:43.136Z",
+   "thumb": "thumbs/daily-9-2-mwahqn4w.jpg"
   },
   {
    "tags": [
@@ -673,24 +922,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-9",
-   "title": "Tuesday: meals",
+   "id": "daily-9-1",
+   "title": "Tuesday: meals (feed post)",
    "type": "image",
    "caption": "A snack plate is a meal if you believe in yourself.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-9/09-Tuesday-meals-mwahqn0o.png",
-     "kind": "image",
-     "name": "09 - Tuesday meals.png"
-    },
-    {
-     "src": "media/daily-9/09-Tuesday-meals-mwahqn4w.png",
+     "src": "media/daily-9-1/09-Tuesday-meals-mwahqn0o.png",
      "kind": "image",
      "name": "09 - Tuesday meals.png"
     }
    ],
    "created": "2026-11-10T09:31:42.984Z",
-   "thumb": "thumbs/daily-9-mwahqn0o.jpg"
+   "thumb": "thumbs/daily-9-1-mwahqn0o.jpg"
+  },
+  {
+   "tags": [
+    "monday",
+    "chores",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-8-2",
+   "title": "Monday: chores (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-8-2/08-Monday-chores-mwahqmxl.png",
+     "kind": "image",
+     "name": "08 - Monday chores.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:42.873Z",
+   "thumb": "thumbs/daily-8-2-mwahqmxl.jpg"
   },
   {
    "tags": [
@@ -705,24 +970,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-8",
-   "title": "Monday: chores",
+   "id": "daily-8-1",
+   "title": "Monday: chores (feed post)",
    "type": "image",
    "caption": "One bag of trash is progress. Where are you at today?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-8/08-Monday-chores-mwahqmw7.png",
-     "kind": "image",
-     "name": "08 - Monday chores.png"
-    },
-    {
-     "src": "media/daily-8/08-Monday-chores-mwahqmxl.png",
+     "src": "media/daily-8-1/08-Monday-chores-mwahqmw7.png",
      "kind": "image",
      "name": "08 - Monday chores.png"
     }
    ],
    "created": "2026-11-10T09:31:42.823Z",
-   "thumb": "thumbs/daily-8-mwahqmw7.jpg"
+   "thumb": "thumbs/daily-8-1-mwahqmw7.jpg"
+  },
+  {
+   "tags": [
+    "sunday",
+    "reset",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-7-2",
+   "title": "Sunday: reset (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-7-2/07-Sunday-reset-mwahqmu5.png",
+     "kind": "image",
+     "name": "07 - Sunday reset.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:42.749Z",
+   "thumb": "thumbs/daily-7-2-mwahqmu5.jpg"
   },
   {
    "tags": [
@@ -737,24 +1018,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-7",
-   "title": "Sunday: reset",
+   "id": "daily-7-1",
+   "title": "Sunday: reset (feed post)",
    "type": "image",
    "caption": "A glass of water is a win. Which level are you starting the week on?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-7/07-Sunday-reset-mwahqmpn.png",
-     "kind": "image",
-     "name": "07 - Sunday reset.png"
-    },
-    {
-     "src": "media/daily-7/07-Sunday-reset-mwahqmu5.png",
+     "src": "media/daily-7-1/07-Sunday-reset-mwahqmpn.png",
      "kind": "image",
      "name": "07 - Sunday reset.png"
     }
    ],
    "created": "2026-11-10T09:31:42.587Z",
-   "thumb": "thumbs/daily-7-mwahqmpn.jpg"
+   "thumb": "thumbs/daily-7-1-mwahqmpn.jpg"
+  },
+  {
+   "tags": [
+    "saturday",
+    "creative",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-6-2",
+   "title": "Saturday: creative (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-6-2/06-Saturday-creative-mwahqmmj.png",
+     "kind": "image",
+     "name": "06 - Saturday creative.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:42.475Z",
+   "thumb": "thumbs/daily-6-2-mwahqmmj.jpg"
   },
   {
    "tags": [
@@ -769,24 +1066,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-6",
-   "title": "Saturday: creative",
+   "id": "daily-6-1",
+   "title": "Saturday: creative (feed post)",
    "type": "image",
    "caption": "Two minutes of doodling is still making something.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-6/06-Saturday-creative-mwahqml8.png",
-     "kind": "image",
-     "name": "06 - Saturday creative.png"
-    },
-    {
-     "src": "media/daily-6/06-Saturday-creative-mwahqmmj.png",
+     "src": "media/daily-6-1/06-Saturday-creative-mwahqml8.png",
      "kind": "image",
      "name": "06 - Saturday creative.png"
     }
    ],
    "created": "2026-11-10T09:31:42.428Z",
-   "thumb": "thumbs/daily-6-mwahqml8.jpg"
+   "thumb": "thumbs/daily-6-1-mwahqml8.jpg"
+  },
+  {
+   "tags": [
+    "friday",
+    "exercise",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-5-2",
+   "title": "Friday: exercise (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-5-2/05-Friday-exercise-mwahqmjb.png",
+     "kind": "image",
+     "name": "05 - Friday exercise.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:42.359Z",
+   "thumb": "thumbs/daily-5-2-mwahqmjb.jpg"
   },
   {
    "tags": [
@@ -801,24 +1114,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-5",
-   "title": "Friday: exercise",
+   "id": "daily-5-1",
+   "title": "Friday: exercise (feed post)",
    "type": "image",
    "caption": "1 minute of stretching still counts as moving.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-5/05-Friday-exercise-mwahqmfb.png",
-     "kind": "image",
-     "name": "05 - Friday exercise.png"
-    },
-    {
-     "src": "media/daily-5/05-Friday-exercise-mwahqmjb.png",
+     "src": "media/daily-5-1/05-Friday-exercise-mwahqmfb.png",
      "kind": "image",
      "name": "05 - Friday exercise.png"
     }
    ],
    "created": "2026-11-10T09:31:42.215Z",
-   "thumb": "thumbs/daily-5-mwahqmfb.jpg"
+   "thumb": "thumbs/daily-5-1-mwahqmfb.jpg"
+  },
+  {
+   "tags": [
+    "thursday",
+    "admin",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-4-2",
+   "title": "Thursday: admin (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-4-2/04-Thursday-admin-mwahqmcb.png",
+     "kind": "image",
+     "name": "04 - Thursday admin.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:42.107Z",
+   "thumb": "thumbs/daily-4-2-mwahqmcb.jpg"
   },
   {
    "tags": [
@@ -833,24 +1162,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-4",
-   "title": "Thursday: admin",
+   "id": "daily-4-1",
+   "title": "Thursday: admin (feed post)",
    "type": "image",
    "caption": "The letter isn't going to open itself. Level 1 is just opening it.\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-4/04-Thursday-admin-mwahqmax.png",
-     "kind": "image",
-     "name": "04 - Thursday admin.png"
-    },
-    {
-     "src": "media/daily-4/04-Thursday-admin-mwahqmcb.png",
+     "src": "media/daily-4-1/04-Thursday-admin-mwahqmax.png",
      "kind": "image",
      "name": "04 - Thursday admin.png"
     }
    ],
    "created": "2026-11-10T09:31:42.057Z",
-   "thumb": "thumbs/daily-4-mwahqmax.jpg"
+   "thumb": "thumbs/daily-4-1-mwahqmax.jpg"
+  },
+  {
+   "tags": [
+    "wednesday",
+    "self-care",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-3-2",
+   "title": "Wednesday: self-care (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-3-2/03-Wednesday-self-care-mwahqm93.png",
+     "kind": "image",
+     "name": "03 - Wednesday self-care.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:41.991Z",
+   "thumb": "thumbs/daily-3-2-mwahqm93.jpg"
   },
   {
    "tags": [
@@ -865,24 +1210,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-3",
-   "title": "Wednesday: self-care",
+   "id": "daily-3-1",
+   "title": "Wednesday: self-care (feed post)",
    "type": "image",
    "caption": "Wearing pajamas is self-care. Fight me. Which level?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-3/03-Wednesday-self-care-mwahqm4v.png",
-     "kind": "image",
-     "name": "03 - Wednesday self-care.png"
-    },
-    {
-     "src": "media/daily-3/03-Wednesday-self-care-mwahqm93.png",
+     "src": "media/daily-3-1/03-Wednesday-self-care-mwahqm4v.png",
      "kind": "image",
      "name": "03 - Wednesday self-care.png"
     }
    ],
    "created": "2026-11-10T09:31:41.839Z",
-   "thumb": "thumbs/daily-3-mwahqm4v.jpg"
+   "thumb": "thumbs/daily-3-1-mwahqm4v.jpg"
+  },
+  {
+   "tags": [
+    "tuesday",
+    "meals",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-2-2",
+   "title": "Tuesday: meals (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-2-2/02-Tuesday-meals-mwahqm1x.png",
+     "kind": "image",
+     "name": "02 - Tuesday meals.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:41.733Z",
+   "thumb": "thumbs/daily-2-2-mwahqm1x.jpg"
   },
   {
    "tags": [
@@ -897,24 +1258,40 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-2",
-   "title": "Tuesday: meals",
+   "id": "daily-2-1",
+   "title": "Tuesday: meals (feed post)",
    "type": "image",
    "caption": "Cereal counts. Dinner is dinner. Which level?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-2/02-Tuesday-meals-mwahqm0g.png",
-     "kind": "image",
-     "name": "02 - Tuesday meals.png"
-    },
-    {
-     "src": "media/daily-2/02-Tuesday-meals-mwahqm1x.png",
+     "src": "media/daily-2-1/02-Tuesday-meals-mwahqm0g.png",
      "kind": "image",
      "name": "02 - Tuesday meals.png"
     }
    ],
    "created": "2026-11-10T09:31:41.680Z",
-   "thumb": "thumbs/daily-2-mwahqm0g.jpg"
+   "thumb": "thumbs/daily-2-1-mwahqm0g.jpg"
+  },
+  {
+   "tags": [
+    "monday",
+    "chores",
+    "daily post"
+   ],
+   "hashtags": [],
+   "id": "daily-1-2",
+   "title": "Monday: chores (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/daily-1-2/01-Monday-chores-mwahqlyz.png",
+     "kind": "image",
+     "name": "01 - Monday chores.png"
+    }
+   ],
+   "created": "2026-11-10T09:31:41.627Z",
+   "thumb": "thumbs/daily-1-2-mwahqlyz.jpg"
   },
   {
    "tags": [
@@ -929,24 +1306,39 @@
     "#executivedysfunction",
     "#lowenergy"
    ],
-   "id": "daily-1",
-   "title": "Monday: chores",
+   "id": "daily-1-1",
+   "title": "Monday: chores (feed post)",
    "type": "image",
    "caption": "Monday doesn't get to boss you around. Which level are you today?\nFree on the App Store. Link in bio.",
    "media": [
     {
-     "src": "media/daily-1/01-Monday-chores-mwahqlul.png",
-     "kind": "image",
-     "name": "01 - Monday chores.png"
-    },
-    {
-     "src": "media/daily-1/01-Monday-chores-mwahqlyz.png",
+     "src": "media/daily-1-1/01-Monday-chores-mwahqlul.png",
      "kind": "image",
      "name": "01 - Monday chores.png"
     }
    ],
    "created": "2026-11-10T09:31:41.469Z",
-   "thumb": "thumbs/daily-1-mwahqlul.jpg"
+   "thumb": "thumbs/daily-1-1-mwahqlul.jpg"
+  },
+  {
+   "tags": [
+    "launch",
+    "announcement"
+   ],
+   "hashtags": [],
+   "id": "launch-post-3",
+   "title": "Launch post (out now) (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/launch-post-3/launch-story-mwagwc43.png",
+     "kind": "image",
+     "name": "launch-story.png"
+    }
+   ],
+   "created": "2026-11-10T09:08:09.171Z",
+   "thumb": "thumbs/launch-post-3-mwagwc43.jpg"
   },
   {
    "tags": [
@@ -960,29 +1352,45 @@
     "#choreapp",
     "#indieapp"
    ],
-   "id": "launch-post",
-   "title": "Launch post (out now)",
+   "id": "launch-post-2",
+   "title": "Launch post (out now) (square post)",
    "type": "image",
    "caption": "It's here. Level Vibes is on the App Store! 🎉\n\nSome days you can deep-clean the kitchen. Some days a bowl of cereal counts as dinner. 🥣\n\nLevel Vibes gets that. Tap the level of energy you've got (1, 2 or 3) and it picks one thing to do, so you don't have to decide.\n\nChores, meals, workouts, what to watch… make a list for anything. Free on iPhone, iPad and Apple Watch. Link in bio.\n\nPut some vibe in your level. 💚💛❤️",
    "media": [
     {
-     "src": "media/launch-post/launch-portrait-mwagwbwg.png",
-     "kind": "image",
-     "name": "launch-portrait.png"
-    },
-    {
-     "src": "media/launch-post/launch-square-mwagwbzq.png",
+     "src": "media/launch-post-2/launch-square-mwagwbzq.png",
      "kind": "image",
      "name": "launch-square.png"
-    },
+    }
+   ],
+   "created": "2026-11-10T09:08:09.014Z",
+   "thumb": "thumbs/launch-post-2-mwagwbzq.jpg"
+  },
+  {
+   "tags": [
+    "launch",
+    "announcement"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#spoonie",
+    "#adhd",
+    "#choreapp",
+    "#indieapp"
+   ],
+   "id": "launch-post-1",
+   "title": "Launch post (out now) (feed post)",
+   "type": "image",
+   "caption": "It's here. Level Vibes is on the App Store! 🎉\n\nSome days you can deep-clean the kitchen. Some days a bowl of cereal counts as dinner. 🥣\n\nLevel Vibes gets that. Tap the level of energy you've got (1, 2 or 3) and it picks one thing to do, so you don't have to decide.\n\nChores, meals, workouts, what to watch… make a list for anything. Free on iPhone, iPad and Apple Watch. Link in bio.\n\nPut some vibe in your level. 💚💛❤️",
+   "media": [
     {
-     "src": "media/launch-post/launch-story-mwagwc43.png",
+     "src": "media/launch-post-1/launch-portrait-mwagwbwg.png",
      "kind": "image",
-     "name": "launch-story.png"
+     "name": "launch-portrait.png"
     }
    ],
    "created": "2026-11-10T09:08:08.896Z",
-   "thumb": "thumbs/launch-post-mwagwbwg.jpg"
+   "thumb": "thumbs/launch-post-1-mwagwbwg.jpg"
   },
   {
    "tags": [
@@ -1187,6 +1595,30 @@
     "seasonal",
     "new feature"
    ],
+   "hashtags": [],
+   "id": "img-holidays-pack-2",
+   "title": "Holidays pack announcement (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-holidays-pack-2/Holidays-pack-story-mwagrsek.png",
+     "kind": "image",
+     "name": "Holidays pack story.png"
+    }
+   ],
+   "created": "2026-11-10T09:04:37.004Z",
+   "thumb": "thumbs/img-holidays-pack-2-mwagrsek.jpg"
+  },
+  {
+   "tags": [
+    "holidays",
+    "christmas",
+    "hanukkah",
+    "december",
+    "seasonal",
+    "new feature"
+   ],
    "hashtags": [
     "#LevelVibes",
     "#holidays",
@@ -1194,24 +1626,19 @@
     "#adhd",
     "#smallwins"
    ],
-   "id": "img-holidays-pack",
-   "title": "Holidays pack announcement",
+   "id": "img-holidays-pack-1",
+   "title": "Holidays pack announcement (feed post)",
    "type": "image",
    "caption": "The holidays don't have to be all or nothing. 🎁 Level 1: wrap one present. Level 3: host the whole crew. Which level are you this week?\nNew in Level Vibes: tap New List +, then Holidays. Free update, out now. Link in bio.",
    "media": [
     {
-     "src": "media/img-holidays-pack/Holidays-pack-post-feed--mwagrsa5.png",
+     "src": "media/img-holidays-pack-1/Holidays-pack-post-feed--mwagrsa5.png",
      "kind": "image",
      "name": "Holidays pack post (feed).png"
-    },
-    {
-     "src": "media/img-holidays-pack/Holidays-pack-story-mwagrsek.png",
-     "kind": "image",
-     "name": "Holidays pack story.png"
     }
    ],
    "created": "2026-11-10T09:04:36.845Z",
-   "thumb": "thumbs/img-holidays-pack-mwagrsa5.jpg"
+   "thumb": "thumbs/img-holidays-pack-1-mwagrsa5.jpg"
   },
   {
    "tags": [
@@ -1242,6 +1669,88 @@
   },
   {
    "tags": [
+    "ad",
+    "my story",
+    "adhd",
+    "autism",
+    "best performer"
+   ],
+   "hashtags": [],
+   "id": "ad-c-3",
+   "title": "Ad: My story (image C2)",
+   "type": "ad",
+   "caption": "I have ADHD and I'm autistic. The hardest part of my day was never doing things. It was deciding what to do. So I made Level Vibes: tap the energy you've got, and it picks one thing. Free on iPhone, iPad and Apple Watch.",
+   "headline": "Made by someone who gets it",
+   "link": "https://levelvibes.app/home.html?ct=meta-test-2",
+   "media": [
+    {
+     "src": "media/ad-c-3/Ad-image-C2-My-story-with-app-feed-4x5--mwagqb3p.png",
+     "kind": "image",
+     "name": "Ad image C2 - My story with app (feed 4x5).png"
+    },
+    {
+     "src": "media/ad-c-3/Ad-image-C2-My-story-with-app-9x16--mwagqbb2.png",
+     "kind": "image",
+     "name": "Ad image C2 - My story with app (9x16).png"
+    }
+   ],
+   "created": "2026-11-10T09:03:27.925Z",
+   "thumb": "thumbs/ad-c-3-mwagqb3p.jpg"
+  },
+  {
+   "tags": [
+    "ad",
+    "my story",
+    "adhd",
+    "autism",
+    "best performer"
+   ],
+   "hashtags": [],
+   "id": "ad-c-2",
+   "title": "Ad: My story (image C1)",
+   "type": "ad",
+   "caption": "I have ADHD and I'm autistic. The hardest part of my day was never doing things. It was deciding what to do. So I made Level Vibes: tap the energy you've got, and it picks one thing. Free on iPhone, iPad and Apple Watch.",
+   "headline": "Made by someone who gets it",
+   "link": "https://levelvibes.app/home.html?ct=meta-test-2",
+   "media": [
+    {
+     "src": "media/ad-c-2/Ad-image-C1-My-story-feed-4x5--mwagqatn.png",
+     "kind": "image",
+     "name": "Ad image C1 - My story (feed 4x5).png"
+    },
+    {
+     "src": "media/ad-c-2/Ad-image-C1-My-story-9x16--mwagqaxw.png",
+     "kind": "image",
+     "name": "Ad image C1 - My story (9x16).png"
+    }
+   ],
+   "created": "2026-11-10T09:03:27.563Z",
+   "thumb": "thumbs/ad-c-2-mwagqatn.jpg"
+  },
+  {
+   "tags": [
+    "behind the scenes",
+    "indie app",
+    "personal",
+    "funny"
+   ],
+   "hashtags": [],
+   "id": "img-marketing-my-app-2",
+   "title": "Marketing my own app, by energy level (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-marketing-my-app-2/Marketing-my-own-app-story--mwagq1g9.png",
+     "kind": "image",
+     "name": "Marketing my own app (story).png"
+    }
+   ],
+   "created": "2026-11-10T09:03:15.417Z",
+   "thumb": "thumbs/img-marketing-my-app-2-mwagq1g9.jpg"
+  },
+  {
+   "tags": [
     "behind the scenes",
     "indie app",
     "personal",
@@ -1254,24 +1763,19 @@
     "#solofounder",
     "#adhd"
    ],
-   "id": "img-marketing-my-app",
-   "title": "Marketing my own app, by energy level",
+   "id": "img-marketing-my-app-1",
+   "title": "Marketing my own app, by energy level (feed post)",
    "type": "image",
    "caption": "Behind the scenes of a one-person app 🫠\n\nLevel 1: post something. Level 2: make some content. Level 3: figure out Meta Ads Manager (send help).\n\nI made Level Vibes for days like this: when you can't face the whole list, it picks one thing that fits your energy. Even marketing the app gets the Level Vibes treatment.\n\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/img-marketing-my-app/Marketing-my-own-app-feed--mwagq1br.png",
+     "src": "media/img-marketing-my-app-1/Marketing-my-own-app-feed--mwagq1br.png",
      "kind": "image",
      "name": "Marketing my own app (feed).png"
-    },
-    {
-     "src": "media/img-marketing-my-app/Marketing-my-own-app-story--mwagq1g9.png",
-     "kind": "image",
-     "name": "Marketing my own app (story).png"
     }
    ],
    "created": "2026-11-10T09:03:15.255Z",
-   "thumb": "thumbs/img-marketing-my-app-mwagq1br.jpg"
+   "thumb": "thumbs/img-marketing-my-app-1-mwagq1br.jpg"
   },
   {
    "tags": [
@@ -2136,46 +2640,26 @@
     "adhd"
    ],
    "hashtags": [],
-   "id": "ad-d",
-   "title": "Ad: Decision fatigue",
+   "id": "ad-d-1",
+   "title": "Ad: Decision fatigue (video D)",
    "type": "ad",
    "caption": "Every room has something waiting, and every chore wants my attention at once. I have ADHD and I'm autistic, and deciding was always the hardest part. So I made Level Vibes: tap the energy you've got, and it picks one thing. Free on iPhone, iPad and Apple Watch.",
    "headline": "One thing at a time",
    "link": "https://levelvibes.app/home.html?ct=meta-test-3",
    "media": [
     {
-     "src": "media/ad-d/Ad-video-D-Decision-fatigue-feed-4x5--mwahv8kz.mp4",
+     "src": "media/ad-d-1/Ad-video-D-Decision-fatigue-feed-4x5--mwahv8kz.mp4",
      "kind": "video",
      "name": "Ad video D - Decision fatigue (feed 4x5).mp4"
     },
     {
-     "src": "media/ad-d/Ad-video-D-Decision-fatigue-9x16--mwahqv2w.mp4",
+     "src": "media/ad-d-1/Ad-video-D-Decision-fatigue-9x16--mwahqv2w.mp4",
      "kind": "video",
      "name": "Ad video D - Decision fatigue (9x16).mp4"
-    },
-    {
-     "src": "media/ad-d/Ad-image-D1-Decision-fatigue-feed-4x5--mwahv4yf.png",
-     "kind": "image",
-     "name": "Ad image D1 - Decision fatigue (feed 4x5).png"
-    },
-    {
-     "src": "media/ad-d/Ad-image-D1-Decision-fatigue-9x16--mwahv54x.png",
-     "kind": "image",
-     "name": "Ad image D1 - Decision fatigue (9x16).png"
-    },
-    {
-     "src": "media/ad-d/Ad-image-D2-It-picks-one-thing-feed-4x5--mwahv51s.png",
-     "kind": "image",
-     "name": "Ad image D2 - It picks one thing (feed 4x5).png"
-    },
-    {
-     "src": "media/ad-d/Ad-image-D2-It-picks-one-thing-9x16--mwahv58x.png",
-     "kind": "image",
-     "name": "Ad image D2 - It picks one thing (9x16).png"
     }
    ],
    "created": "2026-11-09T07:49:35.129Z",
-   "thumb": "thumbs/ad-d-mwahv8kz.jpg"
+   "thumb": "thumbs/ad-d-1-mwahv8kz.jpg"
   },
   {
    "tags": [
@@ -2304,46 +2788,54 @@
     "best performer"
    ],
    "hashtags": [],
-   "id": "ad-c",
-   "title": "Ad: My story",
+   "id": "ad-c-1",
+   "title": "Ad: My story (video C)",
    "type": "ad",
    "caption": "I have ADHD and I'm autistic. The hardest part of my day was never doing things. It was deciding what to do. So I made Level Vibes: tap the energy you've got, and it picks one thing. Free on iPhone, iPad and Apple Watch.",
    "headline": "Made by someone who gets it",
    "link": "https://levelvibes.app/home.html?ct=meta-test-2",
    "media": [
     {
-     "src": "media/ad-c/Ad-video-C-My-story-feed-4x5--mwahv3vj.mp4",
+     "src": "media/ad-c-1/Ad-video-C-My-story-feed-4x5--mwahv3vj.mp4",
      "kind": "video",
      "name": "Ad video C - My story (feed 4x5).mp4"
     },
     {
-     "src": "media/ad-c/Ad-video-C-My-story-9x16--mwahv2g2.mp4",
+     "src": "media/ad-c-1/Ad-video-C-My-story-9x16--mwahv2g2.mp4",
      "kind": "video",
      "name": "Ad video C - My story (9x16).mp4"
-    },
-    {
-     "src": "media/ad-c/Ad-image-C1-My-story-feed-4x5--mwagqatn.png",
-     "kind": "image",
-     "name": "Ad image C1 - My story (feed 4x5).png"
-    },
-    {
-     "src": "media/ad-c/Ad-image-C1-My-story-9x16--mwagqaxw.png",
-     "kind": "image",
-     "name": "Ad image C1 - My story (9x16).png"
-    },
-    {
-     "src": "media/ad-c/Ad-image-C2-My-story-with-app-feed-4x5--mwagqb3p.png",
-     "kind": "image",
-     "name": "Ad image C2 - My story with app (feed 4x5).png"
-    },
-    {
-     "src": "media/ad-c/Ad-image-C2-My-story-with-app-9x16--mwagqbb2.png",
-     "kind": "image",
-     "name": "Ad image C2 - My story with app (9x16).png"
     }
    ],
    "created": "2026-11-05T08:58:49.023Z",
-   "thumb": "thumbs/ad-c-mwahv3vj.jpg"
+   "thumb": "thumbs/ad-c-1-mwahv3vj.jpg"
+  },
+  {
+   "tags": [
+    "split screen",
+    "people",
+    "ad"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#decisionfatigue",
+    "#adhd",
+    "#relatable",
+    "#splitscreen"
+   ],
+   "id": "reel-33-2",
+   "num": 33,
+   "title": "Still deciding vs let it pick (feed version, 4:5)",
+   "type": "reel",
+   "caption": "Top: still deciding. Bottom: let it pick, did one thing, feet up. 🛋️ Which one are you today?\nFree on the App Store, link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-33-2/33-Still-deciding-vs-let-it-pick-feed-4x5--mwaht6d6.mp4",
+     "kind": "video",
+     "name": "33 - Still deciding vs let it pick (feed 4x5).mp4"
+    }
+   ],
+   "created": "2026-11-05T08:54:34.971Z",
+   "thumb": "thumbs/reel-33-2-mwaht6d6.jpg"
   },
   {
    "tags": [
@@ -2467,25 +2959,20 @@
     "#relatable",
     "#splitscreen"
    ],
-   "id": "reel-33",
+   "id": "reel-33-1",
    "num": 33,
-   "title": "Still deciding vs let it pick",
+   "title": "Still deciding vs let it pick (Reel)",
    "type": "reel",
    "caption": "Top: still deciding. Bottom: let it pick, did one thing, feet up. 🛋️ Which one are you today?\nFree on the App Store, link in bio. 💚💛❤️",
    "media": [
     {
-     "src": "media/reel-33/33-Still-deciding-vs-let-it-pick-mwahsv4m.mp4",
+     "src": "media/reel-33-1/33-Still-deciding-vs-let-it-pick-mwahsv4m.mp4",
      "kind": "video",
      "name": "33 - Still deciding vs let it pick.mp4"
-    },
-    {
-     "src": "media/reel-33/33-Still-deciding-vs-let-it-pick-feed-4x5--mwaht6d6.mp4",
-     "kind": "video",
-     "name": "33 - Still deciding vs let it pick (feed 4x5).mp4"
     }
    ],
    "created": "2026-11-02T10:18:13.989Z",
-   "thumb": "thumbs/reel-33-mwahsv4m.jpg"
+   "thumb": "thumbs/reel-33-1-mwahsv4m.jpg"
   },
   {
    "tags": [
