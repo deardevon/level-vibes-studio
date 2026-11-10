@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-10T02:46:36.546Z",
+ "updated": "2026-11-10T08:51:27.639Z",
  "items": [
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "sneak peek",
+    "2.0",
+    "reel",
+    "new design"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#sneakpeek",
+    "#comingsoon",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "reel-sneak-peek",
+   "title": "Sneak peek reel (before 2.0)",
+   "type": "reel",
+   "caption": "A little sneak peek. 👀\n\nA new way to pick your level, help with getting started, and a timer you can watch close. Level Vibes 2.0 is almost here. Which part are you most excited for? 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-sneak-peek/Reel-Sneak-peek.mp4",
+     "kind": "video",
+     "name": "Reel - Sneak peek.mp4"
+    }
+   ],
+   "created": "2026-11-10T08:47:47.892Z",
+   "thumb": "thumbs/reel-sneak-peek.jpg"
+  },
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "2.0",
+    "reel",
+    "animation",
+    "announcement"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#comingsoon",
+    "#indieapp",
+    "#buildinpublic",
+    "#appupdate"
+   ],
+   "id": "reel-coming-soon",
+   "title": "Something big is coming reel (before 2.0)",
+   "type": "reel",
+   "caption": "Level Vibes has been quiet lately. Here's why. 👀\n\nI've been building something big: Level Vibes 2.0. A whole new look, and more help getting started. Coming soon, so stay tuned. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-coming-soon/Reel-Something-big-is-coming.mp4",
+     "kind": "video",
+     "name": "Reel - Something big is coming.mp4"
+    }
+   ],
+   "created": "2026-11-10T08:46:54.167Z",
+   "thumb": "thumbs/reel-coming-soon.jpg"
+  },
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "2.0",
+    "sneak peek",
+    "new design",
+    "announcement"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#comingsoon",
+    "#indieapp",
+    "#buildinpublic",
+    "#adhd"
+   ],
+   "id": "car-coming-soon",
+   "title": "Something big is coming (before 2.0)",
+   "type": "carousel",
+   "caption": "Something big is coming to Level Vibes. 👀\n\nI've been quietly rebuilding the whole app: a whole new look, and more help with the part I find hardest, actually starting. Same idea at its heart: tap your energy, it picks one thing.\n\nLevel Vibes 2.0 is coming soon. Follow along so you don't miss it. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-coming-soon/01.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-coming-soon/02.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-coming-soon/03.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-coming-soon/04.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-coming-soon/05.png",
+     "kind": "image",
+     "name": "05.png"
+    },
+    {
+     "src": "media/car-coming-soon/06.png",
+     "kind": "image",
+     "name": "06.png"
+    }
+   ],
+   "created": "2026-11-10T08:46:48.429Z",
+   "thumb": "thumbs/car-coming-soon.jpg"
+  },
+  {
+   "tags": [
+    "coming soon",
+    "teaser",
+    "2.0",
+    "sneak peek",
+    "story"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#comingsoon",
+    "#indieapp",
+    "#buildinpublic",
+    "#adhd"
+   ],
+   "id": "img-coming-soon",
+   "title": "Something big is coming (before 2.0)",
+   "type": "image",
+   "caption": "Something big is coming. 👀 Level Vibes 2.0: a whole new look, and more help with getting started. Stay tuned. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-coming-soon/Feed-Something-big-is-coming.png",
+     "kind": "image",
+     "name": "Feed - Something big is coming.png"
+    },
+    {
+     "src": "media/img-coming-soon/Story-Something-big-is-coming.png",
+     "kind": "image",
+     "name": "Story - Something big is coming.png"
+    },
+    {
+     "src": "media/img-coming-soon/Story-Sneak-peek.png",
+     "kind": "image",
+     "name": "Story - Sneak peek.png"
+    }
+   ],
+   "created": "2026-11-10T08:46:29.700Z",
+   "thumb": "thumbs/img-coming-soon.jpg"
+  },
   {
    "tags": [
     "behind the scenes",
