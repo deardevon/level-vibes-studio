@@ -41,7 +41,8 @@ function split(items) {
     it.files.forEach((f, k) => {
       const kind = kindOf(f);
       const stories = it.files.filter((x) => kindOf(x) === 'story').length;
-      const name = stories > 1 && kind === 'story' ? `story: ${path.basename(f).replace(/^Story - |\.png$/g, '')}` : LABEL[kind];
+      const nm = path.basename(f).replace(/^Story - |\.png$/g, '');
+      const name = stories > 1 && kind === 'story' && nm !== base ? `story: ${nm}` : LABEL[kind];
       const story = kind === 'story';
       out.push({ ...it, id: `${it.id}-${k + 1}`, title: `${base} (${name})${when ? ' ' + when : ''}`, type: story ? 'story' : it.type, files: [f],
         ...(story ? { caption: STORY_NOTE, hashtags: [] } : {}) });
