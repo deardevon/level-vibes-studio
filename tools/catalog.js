@@ -93,9 +93,9 @@ const OTHER_REEL_CAPTIONS = {
 
 // Carousels from the content list: id, title, folder in Social 1.1/Carousels, search tags
 const CAROUSELS = [
-  ['car-coming-soon', 'Something big is coming (before 2.0)', 'Coming soon', 'coming soon, teaser, 2.0, sneak peek, new design, announcement'],
+  ['car-coming-soon', 'Coming soon: Something big is coming', 'Coming soon', 'coming soon, teaser, 2.0, sneak peek, new design, announcement'],
   ['car-built-for-my-brain', 'Things I built because of my brain (after 2.0)', 'Built for my brain', 'my story, adhd, autism, features, personal, 1.2, getting started'],
-  ['car-level-vibes-1-2', 'Level Vibes 2.0: new look + getting started (after 2.0)', 'Level Vibes 2.0', '2.0, 1.2, update, new design, new feature, executive dysfunction, getting started, announcement'],
+  ['car-level-vibes-1-2', '2.0 is out: new look + getting started', 'Level Vibes 2.0', '2.0, 1.2, update, new design, new feature, executive dysfunction, getting started, announcement'],
   ['car-room-by-room', 'A Level 1, 2 and 3 day, room by room', 'Room by room', 'chores, cleaning, levels, rooms, house'],
   ['car-how-it-works', 'How Level Vibes works, in 6 slides', 'How it works', 'how it works, app demo, features, explainer'],
   ['car-week-of-wins', 'A week of Level 1 wins', 'A week of Level 1 wins', 'small wins, level 1, low energy, daily post, week'],
@@ -107,11 +107,11 @@ const CAROUSELS = [
 
 // Single images with a caption file next to them (header lines, a blank line, then the caption)
 const SINGLES = [
-  ['reel-coming-soon', 'Something big is coming reel (before 2.0)', ['Coming soon/Reel - Something big is coming.mp4'], 'Coming soon/Reel - Something big is coming - caption.txt', 'coming soon, teaser, 2.0, reel, animation, announcement'],
-  ['reel-sneak-peek', 'Sneak peek reel (before 2.0)', ['Coming soon/Reel - Sneak peek.mp4'], 'Coming soon/Reel - Sneak peek - caption.txt', 'coming soon, teaser, sneak peek, 2.0, reel, new design'],
-  ['img-coming-soon', 'Something big is coming (before 2.0)', ['Coming soon/Feed - Something big is coming.png', 'Coming soon/Story - Something big is coming.png', 'Coming soon/Story - Sneak peek.png'], 'Coming soon/Something big is coming - caption.txt', 'coming soon, teaser, 2.0, sneak peek, story'],
-  ['reel-1-2-announcement', 'Level Vibes 2.0 announcement reel (after 2.0)', ['Level Vibes 2.0/Level Vibes 2.0 announcement reel.mp4'], 'Level Vibes 2.0/Level Vibes 2.0 announcement reel - caption.txt', '2.0, 1.2, update, new design, announcement, executive dysfunction, new feature, reel, animation'],
-  ['img-1-2-announcement', 'Level Vibes 2.0 announcement (after 2.0)', ['Level Vibes 2.0/Level Vibes 2.0 announcement (feed).png', 'Level Vibes 2.0/Level Vibes 2.0 announcement (story).png'], 'Level Vibes 2.0/Level Vibes 2.0 announcement - caption.txt', '2.0, 1.2, update, new design, announcement, executive dysfunction, new feature'],
+  ['reel-coming-soon', 'Coming soon: Something big is coming', ['Coming soon/Reel - Something big is coming.mp4'], 'Coming soon/Reel - Something big is coming - caption.txt', 'coming soon, teaser, 2.0, reel, animation, announcement'],
+  ['reel-sneak-peek', 'Coming soon: Sneak peek', ['Coming soon/Reel - Sneak peek.mp4'], 'Coming soon/Reel - Sneak peek - caption.txt', 'coming soon, teaser, sneak peek, 2.0, reel, new design'],
+  ['img-coming-soon', 'Coming soon: Something big is coming', ['Coming soon/Feed - Something big is coming.png', 'Coming soon/Story - Something big is coming.png', 'Coming soon/Story - Sneak peek.png'], 'Coming soon/Something big is coming - caption.txt', 'coming soon, teaser, 2.0, sneak peek, story'],
+  ['reel-1-2-announcement', '2.0 is out: announcement', ['Level Vibes 2.0/Level Vibes 2.0 announcement reel.mp4'], 'Level Vibes 2.0/Level Vibes 2.0 announcement reel - caption.txt', '2.0, 1.2, update, new design, announcement, executive dysfunction, new feature, reel, animation'],
+  ['img-1-2-announcement', '2.0 is out: announcement', ['Level Vibes 2.0/Level Vibes 2.0 announcement (feed).png', 'Level Vibes 2.0/Level Vibes 2.0 announcement (story).png'], 'Level Vibes 2.0/Level Vibes 2.0 announcement - caption.txt', '2.0, 1.2, update, new design, announcement, executive dysfunction, new feature'],
   ['img-level-1-not-lazy', "Level 1 days aren't lazy days", ["Single posts/Level 1 days aren't lazy days.png"], "Single posts/Level 1 days aren't lazy days - caption.txt", 'level 1, low energy, rest, save this, quote'],
   ['img-adhd-1', 'Things I built because of my ADHD #1: No streaks', ['Single posts/Built because of my ADHD 1 - No streaks.png'], 'Single posts/Built because of my ADHD 1 - No streaks - caption.txt', 'adhd, my story, features, series'],
   ['img-adhd-2', 'Things I built because of my ADHD #2: It picks one thing', ['Single posts/Built because of my ADHD 2 - It picks one thing.png'], 'Single posts/Built because of my ADHD 2 - It picks one thing - caption.txt', 'adhd, my story, features, series'],

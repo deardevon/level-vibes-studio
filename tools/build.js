@@ -14,6 +14,7 @@ const safe = (s) => s.replace(/[^\w.-]+/g, '-').replace(/-+/g, '-');
 // One post per thing you actually post. Carousels and story sets stay together (they're posted
 // together). A feed version and a story version are two separate posts. An ad keeps its sizes
 // together (Ads Manager uses them in one ad), but different creatives become separate ads.
+const THUMB_AT = { 'reel-1-2-announcement': 11, 'reel-coming-soon': 10.5, 'reel-sneak-peek': 10.5 };
 const STORY_NOTE = 'Story: no caption needed. Add a link sticker (levelvibes.app) if you like.';
 const kindOf = (f) => (/\.mp4$/i.test(f) ? (/4x5/.test(f) ? 'feedvid' : 'reel') : /\/Story\/|story|9x16/i.test(f) ? 'story' : /square|1x1/i.test(f) ? 'square' : 'feed');
 const LABEL = { feed: 'feed post', story: 'story', square: 'square post', reel: 'Reel', feedvid: 'feed version, 4:5' };
@@ -42,7 +43,7 @@ function split(items) {
       const kind = kindOf(f);
       const stories = it.files.filter((x) => kindOf(x) === 'story').length;
       const nm = path.basename(f).replace(/^Story - |\.png$/g, '');
-      const name = stories > 1 && kind === 'story' && nm !== base ? `story: ${nm}` : LABEL[kind];
+      const name = stories > 1 && kind === 'story' && !base.endsWith(nm) ? `story: ${nm}` : LABEL[kind];
       const story = kind === 'story';
       out.push({ ...it, id: `${it.id}-${k + 1}`, title: `${base} (${name})${when ? ' ' + when : ''}`, type: story ? 'story' : it.type, files: [f],
         ...(story ? { caption: STORY_NOTE, hashtags: [] } : {}) });
@@ -79,14 +80,16 @@ function split(items) {
     // Preview for the grid, from the first file (named with that file's version too)
     const first = it.media[0];
     if (!first) continue;
-    const thumbRel = `thumbs/${it.id}-${first.v}.jpg`;
+    // where to take a video's preview frame (default 1.5 s; some reels start on a blank screen)
+    const at = THUMB_AT[it.id] || 1.5;
+    const thumbRel = `thumbs/${it.id}-${first.v}${at !== 1.5 ? `-t${at}` : ''}.jpg`;
     const thumb = path.join(ROOT, thumbRel);
     fs.mkdirSync(path.dirname(thumb), { recursive: true });
     if (!fs.existsSync(thumb)) {
       const firstPath = path.join(ROOT, first.src);
       if (first.kind === 'video') {
         const tmp = thumb + '.png';
-        execFileSync(FFMPEG, ['-hide_banner', '-loglevel', 'error', '-y', '-ss', '1.5', '-i', firstPath, '-frames:v', '1', tmp]);
+        execFileSync(FFMPEG, ['-hide_banner', '-loglevel', 'error', '-y', '-ss', String(at), '-i', firstPath, '-frames:v', '1', tmp]);
         await sharp(tmp).resize({ width: 480 }).jpeg({ quality: 78 }).toFile(thumb);
         fs.unlinkSync(tmp);
       } else {
