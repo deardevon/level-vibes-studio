@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:04:39.890Z",
+ "updated": "2026-11-11T02:59:16.416Z",
  "items": [
   {
    "tags": [
@@ -351,6 +351,58 @@
    ],
    "created": "2026-11-10T09:02:04.184Z",
    "thumb": "thumbs/img-1-2-announcement-2-mwagoihk.jpg"
+  },
+  {
+   "tags": [
+    "android",
+    "in the works",
+    "coming soon",
+    "announcement",
+    "story"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#android",
+    "#comingsoon",
+    "#indieapp",
+    "#buildinpublic"
+   ],
+   "id": "img-android-in-the-works-1",
+   "title": "In the works: Level Vibes for Android (feed post)",
+   "type": "image",
+   "caption": "Android friends, this one's for you: Level Vibes for Android is in the works. 👀 No date yet, but I'll share more as soon as I can. Follow along so you don't miss it. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-android-in-the-works-1/Feed-In-the-works-Android-mwbj5c6n.png",
+     "kind": "image",
+     "name": "Feed - In the works Android.png"
+    }
+   ],
+   "created": "2026-11-11T02:58:54.575Z",
+   "thumb": "thumbs/img-android-in-the-works-1-mwbj5c6n.jpg"
+  },
+  {
+   "tags": [
+    "android",
+    "in the works",
+    "coming soon",
+    "announcement",
+    "story"
+   ],
+   "hashtags": [],
+   "id": "img-android-in-the-works-2",
+   "title": "In the works: Level Vibes for Android (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-android-in-the-works-2/Story-In-the-works-Android-mwbj5cax.png",
+     "kind": "image",
+     "name": "Story - In the works Android.png"
+    }
+   ],
+   "created": "2026-11-11T02:58:54.729Z",
+   "thumb": "thumbs/img-android-in-the-works-2-mwbj5cax.jpg"
   },
   {
    "tags": [
