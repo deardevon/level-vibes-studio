@@ -93,6 +93,7 @@ const OTHER_REEL_CAPTIONS = {
 
 // Carousels from the content list: id, title, folder in Social 1.1/Carousels, search tags
 const CAROUSELS = [
+  ['car-brain-dump', 'New: Brain dump', 'Brain dump', 'brain dump, today, orbit, planning, new feature, update, have to'],
   ['car-break-it-down', 'New: Break it down', 'Break it down', 'break it down, steps, new feature, update, flower, figures, getting started'],
   ['car-coming-soon', 'Coming soon: Something big is coming', 'Coming soon', 'coming soon, teaser, 2.0, sneak peek, new design, announcement'],
   ['car-built-for-my-brain', 'Things I built because of my brain (after 2.0)', 'Built for my brain', 'my story, adhd, autism, features, personal, 1.2, getting started'],
@@ -108,6 +109,8 @@ const CAROUSELS = [
 
 // Single images with a caption file next to them (header lines, a blank line, then the caption)
 const SINGLES = [
+  ['reel-brain-dump', 'New: Brain dump', ['Brain dump/Reel - Brain dump.mp4'], 'Brain dump/Reel - Brain dump - caption.txt', 'brain dump, today, orbit, planning, new feature, update, reel, animation'],
+  ['img-brain-dump', 'New: Brain dump', ['Brain dump/Feed - Brain dump.png', 'Brain dump/Story - Brain dump.png'], 'Brain dump/Brain dump - caption.txt', 'brain dump, today, orbit, planning, new feature, update, story'],
   ['reel-break-it-down', 'New: Break it down', ['Break it down/Reel - Break it down.mp4'], 'Break it down/Reel - Break it down - caption.txt', 'break it down, steps, new feature, update, reel, animation, flower'],
   ['img-break-it-down', 'New: Break it down', ['Break it down/Feed - Break it down.png', 'Break it down/Story - Break it down.png'], 'Break it down/Break it down - caption.txt', 'break it down, steps, new feature, update, story, flower'],
   ['reel-coming-soon', 'Coming soon: Something big is coming', ['Coming soon/Reel - Something big is coming.mp4'], 'Coming soon/Reel - Something big is coming - caption.txt', 'coming soon, teaser, 2.0, reel, animation, announcement'],

@@ -1,6 +1,145 @@
 {
- "updated": "2026-11-11T08:50:36.648Z",
+ "updated": "2026-11-11T09:15:14.732Z",
  "items": [
+  {
+   "tags": [
+    "brain dump",
+    "today",
+    "orbit",
+    "planning",
+    "new feature",
+    "update",
+    "reel",
+    "animation"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#braindump",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "reel-brain-dump",
+   "title": "New: Brain dump",
+   "type": "reel",
+   "caption": "Too much on your mind? 🧠 New in Level Vibes: Brain dump. Type everything out, sort it one card at a time, and it builds today's orbit for you. Your one have-to sits in the middle, and when you tap a level, it comes first if it fits your energy. 🪐\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-brain-dump/Reel-Brain-dump-mwbwkvhl.mp4",
+     "kind": "video",
+     "name": "Reel - Brain dump.mp4"
+    }
+   ],
+   "created": "2026-11-11T09:12:47.434Z",
+   "thumb": "thumbs/reel-brain-dump-mwbwkvhl.jpg"
+  },
+  {
+   "tags": [
+    "brain dump",
+    "today",
+    "orbit",
+    "planning",
+    "new feature",
+    "update",
+    "have to"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#braindump",
+    "#indieapp",
+    "#planning"
+   ],
+   "id": "car-brain-dump",
+   "title": "New: Brain dump",
+   "type": "carousel",
+   "caption": "Get it all out of your head. 🧠 Brain dump is new in Level Vibes: type everything, then sort it one card at a time (how much energy it takes, and whether it's for today). It builds today's orbit: your one have-to in the middle, with should and could around it (Plus Pack). Too big right now? Start your have-to with Just 2 minutes.\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-brain-dump/01-mwbwhr9m.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-brain-dump/02-mwbwhrd4.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-brain-dump/03-mwbwhrhe.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-brain-dump/04-mwbwhrmu.png",
+     "kind": "image",
+     "name": "04.png"
+    },
+    {
+     "src": "media/car-brain-dump/05-mwbwhrs7.png",
+     "kind": "image",
+     "name": "05.png"
+    }
+   ],
+   "created": "2026-11-11T09:12:29.002Z",
+   "thumb": "thumbs/car-brain-dump-mwbwhr9m.jpg"
+  },
+  {
+   "tags": [
+    "brain dump",
+    "today",
+    "orbit",
+    "planning",
+    "new feature",
+    "update",
+    "story"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#braindump",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "img-brain-dump-1",
+   "title": "New: Brain dump (feed post)",
+   "type": "image",
+   "caption": "New: Brain dump. 🧠 Get it out of your head, then plan today around your energy. Free update in Level Vibes, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-brain-dump-1/Feed-Brain-dump-mwbwi54x.png",
+     "kind": "image",
+     "name": "Feed - Brain dump.png"
+    }
+   ],
+   "created": "2026-11-11T09:12:46.977Z",
+   "thumb": "thumbs/img-brain-dump-1-mwbwi54x.jpg"
+  },
+  {
+   "tags": [
+    "brain dump",
+    "today",
+    "orbit",
+    "planning",
+    "new feature",
+    "update",
+    "story"
+   ],
+   "hashtags": [],
+   "id": "img-brain-dump-2",
+   "title": "New: Brain dump (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-brain-dump-2/Story-Brain-dump-mwbwi5ao.png",
+     "kind": "image",
+     "name": "Story - Brain dump.png"
+    }
+   ],
+   "created": "2026-11-11T09:12:47.184Z",
+   "thumb": "thumbs/img-brain-dump-2-mwbwi5ao.jpg"
+  },
   {
    "tags": [
     "break it down",
