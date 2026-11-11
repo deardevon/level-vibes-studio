@@ -1,6 +1,140 @@
 {
- "updated": "2026-11-11T09:15:14.732Z",
+ "updated": "2026-11-11T09:27:41.505Z",
  "items": [
+  {
+   "tags": [
+    "bloom",
+    "wins",
+    "flower",
+    "no streaks",
+    "new feature",
+    "update",
+    "reel",
+    "animation"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#smallwins",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "reel-bloom",
+   "title": "New: Today’s bloom",
+   "type": "reel",
+   "caption": "Every win gets a petal. 🌸 New in Level Vibes: Today's bloom. Each of your lists is a petal, and a win fills it in the color of the level you did it at. A Level 1 win counts just as much. No streaks to keep, just a little flower for your day.\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-bloom/Reel-Today-s-bloom-mwbx0urk.mp4",
+     "kind": "video",
+     "name": "Reel - Today’s bloom.mp4"
+    }
+   ],
+   "created": "2026-11-11T09:26:25.769Z",
+   "thumb": "thumbs/reel-bloom-mwbx0urk.jpg"
+  },
+  {
+   "tags": [
+    "bloom",
+    "wins",
+    "flower",
+    "no streaks",
+    "new feature",
+    "update",
+    "small wins"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#smallwins",
+    "#nostreaks",
+    "#indieapp"
+   ],
+   "id": "car-bloom",
+   "title": "New: Today’s bloom",
+   "type": "carousel",
+   "caption": "A petal for each list. 🌸 Today's bloom is new in the Wins tab: get a win from a list and its petal fills in, in the color of the level you did it at. Any level fills a petal. Nothing to keep up, no streaks to break. With the Plus Pack, your week shows up as a row of little flowers.\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-bloom/01-mwbwzf3n.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-bloom/02-mwbwzf8y.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-bloom/03-mwbwzfd0.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-bloom/04-mwbwzfhu.png",
+     "kind": "image",
+     "name": "04.png"
+    }
+   ],
+   "created": "2026-11-11T09:26:13.043Z",
+   "thumb": "thumbs/car-bloom-mwbwzf3n.jpg"
+  },
+  {
+   "tags": [
+    "bloom",
+    "wins",
+    "flower",
+    "no streaks",
+    "new feature",
+    "update",
+    "story"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#smallwins",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "img-bloom-1",
+   "title": "New: Today’s bloom (feed post)",
+   "type": "image",
+   "caption": "New: Today's bloom. 🌸 A little flower for your wins, no streaks to keep. Free update in Level Vibes, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-bloom-1/Feed-Today-s-bloom-mwbwzerc.png",
+     "kind": "image",
+     "name": "Feed - Today’s bloom.png"
+    }
+   ],
+   "created": "2026-11-11T09:26:12.600Z",
+   "thumb": "thumbs/img-bloom-1-mwbwzerc.jpg"
+  },
+  {
+   "tags": [
+    "bloom",
+    "wins",
+    "flower",
+    "no streaks",
+    "new feature",
+    "update",
+    "story"
+   ],
+   "hashtags": [],
+   "id": "img-bloom-2",
+   "title": "New: Today’s bloom (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-bloom-2/Story-Today-s-bloom-mwbwzewy.png",
+     "kind": "image",
+     "name": "Story - Today’s bloom.png"
+    }
+   ],
+   "created": "2026-11-11T09:26:12.802Z",
+   "thumb": "thumbs/img-bloom-2-mwbwzewy.jpg"
+  },
   {
    "tags": [
     "brain dump",
