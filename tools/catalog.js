@@ -93,6 +93,7 @@ const OTHER_REEL_CAPTIONS = {
 
 // Carousels from the content list: id, title, folder in Social 1.1/Carousels, search tags
 const CAROUSELS = [
+  ['car-break-it-down', 'New: Break it down', 'Break it down', 'break it down, steps, new feature, update, flower, figures, getting started'],
   ['car-coming-soon', 'Coming soon: Something big is coming', 'Coming soon', 'coming soon, teaser, 2.0, sneak peek, new design, announcement'],
   ['car-built-for-my-brain', 'Things I built because of my brain (after 2.0)', 'Built for my brain', 'my story, adhd, autism, features, personal, 1.2, getting started'],
   ['car-level-vibes-1-2', '2.0 is out: new look + getting started', 'Level Vibes 2.0', '2.0, 1.2, update, new design, new feature, executive dysfunction, getting started, announcement'],
@@ -107,6 +108,8 @@ const CAROUSELS = [
 
 // Single images with a caption file next to them (header lines, a blank line, then the caption)
 const SINGLES = [
+  ['reel-break-it-down', 'New: Break it down', ['Break it down/Reel - Break it down.mp4'], 'Break it down/Reel - Break it down - caption.txt', 'break it down, steps, new feature, update, reel, animation, flower'],
+  ['img-break-it-down', 'New: Break it down', ['Break it down/Feed - Break it down.png', 'Break it down/Story - Break it down.png'], 'Break it down/Break it down - caption.txt', 'break it down, steps, new feature, update, story, flower'],
   ['reel-coming-soon', 'Coming soon: Something big is coming', ['Coming soon/Reel - Something big is coming.mp4'], 'Coming soon/Reel - Something big is coming - caption.txt', 'coming soon, teaser, 2.0, reel, animation, announcement'],
   ['reel-sneak-peek', 'Coming soon: Sneak peek', ['Coming soon/Reel - Sneak peek.mp4'], 'Coming soon/Reel - Sneak peek - caption.txt', 'coming soon, teaser, sneak peek, 2.0, reel, new design'],
   ['img-android-in-the-works', 'In the works: Level Vibes for Android', ['In the works/Feed - In the works Android.png', 'In the works/Story - In the works Android.png'], 'In the works/In the works Android - caption.txt', 'android, in the works, coming soon, announcement, story'],
