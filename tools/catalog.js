@@ -93,6 +93,7 @@ const OTHER_REEL_CAPTIONS = {
 
 // Carousels from the content list: id, title, folder in Social 1.1/Carousels, search tags
 const CAROUSELS = [
+  ['car-planned', 'New: Planned vs done', 'Planned vs done', 'planned vs done, plan, evening, bonus wins, new feature, update, plus pack'],
   ['car-bloom', 'New: Today’s bloom', 'Bloom', 'bloom, wins, flower, no streaks, new feature, update, small wins'],
   ['car-brain-dump', 'New: Brain dump', 'Brain dump', 'brain dump, today, orbit, planning, new feature, update, have to'],
   ['car-break-it-down', 'New: Break it down', 'Break it down', 'break it down, steps, new feature, update, flower, figures, getting started'],
@@ -110,6 +111,8 @@ const CAROUSELS = [
 
 // Single images with a caption file next to them (header lines, a blank line, then the caption)
 const SINGLES = [
+  ['reel-planned', 'New: Planned vs done', ['Planned vs done/Reel - Planned vs done.mp4'], 'Planned vs done/Reel - Planned vs done - caption.txt', 'planned vs done, plan, evening, bonus wins, new feature, update, reel, animation'],
+  ['img-planned', 'New: Planned vs done', ['Planned vs done/Feed - Planned vs done.png', 'Planned vs done/Story - Planned vs done.png'], 'Planned vs done/Planned vs done - caption.txt', 'planned vs done, plan, evening, bonus wins, new feature, update, story'],
   ['reel-bloom', 'New: Today’s bloom', ['Bloom/Reel - Today’s bloom.mp4'], 'Bloom/Reel - Today’s bloom - caption.txt', 'bloom, wins, flower, no streaks, new feature, update, reel, animation'],
   ['img-bloom', 'New: Today’s bloom', ['Bloom/Feed - Today’s bloom.png', 'Bloom/Story - Today’s bloom.png'], 'Bloom/Today’s bloom - caption.txt', 'bloom, wins, flower, no streaks, new feature, update, story'],
   ['reel-brain-dump', 'New: Brain dump', ['Brain dump/Reel - Brain dump.mp4'], 'Brain dump/Reel - Brain dump - caption.txt', 'brain dump, today, orbit, planning, new feature, update, reel, animation'],

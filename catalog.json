@@ -1,6 +1,140 @@
 {
- "updated": "2026-11-11T09:27:41.505Z",
+ "updated": "2026-11-11T11:26:02.708Z",
  "items": [
+  {
+   "tags": [
+    "planned vs done",
+    "plan",
+    "evening",
+    "bonus wins",
+    "new feature",
+    "update",
+    "reel",
+    "animation"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#smallwins",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "reel-planned",
+   "title": "New: Planned vs done",
+   "type": "reel",
+   "caption": "How did today really go? 📋 New in Level Vibes: Planned vs done. Your plan for the day beside what you actually did. Anything you did that wasn't on the plan counts as a bonus win, and leftovers move to tomorrow in one tap. No red marks, no score. 💚\n\nIn the Plus Pack, free update out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-planned/Reel-Planned-vs-done-mwc1910h.mp4",
+     "kind": "video",
+     "name": "Reel - Planned vs done.mp4"
+    }
+   ],
+   "created": "2026-11-11T11:24:18.039Z",
+   "thumb": "thumbs/reel-planned-mwc1910h.jpg"
+  },
+  {
+   "tags": [
+    "planned vs done",
+    "plan",
+    "evening",
+    "bonus wins",
+    "new feature",
+    "update",
+    "plus pack"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#smallwins",
+    "#planning",
+    "#indieapp"
+   ],
+   "id": "car-planned",
+   "title": "New: Planned vs done",
+   "type": "carousel",
+   "caption": "That's a day. 📋 Planned vs done is new in Level Vibes: plan your day with Brain dump, then see how it went in Wins. Wins that weren't on the plan count as bonus wins, because they count too. Leftovers move to tomorrow, or you let them go. No red marks, no score.\n\nIn the Plus Pack, free update out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-planned/01-mwc17298.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-planned/02-mwc172dn.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-planned/03-mwc172hf.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-planned/04-mwc172m5.png",
+     "kind": "image",
+     "name": "04.png"
+    }
+   ],
+   "created": "2026-11-11T11:24:08.108Z",
+   "thumb": "thumbs/car-planned-mwc17298.jpg"
+  },
+  {
+   "tags": [
+    "planned vs done",
+    "plan",
+    "evening",
+    "bonus wins",
+    "new feature",
+    "update",
+    "story"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#smallwins",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "img-planned-1",
+   "title": "New: Planned vs done (feed post)",
+   "type": "image",
+   "caption": "New: Planned vs done. 📋 Your plan beside your day, bonus wins included. No red marks, no score. In the Plus Pack, free update out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-planned-1/Feed-Planned-vs-done-mwc171xs.png",
+     "kind": "image",
+     "name": "Feed - Planned vs done.png"
+    }
+   ],
+   "created": "2026-11-11T11:24:07.696Z",
+   "thumb": "thumbs/img-planned-1-mwc171xs.jpg"
+  },
+  {
+   "tags": [
+    "planned vs done",
+    "plan",
+    "evening",
+    "bonus wins",
+    "new feature",
+    "update",
+    "story"
+   ],
+   "hashtags": [],
+   "id": "img-planned-2",
+   "title": "New: Planned vs done (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-planned-2/Story-Planned-vs-done-mwc17238.png",
+     "kind": "image",
+     "name": "Story - Planned vs done.png"
+    }
+   ],
+   "created": "2026-11-11T11:24:07.892Z",
+   "thumb": "thumbs/img-planned-2-mwc17238.jpg"
+  },
   {
    "tags": [
     "bloom",
