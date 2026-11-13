@@ -111,6 +111,7 @@ const CAROUSELS = [
 
 // Single images with a caption file next to them (header lines, a blank line, then the caption)
 const SINGLES = [
+  ['img-work-apps-down', 'Work apps down? Open this one instead', ['Work apps down/Feed - Work apps down.png', 'Work apps down/Story - Work apps down.png'], 'Work apps down/Work apps down - caption.txt', 'work apps down, outage, meme, timely, work, inbox, story, fold one load'],
   ['reel-planned', 'New: Planned vs done', ['Planned vs done/Reel - Planned vs done.mp4'], 'Planned vs done/Reel - Planned vs done - caption.txt', 'planned vs done, plan, evening, bonus wins, new feature, update, reel, animation'],
   ['img-planned', 'New: Planned vs done', ['Planned vs done/Feed - Planned vs done.png', 'Planned vs done/Story - Planned vs done.png'], 'Planned vs done/Planned vs done - caption.txt', 'planned vs done, plan, evening, bonus wins, new feature, update, story'],
   ['reel-bloom', 'New: Today’s bloom', ['Bloom/Reel - Today’s bloom.mp4'], 'Bloom/Reel - Today’s bloom - caption.txt', 'bloom, wins, flower, no streaks, new feature, update, reel, animation'],
