@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-13T13:48:55.427Z",
+ "updated": "2026-11-13T14:29:30.168Z",
  "items": [
+  {
+   "tags": [
+    "calm mode",
+    "lagoon",
+    "colors",
+    "less",
+    "minimal",
+    "switches",
+    "new feature",
+    "update",
+    "reel",
+    "animation"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#autistic",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "reel-calm",
+   "title": "New: Calm mode",
+   "type": "reel",
+   "caption": "New in Level Vibes: Calm mode. 🌊 Just the picker: tap your energy, get one thing. No extra buttons, in calm new colors. Want a few extras back? Every one has its own switch, so the app looks the way that works for you.\n\nThis one came from a follower's feedback. Thank you, it made the app better. 💚\n\nFree update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/reel-calm/Reel-Calm-mode-mwf2onod.mp4",
+     "kind": "video",
+     "name": "Reel - Calm mode.mp4"
+    }
+   ],
+   "created": "2026-11-13T14:27:45.985Z",
+   "thumb": "thumbs/reel-calm-mwf2onod.jpg"
+  },
+  {
+   "tags": [
+    "calm mode",
+    "lagoon",
+    "colors",
+    "less",
+    "minimal",
+    "switches",
+    "new feature",
+    "update",
+    "feedback"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#autistic",
+    "#calm",
+    "#indieapp"
+   ],
+   "id": "car-calm",
+   "title": "New: Calm mode",
+   "type": "carousel",
+   "caption": "Same app, less on the screen. 🌊 Calm mode keeps just the picker, in a new set of colors called Lagoon. Turn on only the extras that help you, and the rest stays out of the way. Turning something off only hides it, so nothing is lost.\n\nFind it in Me, under Calm mode and what's on. Free update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/car-calm/01-mwf2muyc.png",
+     "kind": "image",
+     "name": "01.png"
+    },
+    {
+     "src": "media/car-calm/02-mwf2mv6k.png",
+     "kind": "image",
+     "name": "02.png"
+    },
+    {
+     "src": "media/car-calm/03-mwf2mve6.png",
+     "kind": "image",
+     "name": "03.png"
+    },
+    {
+     "src": "media/car-calm/04-mwf2mvl7.png",
+     "kind": "image",
+     "name": "04.png"
+    }
+   ],
+   "created": "2026-11-13T14:27:43.284Z",
+   "thumb": "thumbs/car-calm-mwf2muyc.jpg"
+  },
+  {
+   "tags": [
+    "calm mode",
+    "lagoon",
+    "colors",
+    "less",
+    "minimal",
+    "new feature",
+    "update",
+    "story"
+   ],
+   "hashtags": [
+    "#LevelVibes",
+    "#adhd",
+    "#autistic",
+    "#indieapp",
+    "#appupdate"
+   ],
+   "id": "img-calm-1",
+   "title": "New: Calm mode (feed post)",
+   "type": "image",
+   "caption": "New: Calm mode. 🌊 Just the picker, in calm new colors. You choose what else stays. Free update, out now. Link in bio. 💚💛❤️",
+   "media": [
+    {
+     "src": "media/img-calm-1/Feed-Calm-mode-mwf2mufc.png",
+     "kind": "image",
+     "name": "Feed - Calm mode.png"
+    }
+   ],
+   "created": "2026-11-13T14:27:42.600Z",
+   "thumb": "thumbs/img-calm-1-mwf2mufc.jpg"
+  },
+  {
+   "tags": [
+    "calm mode",
+    "lagoon",
+    "colors",
+    "less",
+    "minimal",
+    "new feature",
+    "update",
+    "story"
+   ],
+   "hashtags": [],
+   "id": "img-calm-2",
+   "title": "New: Calm mode (story)",
+   "type": "story",
+   "caption": "Story: no caption needed. Add a link sticker (levelvibes.app) if you like.",
+   "media": [
+    {
+     "src": "media/img-calm-2/Story-Calm-mode-mwf2munc.png",
+     "kind": "image",
+     "name": "Story - Calm mode.png"
+    }
+   ],
+   "created": "2026-11-13T14:27:42.888Z",
+   "thumb": "thumbs/img-calm-2-mwf2munc.jpg"
+  },
   {
    "tags": [
     "work apps down",

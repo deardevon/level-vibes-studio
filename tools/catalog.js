@@ -93,6 +93,7 @@ const OTHER_REEL_CAPTIONS = {
 
 // Carousels from the content list: id, title, folder in Social 1.1/Carousels, search tags
 const CAROUSELS = [
+  ['car-calm', 'New: Calm mode', 'Calm mode', 'calm mode, lagoon, colors, less, minimal, switches, new feature, update, feedback'],
   ['car-planned', 'New: Planned vs done', 'Planned vs done', 'planned vs done, plan, evening, bonus wins, new feature, update, plus pack'],
   ['car-bloom', 'New: Today’s bloom', 'Bloom', 'bloom, wins, flower, no streaks, new feature, update, small wins'],
   ['car-brain-dump', 'New: Brain dump', 'Brain dump', 'brain dump, today, orbit, planning, new feature, update, have to'],
@@ -111,6 +112,8 @@ const CAROUSELS = [
 
 // Single images with a caption file next to them (header lines, a blank line, then the caption)
 const SINGLES = [
+  ['reel-calm', 'New: Calm mode', ['Calm mode/Reel - Calm mode.mp4'], 'Calm mode/Reel - Calm mode - caption.txt', 'calm mode, lagoon, colors, less, minimal, switches, new feature, update, reel, animation'],
+  ['img-calm', 'New: Calm mode', ['Calm mode/Feed - Calm mode.png', 'Calm mode/Story - Calm mode.png'], 'Calm mode/Calm mode - caption.txt', 'calm mode, lagoon, colors, less, minimal, new feature, update, story'],
   ['img-work-apps-down', 'Work apps down? Open this one instead', ['Work apps down/Feed - Work apps down.png', 'Work apps down/Story - Work apps down.png'], 'Work apps down/Work apps down - caption.txt', 'work apps down, outage, meme, timely, work, inbox, story, fold one load'],
   ['reel-planned', 'New: Planned vs done', ['Planned vs done/Reel - Planned vs done.mp4'], 'Planned vs done/Reel - Planned vs done - caption.txt', 'planned vs done, plan, evening, bonus wins, new feature, update, reel, animation'],
   ['img-planned', 'New: Planned vs done', ['Planned vs done/Feed - Planned vs done.png', 'Planned vs done/Story - Planned vs done.png'], 'Planned vs done/Planned vs done - caption.txt', 'planned vs done, plan, evening, bonus wins, new feature, update, story'],

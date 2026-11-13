@@ -110,7 +110,7 @@ function split(items) {
   for (const f of fs.readdirSync(path.join(ROOT, 'thumbs'))) if (!used.has(`thumbs/${f}`)) { fs.unlinkSync(path.join(ROOT, 'thumbs', f)); removed++; }
   if (removed) console.log(`removed ${removed} unused files`);
   // Pinned at the top, in this order (the 2.0 rollout: coming soon, then the announcement); the rest newest first
-  const TOP = ['img-work-apps-down', 'reel-planned', 'car-planned', 'img-planned', 'reel-bloom', 'car-bloom', 'img-bloom', 'reel-brain-dump', 'car-brain-dump', 'img-brain-dump', 'reel-break-it-down', 'car-break-it-down', 'img-break-it-down', 'car-coming-soon', 'reel-coming-soon', 'reel-sneak-peek', 'img-coming-soon', 'reel-1-2-announcement', 'car-level-vibes-1-2', 'img-1-2-announcement', 'img-android-in-the-works'];
+  const TOP = ['reel-calm', 'car-calm', 'img-calm', 'img-work-apps-down', 'reel-planned', 'car-planned', 'img-planned', 'reel-bloom', 'car-bloom', 'img-bloom', 'reel-brain-dump', 'car-brain-dump', 'img-brain-dump', 'reel-break-it-down', 'car-break-it-down', 'img-break-it-down', 'car-coming-soon', 'reel-coming-soon', 'reel-sneak-peek', 'img-coming-soon', 'reel-1-2-announcement', 'car-level-vibes-1-2', 'img-1-2-announcement', 'img-android-in-the-works'];
   const rank = (i) => { const k = TOP.findIndex((t) => i.id === t || i.id.startsWith(t + '-')); return k < 0 ? TOP.length : k; };
   items.sort((a, b) => rank(a) - rank(b) || (rank(a) < TOP.length ? a.id.localeCompare(b.id) : (b.created || '').localeCompare(a.created || '')));
   fs.writeFileSync(path.join(ROOT, 'catalog.json'), JSON.stringify({ updated: new Date().toISOString(), items }, null, 1));
